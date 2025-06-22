@@ -1,0 +1,25 @@
+function CountingSort(input_array, k) {
+  // k is the maximum value in the input array
+  
+  // 1. Create a count array to store the frequency of each element
+  count_array = new array of k+1 zeros
+  
+  // 2. Count the frequency of each element in the input array
+  for each element in input_array:
+    count_array[element]++
+  
+  // 3. Calculate the cumulative count (prefix sum) in the count array
+  for i = 1 to k:
+    count_array[i] = count_array[i] + count_array[i-1]
+  // 4. Create a sorted array
+  sorted_array = new array of same size as input_array
+  
+  // 5. Place elements in the sorted array based on their cumulative counts
+  for each element in input_array (reverse order):
+    index_in_sorted = count_array[element] - 1                                                  // Get the correct index
+    sorted_array[index_in_sorted] = element                                                      // Place the element
+    count_array[element]--                                                                                 // Decrement count to handle duplicates
+    
+  return sorted_array
+}
+
