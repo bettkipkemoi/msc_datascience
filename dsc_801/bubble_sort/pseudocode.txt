@@ -1,0 +1,21 @@
+def bubble_sort(array):
+    size = len(array)
+    #outer loop
+    for i in range(size):
+        #initialize a flag
+        swapped = False
+        #inner looop
+        for i in range(0, size-i-1):
+            #compare adjacent elements
+            if array(j) > array(j+1):
+                #swap array(j) and array(j+1)
+                #python syntax of swapping 2 items in an array
+                array(j), array(j+1) = array(j+1), array(j)
+                #set the swapped flag to true
+                swapped=True
+
+        #if no two elements were swapped in the inner loop, the array is sorted
+        if swapped==True:
+            break
+
+    return array
