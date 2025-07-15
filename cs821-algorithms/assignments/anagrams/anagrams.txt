@@ -1,0 +1,38 @@
+FUNCTION is_anagram(s1, s2):
+    // Step 1: Handle edge cases
+    IF s1 is empty AND s2 is empty THEN
+        RETURN True
+    IF length of s1 != length of s2 THEN
+        RETURN False
+    
+    // Step 2: Preprocess strings (lowercase, keep only alphabetic characters)
+    s1 = convert_to_lowercase(s1)
+    s2 = convert_to_lowercase(s2)
+    s1 = keep_only_alphabetic(s1)
+    s2 = keep_only_alphabetic(s2)
+    
+    // Step 3: Check lengths after preprocessing
+    IF length of s1 != length of s2 THEN
+        RETURN False
+    
+    // Step 4: Create frequency dictionary for s1
+    freq_s1 = empty dictionary
+    FOR each character c in s1:
+        IF c in freq_s1 THEN
+            freq_s1[c] = freq_s1[c] + 1
+        ELSE
+            freq_s1[c] = 1
+    
+    // Step 5: Update frequency dictionary for s2
+    FOR each character c in s2:
+        IF c not in freq_s1 THEN
+            RETURN False
+        freq_s1[c] = freq_s1[c] - 1
+        IF freq_s1[c] == 0 THEN
+            REMOVE c from freq_s1
+    
+    // Step 6: Check if all characters matched
+    IF freq_s1 is empty THEN
+        RETURN True
+    ELSE
+        RETURN False
