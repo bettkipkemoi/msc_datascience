@@ -1,0 +1,20 @@
+FUNCTION LinearSearch(array, target)
+    FOR each index i from 0 to length(array) - 1
+        IF array[i] equals target
+            RETURN i
+        END IF
+    END FOR
+    RETURN -1 // Target not found
+END FUNCTION
+
+
+FUNCTION BubbleSort(array)
+    FOR i from 0 to length(array) - 1
+        FOR j from 0 to length(array) - i - 2
+            IF array[j] > array[j+1]
+                SWAP array[j] and array[j+1]
+            END IF
+        END FOR
+    END FOR
+    RETURN array
+END FUNCTION
