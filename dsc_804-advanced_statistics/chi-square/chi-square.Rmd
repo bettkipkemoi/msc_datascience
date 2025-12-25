@@ -1,0 +1,92 @@
+---
+title: "Chi-Square Test for Independence and Chi-Square Goodness-of-Fit Test"
+author: "Bett"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Chi-Square Test for Independence and the Chi-Square Goodness-of-Fit Test
+## Chi-Square Test for Independence
+The dataset UCBAdmissions contains data on the number of admissions and rejections at UC Berkeley, categorized by gender and department. Your task is to test whether there is a relationship between gender and admission status.
+
+1. load the dataset (inbuilt in r)
+
+```{r loading datasets}
+library(datasets)
+data("UCBAdmissions")
+```
+
+```{r exploring the dataset}
+str(UCBAdmissions)
+sum(UCBAdmissions)
+margin.table(UCBAdmissions, 1)
+margin.table(UCBAdmissions, 2:3)
+```
+
+2. Create a contingency table to summarize the number of admissions and rejections by gender and department
+
+```{r contigency table by gender}
+gender_admit <- margin.table(UCBAdmissions, c(1, 2))  # 1=Admit, 2=Gender
+print(gender_admit)
+# admission rates by gender
+prop.table(gender_admit, margin = 2)
+```
+3. Perform Chi-Square Test to assess if there is an association between gender and admission status
+
+```{r chi-square test}
+chi_test <- chisq.test(gender_admit, correct = FALSE)
+print(chi_test)
+```
+
+_Interpretation_
+
+4. Interpret the results, including: • The Chi-Square statistic. • The degrees of freedom. • The p-value. • What does the p-value tell you about the relationship between gender and admission status? 
+
+Chi-Sqaure statistic is 92.205, degrees of freedom 1, and p-value < 2.2e-16. The p-value tells us the probability of observing a Chi-Square statistic at least as extreme as 92.205 under the null hypothesis that gender and admission status are independent. Since the p-value is essentially zero (much less than any conventional significance level like 0.05), we have very strong evidence to reject the null hypothesis. This indicates a statistically significant association between gender and admission status overall.
+
+5. Are the variables gender and admission status independent, based on your test result?
+
+No, based on the test result. The variables are not independent; there is a significant relationship.
+
+## Chi-Square Goodness-of-Fit Test
+The dataset HairEyeColor contains data on the distribution of hair and eye color for a group of individuals. Your task is to test whether the distribution of eye color follows a uniform distribution (i.e., each eye color occurs with equal frequency)
+
+1. Load the dataset HairEyeColor
+
+```{r load the dataset}
+library(datasets)
+data("HairEyeColor")
+```
+
+```{r exploring the data}
+summary(HairEyeColor)
+HairEyeColor
+```
+
+2. Create a frequency table for the EyeColor variable (ignoring hair color)
+
+```{r frequency table}
+eye_freq <- margin.table(HairEyeColor, 3)  # Margin 3 corresponds to Eye color
+eye_freq
+```
+
+3. Assume that the eye colors are equally likely, i.e., the expected frequency for each eye color should be the total number of observations divided by the number of categories (eye colors)
+
+```{r goodness-of-fit}
+# Perform Chi-Square Goodness-of-Fit Test
+chi_test <- chisq.test(eye_freq)
+
+# Display results
+chi_test
+```
+
+_Interpretation_
+
+5. Interpret the results, including: • The Chi-Square statistic. • The degrees of freedom. • The p-value. • What does the p-value tell you about the distribution of eye color?
+
+Chi-Square statistic: 137.3314, Degrees of freedom: 3, and p-value: < 2.2 × 10^16. The p-value is the probability of observing a Chi-Square statistic as extreme as (or more extreme than) 137.33 under the null hypothesis that eye colors are uniformly distributed. Since the p-value is far below any conventional significance level (such as 0.05, 0.01, or even 0.001), we have strong evidence to reject the null hypothesis. This means the distribution of eye colors is significantly different from a uniform distribution. In particular, Brown and Blue are much more common than expected, while Hazel and Green are considerably less common.
+
+Conclusion: Eye color does not follow a uniform distribution in this dataset.
+
+
+

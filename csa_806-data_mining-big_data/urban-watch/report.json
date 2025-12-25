@@ -1,0 +1,14 @@
+{
+  "video": "simulated_input.mp4",
+  "processed_frames": 50,
+  "total_people_observations": 0,
+  "total_vehicle_observations": 0,
+  "hotspots": [],
+  "recommendations": [
+    "Increase patrol presence and lighting in identified hotspots (grid cells with high people counts).",
+    "Install time-limited parking restrictions and signage at bus_stop / market areas; enforce to reduce illegal parking.",
+    "Deploy crowd management protocols (additional personnel, temporary barriers) during peak times identified by spikes in crowd alerts.",
+    "Use real-time alerts to dispatch response teams for loitering and stationary vehicles, and integrate with local traffic enforcement.",
+    "Complement camera analytics with anonymization (blurring faces) and data governance policies to protect privacy."
+  ]
+}

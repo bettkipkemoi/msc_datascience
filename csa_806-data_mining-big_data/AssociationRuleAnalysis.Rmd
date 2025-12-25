@@ -1,0 +1,87 @@
+---
+title: "Association Rule Analysis"
+author: "Bett, Ong'aro, Faith, Dennis"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Association Rule Analysis
+
+Association rule analysis, also referred to as affinity analysis or market basket analysis, is a widely used unsupervised data mining technique. It is essentially a “what goes with what” study designed to identify events that tend to occur together. In a classic application of association rule analysis, retail companies seek to identify products that consumers tend to purchase together. This type of information is useful to retail store managers when they display products next to each other on the shelf or when they develop promotional campaigns to cross-sell (encourage a customer to purchase complementary products or services) or up-sell (encourage a customer to purchase higher-end products or services).
+
+The simplest way to understand an association rule is to think of it as an If-Then statement. Association rules rely on If-Then logic to discover hidden relationships among transactions (or observations or records) in a data set.
+
+Association rule analysis is a series of If-Then logical statements that represent relationships among different items or item sets. The analysis is designed to identify hidden patterns and co-occurring events in data.
+
+## ANTECEDENT AND CONSEQUENT
+
+In an If-Then logical statement, the item or item set in the If portion of the statement is called the antecedent, and the item or item set in the Then portion of the statement is called the consequent.
+
+There are several algorithms that can be used to perform association rule analysis in a more efficient manner. They all focus on the frequency of item sets. One of the most widely used methods is called the Apriori algorithm. The Apriori algorithm is designed to recursively generate item sets that exceed a predetermined frequency threshold; the term support of the item or item set is often used synonymously with the frequency of the item or item set. The Apriori method allows us to set a minimum support value, below which an item or item set is excluded, thus making the analysis more computationally feasible. For example, if it is found that smartwatches are included in 2,000 of the 10,000 transactions, then the support of smartwatches is calculated as 2,000/10,000 = 0.20. The Apriori method eliminates infrequent items that are below a predetermined frequency threshold, and makes it easier to analyze relevant information in a large data set with thousands of items and millions of transactions.
+
+## THE APRIORI ALGORITHM
+
+The Apriori algorithm eliminates items or item sets that do not meet a predetermined frequency threshold in order to reduce the computational intensity of the association rule analysis.
+
+With enough data, we can propose many of these If-Then association rules. However, we need a way to evaluate the effectiveness of these rules; this is the strength of association among products. Only the strong associations that occur frequently have the potential to reappear consistently in the future and lead to financially rewarding strategies. The support of the association rule is a ratio of the number of transactions that include all the items mentioned in the If-Then statement to the total number of transactions. In other words, we examine the probability of the If-Then statement in the data set. The support of the association rule is calculated as:
+
+### support = (no of transactions including both antecedent and consequent)/ (total no of transactions)
+
+The confidence of the association rule is another measure that is interpreted as a conditional probability of the consequent occurring, given that the antecedent occurs. The confidence of the association rule is calculated as:
+
+### confidence = (no of transactions including both antecedent and consequent)/ (total no of transactions including antecedent)
+
+Naturally, a retailer would look for an association rule that has high support and confidence values as they suggest strong associations that occur frequently. However, sometimes, simply looking at support and confidence to determine the strength of association can be misleading. For example, suppose a store in town offers the lowest prices on banana and milk, which attracts many customers to the store to purchase these two items. As a result, you will get high support and confidence values for the {banana} =\> {milk} association simply because a large percent of customers purchase these two items. In this case, there is not necessarily a relationship between the two items. In order to avoid this common trap in association rules, we often turn to the lift ratio to evaluate the strength of the association. The lift ratio explicitly compares the confidence with a benchmark value called “expected confidence.” It is calculated as:
+
+### lift ratio = confidence / expected confidence
+
+where 
+#### expected confidence = no of transactions including consequent / total number of transactions
+
+The lift ratio is a useful measure that compares the confidence of the association rule with the overall unconditional probability. A lift ratio of 1 suggests that the level of association between the antecedent and the consequent is just as likely as if there was no rule at all. A strong and positive association rule should demonstrate a better outcome (i.e., confidence) than the overall probability (i.e., expected confidence), and, therefore, we should expect a lift ratio to be greater than 1 if a strong and positive association exists. The higher the lift ratio, the stronger the association between the antecedent and consequent. Conversely, a lift ratio between 0 and 1 indicates a negative association. The closer the lift ratio is to 0, the stronger the negative association between the antecedent and consequent is. In practice, a common approach used in association rule analysis is to sort all the rules by lift ratio in descending order and focus on strong associations only.
+
+# ASSESSING AN ASSOCIATION RULE
+
+An association rule can be evaluated using quantitative measures such as the support of the association rule, the confidence of the association rule, and the lift ratio.
+
+Support values that are closer to one are preferred to values closer to 0 because they suggest high occurrence frequency of the association rule.
+
+Confidence values that are closer to one are preferred to values closer to 0 because they suggest strong associations.
+
+A lift ratio greater than 1 implies a strong and positive association. A lift ratio between 0 and 1 indicates a negative relationship.
+
+# Example in R
+
+```{r import_data}
+library(arules)
+library(arulesViz)
+myData1 = read.transactions("Breakfast_Transactions.csv")
+summary(myData1)
+```
+
+```{r rules}
+rules1 <- apriori(myData1,parameter = list(supp = 0.01, conf = 0.2, minlen = 2))
+```
+
+### order the rules by lift
+
+```{r order}
+srules1 <- sort(rules1, by = "lift")
+inspect(head(srules1)) #output the rules
+```
+
+### Which two rules have the highest lifts, and what are those lift values?
+
+{juice bread,,,,,,}=\>{orange} and {juice,,,,,,}=\>{orange}, lift values = 6.797753 and 5.523174 respectively.
+
+It means that the most frequent item sets sold have the set of rules implied.
+
+### What are the support and confidence of those two rules? Explain what this means in layman's terms.
+
+Support = 0.01983471 and 0.02148760, confidence = 1.0000000 and 0.8125000 respectively.
+
+It means that the subsets of the frequent item set are themselves frequent
+
+### How will you encourage more sales of each of these items?
+
+You can filter, sort and arrange them to have juice and bread more conspicuous to the buyers.
