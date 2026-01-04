@@ -1,3 +1,4 @@
+# All MSC Course-Work Projects
 In the subfolders, all the implementations of the taught algorithms, theories, concepts and methods are outlined. The questions associated with codes are also attached for easier reference. I will continue updating till all the courses are done.
 # Modules
 1. Design and Analysis of Algorithms - CS_821
