@@ -1,5 +1,4 @@
 streamlit
 pandas
-geopandas
-rasterio
-streamlit-folium
+pyjanitor
+janitor

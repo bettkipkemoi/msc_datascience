@@ -1,0 +1,246 @@
+---
+title: "Multiple Linear Regression Analysis"
+author: "Bett Kipkemoi"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = NA)
+```
+
+# Multiple Linear Regression Analysis
+
+Task: Using publicly available data from the Kaggle Housing Prices Dataset (https://www.kaggle.com/datasets/prevek18/ames-housing-dataset), perform a multiple linear regression analysis to predict the sale price of houses based on features such as Lot Area, Overall Qual, Year Built, Total Bsmt SF, and Gr Liv Area.
+
+To begin, we load libraries that will be necessary for performing data exploration, processing, visualization, model performance and evaluation, then read the data. The glimpse of the data is printed in the last section with the code.
+
+```{r load libraries, include=FALSE}
+library(conflicted)
+library(tidyverse)
+library(readr)
+library(skimr)
+library(car)
+library(performance)
+library(see)
+```
+
+```{r, include=FALSE}
+ames <- read_csv("AmesHousing.csv")
+#glimpse of the data
+glimpse(ames)
+```
+```{r, include=FALSE}
+summary(ames)
+```
+
+
+**Density plot of SalePrice**
+```{r}
+ggplot(ames, aes(SalePrice)) %>%
+  + geom_density() %>%
+  + ggtitle("Density Plot of SalePrice")
+```
+
+**Scatter Plot of SalePrice**
+```{r}
+ggplot(ames, mapping = aes(y=SalePrice, x=Order)) + geom_point()
+```
+
+```{r}
+#check for missing values
+colSums(is.na(ames))
+```
+## Basic Data Preparation
+```{r}
+sum(is.na(ames))
+missing_summary <- ames %>%
+  summarise(across(everything(), ~sum(is.na(.)) / n()))
+# Multiply by 100 for percentages
+percentages_summary <- missing_summary * 100
+print(percentages_summary)
+```
+
+```{r}
+#nicer column names
+library(janitor)
+ames <- ames %>% 
+  janitor::clean_names()
+head(ames, 5)
+```
+
+
+```{r cleaning}
+ames_clean <- ames %>%
+  mutate(
+    # NA really means "None" (categorical)
+    across(
+      c(alley, pool_qc, fence, misc_feature, 
+        fireplace_qu, garage_type, garage_finish, garage_qual, garage_cond,
+        bsmt_qual, bsmt_cond, bsmt_exposure, bsmt_fin_type_1, bsmt_fin_type_2,
+        mas_vnr_type),
+      ~ replace_na(., "None") %>% as.factor()
+    ),
+    
+    # NA means "no feature", 0 (numeric)
+    across(
+      c(garage_cars, garage_area, 
+        bsmt_full_bath, bsmt_half_bath, 
+        bsmt_fin_sf_1, bsmt_fin_sf_2, bsmt_unf_sf, total_bsmt_sf,
+        mas_vnr_area),
+      ~ replace_na(., 0)
+    ),
+    
+    # using median-imputation for lot_frontage
+    lot_frontage = replace_na(lot_frontage, median(lot_frontage, na.rm = TRUE)),
+
+    
+    # Garage Yr Blt, same as Year Built if missing (or 0)
+    garage_yr_blt = coalesce(garage_yr_blt, year_built),
+    
+    # Electrical → very few missing → just mode
+    electrical = replace_na(electrical, "SBrkr") %>% as.factor(),
+    
+    # Year remod/add, if no remodel, = year built
+    year_remod_add = if_else(year_remod_add == 1950 & year_built < 1950,
+                             year_built,
+                             year_remod_add)
+  )%>%
+  
+  # drop unnecessary columns (granular & time-based)
+  select(-order, -pid)
+
+# Final check 
+colSums(is.na(ames_clean))
+  
+```
+
+```{r fitting regression model}
+library(MASS)
+attach(ames_clean)
+model <- lm(sale_price ~ ., data = ames_clean) %>% 
+  step(direction = "backward", trace = 0) %>% 
+  summary()
+model
+```
+```{r}
+mreg <- lm(sale_price ~ ., data = ames_clean)
+stepwise <- step(mreg, direction = "backward", trace = 0)
+summary(stepwise)
+```
+```{r, warning=FALSE}
+# Quick diagnostic checks
+mean_residuals <- mean(residuals(model1))
+cat("Mean of residuals: ", mean_residuals)
+
+plot(stepwise)
+
+```
+```{r}
+plot(fitted(stepwise), residuals(stepwise), 
+     main = "Residuals vs Fitted Values",
+     xlab = "Fitted Values", ylab = "Residuals")
+abline(h = 0, col = "red", lty = 2)
+```
+```{r, message=FALSE}
+# Scale-Location plot
+plot(fitted(stepwise), sqrt(abs(rstandard(stepwise))), 
+     main = "Scale-Location Plot",
+     xlab = "Fitted Values", ylab = "Standardized Residuals")
+lines(lowess(fitted(stepwise), sqrt(abs(rstandard(stepwise)))), col = "red")
+
+# Formal tests for heteroscedasticity
+library(lmtest)
+bp_test <- bptest(stepwise)
+cat("Breusch-Pagan test for heteroscedasticity:\n")
+print(bp_test)
+```
+
+
+```{r}
+# 3. Normality of Residuals
+cat("Normality of Residuals Assumption")
+
+# Visual check
+par(mfrow = c(1, 2))
+hist(residuals(stepwise), 
+     main = "Histogram of Residuals",
+     xlab = "Residuals", freq = FALSE)
+lines(density(residuals(stepwise)), col = "blue", lwd = 2)
+curve(dnorm(x, mean = mean(residuals(stepwise)), sd = sd(residuals(stepwise))), 
+      add = TRUE, col = "red", lty = 2, lwd = 2)
+legend("topright", c("Density", "Normal"), 
+       col = c("blue", "red"), lty = c(1, 2), lwd = 2)
+
+# Q-Q plot
+qqnorm(residuals(stepwise))
+qqline(residuals(stepwise), col = "red")
+
+# Formal tests for normality
+library(nortest)
+ks_test <- lillie.test(residuals(stepwise))
+
+cat("Kolmogorov-Smirnov test for normality:\n")
+print(ks_test)
+```
+```{r}
+m1 <- attributes(alias(stepwise)$Complete)$dimnames[[1]]
+#run model again
+fit.new <- lm(m1)
+vif(fit.new)
+```
+
+```{r}
+corr_matrix <- cor(ames_clean["sale_price", c("ms_sub_class", "lot_frontage", "lot_area", "street", "land_contour", "lot_config", "land_slope", "neighborhood", "condition_1", "condition_2", "overall_qual", "overall_cond", "year_built", "year_remod_add", "roof_matl", "exterior_1st", "mas_vnr_type", "mas_vnr_area", "exter_qual", "bsmt_qual", "bsmt_exposure", "bsmt_fin_type_1", "bsmt_fin_sf_1", "bsmt_fin_type_2", "bsmt_fin_sf_2", "bsmt_unf_sf", "heating_qc", "central_air", "x1st_flr_sf", "x2nd_flr_sf", "low_qual_fin_sf", "bsmt_full_bath", "full_bath", "half_bath", "bedroom_abv_gr", "kitchen_abv_gr", "kitchen_qual", "tot_rms_abv_grd", "functional", "fireplaces", "fireplace_qu", "garage_finish", "garage_cars", "garage_area", "garage_qual", "garage_cond", "wood_deck_sf", "screen_porch", "pool_qc", "misc_feature", "yr_sold", "sale_condition")])
+print(corr_matrix)
+```
+
+
+```{r}
+# Additional modern checks (recommended)
+check_model(stepwise)    # from performance package - very informative!
+
+# 8. Check multicollinearity (VIF)
+vif(stepwise)            # values > 5–9 are concerning, warrants investigation, >10 usually bad
+```
+
+# 9. Alternative: more parsimonious / cleaner model (popular in Kaggle)
+model2 <- lm(log(Sale_Price) ~ Overall.Qual + 
+                           Gr.Liv.Area + 
+                           Neighborhood + 
+                           Year.Built + 
+                           Total.Bsmt.SF + 
+                           Garage.Cars + 
+                           BsmtFin.SF.1 + 
+                           Exter.Qual + 
+                           Kitchen.Qual + 
+                           Fireplace.Qu + 
+                           Central.Air,
+             data = ames_clean)
+
+summary(model2)
+check_model(model2)
+
+# 10. Compare models (if you want)
+AIC(model1, model2)
+BIC(model1, model2)
+
+# Quick comparison table
+performance_compare(model1, model2)
+
+cat("\nMost people get much better results when they:\n")
+cat("1. Use log(Sale_Price) as target\n")
+cat("2. Do careful feature engineering\n")
+cat("3. Handle ordinal variables properly (Exter.Qual, Kitchen.Qual etc.)\n")
+cat("4. Deal with interactions (especially Qual × Area)\n")
+```
+
+
+
+## R Code
+```{r ref.label=knitr::all_labels(), echo=TRUE, eval=FALSE}
+```
+
+## Ouput
+```{r ref.label=knitr::all_labels(), echo=FALSE, eval=TRUE, message=FALSE}
+```

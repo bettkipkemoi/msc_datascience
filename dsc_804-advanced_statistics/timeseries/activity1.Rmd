@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
-```{r}
+```{r load libraries, include=FALSE}
 library(forecast)
 library(tseries)
 ```
@@ -39,7 +39,7 @@ births_ts <- ts(data$Births, start=c(1959,1), frequency=365)
 We can use the Augmented Dickey-Fuller (ADF) test:
 ```{r}
 adf_result <- adf.test(births_ts)
-adf_result
+print(adf_result)
 ```
 
 _Interpretation:_

@@ -1,8 +1,8 @@
 # import necessary libraries
 import streamlit as st
-import geopandas as gpd
-import folium
-from streamlit_folium import st_folium
+#import geopandas as gpd
+#import folium
+#from streamlit_folium import st_folium
 import pandas as pd
 import plotly.express as px
 
@@ -11,7 +11,7 @@ st.set_page_config(page_title="Monthly Volume of Airline Passengers in 90 Countr
 st.title("Global Flight Data Visualization")
 
 url = 'https://raw.githubusercontent.com/bettkipkemoi/msc_datascience/refs/heads/main/dsc_808-bi_data_analytics/interactive-dashboard/monthly_vol_of_airline_pass_in_90_countries_2010_2018.csv'
-geo_url = 'https://github.com/bettkipkemoi/msc_datascience/tree/main/dsc_808-bi_data_analytics/interactive-dashboard/ne_110m_admin_0_countries'
+geo_url = 'https://github.com/bettkipkemoi/msc_datascience/blob/main/dsc_808-bi_data_analytics/interactive-dashboard/ne_110m_admin_0_countries.zip'
 @st.cache_data
 def load_data():
     # load flight data from github repository

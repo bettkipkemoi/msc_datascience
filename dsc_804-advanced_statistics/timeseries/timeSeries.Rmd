@@ -1,0 +1,26 @@
+---
+title: "Time Series Analysis"
+author: "Bett Kipkemoi"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = FALSE)
+```
+
+# Time Series Analysis
+In this exercise, we perform time series analysis of BTC-USD data, downloaded from Kaggle: https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd. 
+
+```{r loading libraries, include=FALSE}
+library(tseries)
+library(forecast)
+library(readr)
+```
+
+```{r load data, include=FALSE}
+df <- read_csv('BTC-Daily.csv')
+head(df)
+str(df)
+```
+
