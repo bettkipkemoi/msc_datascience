@@ -3,9 +3,8 @@ import pandas as pd
 import janitor
 import plotly as plt
 import plotly.express as px
-import requests
-import csv
 
+# Page configuration
 st.set_page_config(
     page_title="Convenience Sales Dashboard",
     page_icon="📊",
