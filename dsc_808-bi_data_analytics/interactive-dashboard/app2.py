@@ -14,7 +14,7 @@ st.title("Convenience Sales Dashboard")
 
 # load data
 #@st.cache_data
-df = pd.read_csv("interactive-dashboard/202445.csv", engine='python', encoding='unicode-escape')
+df = pd.read_csv("bettkipkemoi/msc_datascience/main/dsc_808-bi_data_analytics/interactive-dashboard/202445.csv", engine='python', encoding='unicode-escape')
 df = df.clean_names()
 print(df.columns)
 #remove pounds sign from total sales, avg_basket_size_prod_sales_, and aip columns and convert to numeric
