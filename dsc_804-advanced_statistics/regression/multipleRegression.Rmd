@@ -115,13 +115,20 @@ colSums(is.na(ames_clean))
   
 ```
 
+```{r}
+library(GGally)
+#ggpairs(ames_clean[, -1])
+vif(stepwise)
+```
+
+
 ```{r fitting regression model}
 library(MASS)
 attach(ames_clean)
 model <- lm(sale_price ~ ., data = ames_clean) %>% 
   step(direction = "backward", trace = 0) %>% 
   summary()
-model
+print(model)
 ```
 ```{r}
 mreg <- lm(sale_price ~ ., data = ames_clean)

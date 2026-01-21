@@ -1,0 +1,1465 @@
+Store  ,Format Desc  ,Region ,"Total Sales (Sales Inc VAT, Inc DI)",Completed Order Count,Avg Basket Size (Prod Sales),AIP,IPO,Distinct Customers,Frequency,Avg E2E: total delivery time,DOT% (60 mins),Pick availability (pre-sub),Avg E2E: dispatched to arrived at customer,Avg E2E: pick end to dispatched,Avg E2E: pick trip time,Avg E2E: time at customer door,Avg E2E: time to respond to pick
+2075 Fulmar Drive Express,Convenience North,NORTH EAST,"£1,417",35,£37.32,£2.77,13.5,29,1.2,32.7,89.50%,99.70%,6,21,3,2,1
+2076 Pontefract Express,Convenience North,NORTH EAST,"£4,437",145,£27.70,£2.84,9.8,106,1.4,29.6,93.70%,97.60%,7,14,4,2,3
+2077 Hemlington Express,Convenience North,NORTH EAST,"£3,588",121,£26.49,£2.75,9.6,87,1.4,27.5,99.20%,100.00%,6,15,2,1,3
+2085 Mowmacre Express,Convenience Central,MIDLANDS,"£7,053",227,£27.95,£2.96,9.4,144,1.6,25.2,97.80%,99.80%,9,8,3,2,3
+2086 Reeds Lane Express,Convenience North,NORTH WEST,"£4,171",138,£27.27,£2.63,10.4,93,1.5,30.9,94.20%,99.50%,6,18,3,1,2
+2091 Cottingham Express,Convenience North,NORTH EAST,"£1,315",48,£24.37,£3.44,7.1,30,1.6,21.3,100.00%,97.20%,4,10,3,2,2
+2093 Monks Way Express,Convenience North,NORTH EAST,"£1,984",72,£24.51,£2.21,11.1,54,1.3,25.8,98.60%,95.30%,6,13,4,2,1
+2106 Whiteleas Way Express,Convenience North,NORTH EAST,"£2,407",67,£32.83,£2.81,11.7,58,1.2,34.6,89.40%,98.90%,7,19,4,1,3
+3134 NORTH FELTHAM RD EXP,Convenience London,SOUTH EAST,"£4,454",151,£26.42,£2.91,9.1,108,1.4,24.7,98.00%,97.90%,6,14,3,1,1
+4528 Felmores End Express,Convenience Central,SOUTH EAST,"£14,119",478,£26.37,£2.72,9.7,349,1.4,32.7,98.60%,99.80%,8,17,3,2,2
+4875 Sanderstead Express,Convenience London,SOUTH EAST,"£9,298",313,£26.62,£2.58,10.3,250,1.3,29.9,94.90%,97.90%,7,13,3,1,5
+4901 Victoria Express,Convenience London,GREATER LONDON,"£2,925",91,£29.09,£2.68,10.8,65,1.4,28.5,91.60%,98.70%,6,16,4,1,1
+6496 LDN PENGE HIGH ST EXP,Convenience London,GREATER LONDON,"£2,160",76,£25.33,£2.63,9.6,58,1.3,20.9,98.70%,96.40%,4,8,4,1,4
+6530 168 FULHAM PAL RD EXP,Convenience London,GREATER LONDON,"£1,906",63,£27.43,£2.53,10.8,45,1.4,24.4,96.80%,99.10%,5,11,4,1,3
+6753 WATFORD LANGLEY EXP,Convenience London,SOUTH EAST,"£1,632",49,£30.30,£2.36,12.8,46,1.1,30.5,93.90%,96.90%,4,17,6,2,2
+6755 GLASGOW GT WESTRN EXP,Convenience North,WEST SCOTLAND,£625,17,£33.89,£2.40,14.1,15,1.1,36.6,88.20%,96.80%,4,24,6,1,1
+6763 TOOTING LONDON RD EXP,Convenience London,GREATER LONDON,£991,34,£26.04,£2.14,12.1,27,1.3,21.2,100.00%,98.50%,5,9,3,1,3
+6777 KIDDERMINSTER S R EXP,Convenience Central,MIDLANDS,"£4,400",144,£27.43,£2.56,10.7,94,1.5,25,98.60%,100.00%,5,13,3,2,2
+6820 ASHFORD STAINES EXP,Convenience London,SOUTH EAST,"£15,560",487,£28.86,£2.63,11,337,1.4,21.3,99.60%,98.30%,6,6,4,2,3
+2001 Pittodrie Esso Express,Convenience North,EAST SCOTLAND,"£4,183",123,£31.01,£3.12,9.9,106,1.2,55.5,65.30%,97.20%,8,39,3,3,2
+2003 Twickenham King Street Express,Convenience London,SOUTH EAST,£584,20,£26.34,£2.91,9.1,18,1.1,42,81.00%,99.40%,8,25,4,1,5
+2004 Croydon Addiscombe Esso Express,Convenience London,GREATER LONDON,"£6,873",222,£27.89,£2.59,10.8,161,1.4,24.3,95.50%,98.80%,4,13,3,1,3
+2005 Northampton Abington Esso Express,Convenience Central,MIDLANDS,"£3,570",108,£29.90,£2.53,11.8,83,1.3,24.4,98.10%,98.90%,7,10,3,2,2
+2009 Preston Road Express,Convenience North,NORTH WEST,"£6,722",200,£30.50,£2.32,13.1,160,1.3,32.3,97.00%,98.40%,8,13,4,2,5
+2011 Abergavenny Frogmore Street Express,Convenience South,WALES,"£2,669",76,£32.06,£2.76,11.6,53,1.4,41.4,84.20%,98.50%,6,26,5,2,3
+2012 Acton Esso Express,Convenience London,GREATER LONDON,"£2,810",84,£30.31,£2.61,11.6,72,1.2,26.6,96.50%,99.00%,7,13,3,1,2
+2013 Swindon Abbey Meads Express,Convenience South,SOUTH CENTRAL,"£1,687",55,£27.61,£2.69,10.3,39,1.4,28.5,94.50%,99.10%,7,14,3,2,2
+2018 Dundee Station Express,Convenience North,EAST SCOTLAND,"£1,544",47,£29.94,£2.94,10.2,34,1.4,43,91.30%,99.20%,11,25,3,3,1
+2026 Strutton Ground Express,Convenience London,GREATER LONDON,£593,20,£26.51,£2.34,11.4,16,1.3,25.7,95.00%,99.40%,3,16,4,2,1
+2032 Andover Cricketers Express,Convenience South,SOUTH CENTRAL,"£11,251",388,£25.86,£2.47,10.5,262,1.5,36.9,85.00%,99.20%,6,23,3,2,3
+2034 Keldholme Lane Express,Convenience Central,MIDLANDS,"£1,759",61,£25.86,£2.54,10.2,36,1.7,22.3,96.80%,97.50%,6,12,3,1,1
+2036 Lambs Farm Road Express,Convenience South,SOUTH EAST,"£4,222",126,£30.48,£2.75,11.1,94,1.3,33.7,87.10%,99.60%,5,23,3,2,1
+2043 Aylesbury Jackson Rd Express,Convenience Central,SOUTH EAST,"£6,162",181,£30.95,£2.87,10.8,134,1.4,22.3,100.00%,99.40%,6,8,3,2,2
+2053 Yate Wellington Express,Convenience South,SOUTH CENTRAL,"£1,706",54,£28.40,£2.78,10.2,38,1.4,25.8,94.40%,96.90%,4,16,3,2,1
+2054 Swindon Pinehurst,Convenience South,SOUTH CENTRAL,"£9,337",280,£30.26,£2.77,10.9,204,1.4,25.9,97.90%,98.60%,7,11,4,2,2
+2058 Barking Esso Express,Convenience London,SOUTH EAST,"£6,763",238,£25.45,£2.54,10,159,1.5,28,94.50%,99.10%,7,14,4,1,2
+2059 Bear Cross Express,Convenience South,SOUTH CENTRAL,"£3,797",122,£28.04,£2.65,10.6,79,1.5,36.5,89.40%,99.30%,5,22,4,2,3
+2062 Osidge Hampden Square Express,Convenience London,GREATER LONDON,"£3,134",89,£32.10,£2.75,11.7,64,1.4,19.8,98.90%,99.90%,4,8,4,1,3
+2066 Barnes Esso Express,Convenience London,GREATER LONDON,"£1,716",52,£29.95,£2.54,11.8,39,1.3,32.6,94.20%,97.30%,5,18,5,1,4
+2068 Sinfin Express,Convenience Central,MIDLANDS,"£1,462",49,£26.85,£2.97,9,30,1.6,18.8,100.00%,98.90%,6,7,3,2,1
+2069 Quartz Way,Convenience South,SOUTH EAST,"£4,367",135,£29.32,£2.61,11.2,92,1.5,28.8,94.70%,99.80%,6,15,3,2,3
+2074 Aylestone Lane Express,Convenience Central,MIDLANDS,"£3,482",121,£25.68,£2.64,9.7,89,1.4,22.9,100.00%,98.40%,8,7,3,2,3
+2084 Huyton Hillside Express,Convenience North,NORTH WEST,"£6,699",218,£27.71,£2.76,10.1,159,1.4,32.6,88.00%,98.20%,7,17,3,1,4
+2090 Stretford Road Express,Convenience North,NORTH WEST,"£3,894",127,£27.75,£2.60,10.7,96,1.3,26.8,94.30%,98.80%,5,14,3,1,3
+2097 Bishopsgate Express,Convenience London,GREATER LONDON,£157,3,£49.20,£3.07,16,1,3,33.7,100.00%,92.30%,3,13,9,4,5
+2110 Gillygate York Express,Convenience North,NORTH EAST,"£5,462",179,£27.49,£2.40,11.4,141,1.3,35.8,89.60%,98.90%,11,14,4,1,6
+2111 Broadstone Express,Convenience South,SOUTH CENTRAL,"£5,855",165,£32.43,£2.47,13.1,123,1.3,36,91.00%,99.20%,7,20,4,2,3
+2112 Oldmixon Broadway Express,Convenience South,SOUTH CENTRAL,£357,10,£32.58,£4.23,7.7,9,1.1,43.8,80.00%,100.00%,3,35,3,3,1
+2114 High Street Rayleigh Express,Convenience Central,SOUTH EAST,"£4,156",125,£30.18,£2.58,11.7,93,1.3,33.2,94.40%,99.20%,6,18,4,2,3
+2118 Colchester Express,Convenience Central,SOUTH EAST,"£4,285",134,£28.80,£2.72,10.6,99,1.4,30.8,96.30%,99.80%,9,14,3,2,3
+2119 Marketfield Way Express,Convenience South,SOUTH EAST,"£7,060",211,£30.34,£2.63,11.5,166,1.3,37.9,87.80%,99.60%,7,22,3,3,3
+2121 Blackwood Newport Express,Convenience South,WALES,"£10,814",315,£31.30,£2.70,11.6,233,1.4,32.4,94.00%,97.90%,9,14,4,2,4
+2123 Bower Manor Express,Convenience South,SOUTH CENTRAL,"£1,550",43,£32.85,£2.94,11.2,30,1.4,27.4,100.00%,99.70%,6,12,4,2,4
+2129 Bristol Broadmead Express,Convenience South,SOUTH CENTRAL,"£1,859",50,£34.03,£2.20,15.4,45,1.1,29.4,96.00%,99.70%,8,9,7,2,3
+2133 Moor Lane Express,Convenience North,NORTH WEST,"£1,151",45,£22.50,£2.88,7.8,28,1.6,24.9,100.00%,94.40%,6,10,4,3,3
+2137 Howard Gardens Express,Convenience South,WALES,£282,10,£24.98,£2.66,9.4,10,1,29.9,90.00%,97.70%,5,17,3,1,4
+2145 Wembley Watford Road Express,Convenience London,SOUTH EAST,"£1,179",41,£25.51,£2.21,11.5,28,1.5,25.6,97.60%,97.40%,5,11,4,1,4
+2150 Castle Bromwich Express,Convenience Central,MIDLANDS,"£8,199",238,£31.29,£2.73,11.5,170,1.4,28.2,98.30%,98.90%,9,12,3,1,3
+2159 Birkenhead Express,Convenience North,NORTH WEST,"£10,026",307,£29.77,£2.79,10.7,211,1.5,33.3,91.40%,99.30%,11,16,3,1,2
+2161 Stockwell Esso Express,Convenience London,GREATER LONDON,"£3,634",114,£28.86,£2.41,12,95,1.2,31.4,93.00%,96.80%,6,16,4,2,4
+2175 Bitterne Esso Express,Convenience South,SOUTH CENTRAL,"£4,002",131,£27.34,£2.47,11.1,83,1.6,28,97.10%,97.60%,5,14,4,1,4
+2178 Rochdale Bamford Express,Convenience North,NORTH WEST,"£1,178",44,£23.44,£2.50,9.4,36,1.2,25.8,100.00%,97.40%,6,9,3,2,6
+2181 Bushey Heath Esso Express,Convenience London,SOUTH EAST,"£5,323",134,£36.57,£2.56,14.3,100,1.3,30.1,98.50%,97.80%,5,14,5,2,4
+2183 Basford Esso Express,Convenience Central,MIDLANDS,"£2,721",78,£31.78,£2.61,12.2,63,1.2,22.8,97.50%,100.00%,7,10,3,1,1
+2184 Fir Tree Road Express,Convenience London,SOUTH EAST,"£2,939",86,£30.89,£2.66,11.6,71,1.2,28.3,93.00%,98.90%,6,14,4,2,2
+2185 Bushbury Esso Express,Convenience Central,MIDLANDS,"£4,915",140,£32.11,£2.90,11.1,104,1.3,23.3,94.30%,99.30%,6,12,3,1,2
+2189 Bury Esso Express,Convenience North,NORTH WEST,"£4,676",160,£26.41,£3.00,8.8,104,1.5,29,93.30%,99.30%,6,17,3,1,2
+2191 Banstead Express,Convenience London,SOUTH EAST,"£1,570",56,£24.88,£2.59,9.6,45,1.2,34.8,89.30%,98.70%,6,21,3,2,2
+2192 Bourne Esso Express,Convenience Central,MIDLANDS,"£5,335",170,£28.39,£2.69,10.5,107,1.6,36.7,88.70%,99.70%,6,23,3,2,2
+2194 Bognor Regis Station Rd Express,Convenience South,SOUTH EAST,"£9,924",308,£29.09,£3.05,9.5,225,1.4,29.1,95.20%,98.90%,7,15,3,2,2
+2196 Wilmslow Alderley Rd Express,Convenience North,MIDLANDS,"£4,745",139,£30.98,£2.72,11.4,101,1.4,33,95.00%,98.40%,7,18,3,3,2
+2197 Alkrington Express,Convenience North,NORTH WEST,"£11,425",370,£27.81,£2.90,9.6,276,1.3,32.8,91.40%,98.40%,9,15,3,1,4
+2203 Bromley Esso Express,Convenience London,SOUTH EAST,"£4,817",157,£27.72,£2.78,10,124,1.3,31,91.00%,95.30%,6,17,3,1,4
+2205 Clifton Express,Convenience South,SOUTH CENTRAL,£805,27,£26.97,£2.14,12.6,25,1.1,37.7,80.80%,100.00%,6,24,5,2,1
+2206 Brandlesholme Express,Convenience North,NORTH WEST,"£5,775",167,£31.51,£2.82,11.2,115,1.5,26.1,96.40%,99.10%,7,12,3,1,3
+2207 Durham Claypath Express,Convenience North,NORTH EAST,"£5,191",152,£31.11,£2.39,13,127,1.2,43.7,82.00%,98.80%,8,26,4,2,3
+2208 Bexhill-on-sea Express,Convenience South,SOUTH EAST,"£5,089",180,£25.15,£2.53,10,137,1.3,30.2,96.10%,99.50%,7,16,3,2,2
+2210 Bushfield Centre Express,Convenience Central,MIDLANDS,"£2,646",87,£27.19,£2.76,9.9,60,1.5,26.1,96.60%,98.10%,5,14,3,2,2
+2211 Tooting Balham High Rd Esso Express,Convenience London,GREATER LONDON,"£2,621",74,£32.25,£2.79,11.5,56,1.3,29.2,96.10%,98.00%,6,14,5,1,3
+2213 Camden Esso Express,Convenience London,GREATER LONDON,"£2,023",67,£27.25,£2.41,11.3,49,1.4,24,98.50%,98.60%,5,11,4,2,2
+2216 Petty Cury Express,Convenience Central,EAST ANGLIA,"£1,146",35,£29.57,£3.03,9.8,28,1.3,26.5,97.10%,99.00%,7,14,3,1,2
+2219 Castle Bromwich Green Ln Express,Convenience Central,MIDLANDS,"£1,690",60,£25.05,£2.37,10.6,49,1.2,25.5,96.70%,98.10%,6,12,3,1,4
+2223 Petersfield Charles St Express,Convenience South,SOUTH CENTRAL,"£3,281",112,£26.20,£2.70,9.7,81,1.4,45.2,74.80%,99.70%,5,33,3,2,3
+2225 Cambridge Campkin Rd Express,Convenience Central,EAST ANGLIA,"£5,688",178,£28.89,£2.48,11.6,127,1.4,27.2,95.50%,99.00%,8,12,4,1,3
+2229 Cherry Hinton Express,Convenience Central,EAST ANGLIA,"£6,568",207,£28.66,£2.59,11.1,150,1.4,26.5,95.10%,98.20%,6,11,4,1,3
+2231 Cheney Manor Express,Convenience South,SOUTH CENTRAL,"£2,590",86,£27.04,£2.63,10.3,68,1.3,34.3,95.30%,97.80%,5,23,3,2,1
+2236 Camborne Superstore,Large South,SOUTH WEST,"£9,302",228,£37.81,£2.42,15.6,168,1.4,39.2,89.00%,98.70%,9,20,6,2,3
+2242 Canton Cardiff City Express,Convenience South,WALES,"£2,673",81,£30.05,£2.65,11.3,57,1.4,23.5,98.80%,98.60%,4,10,5,1,3
+2247 Caversham Esso Express,Convenience South,SOUTH EAST,"£2,664",73,£33.41,£2.96,11.3,52,1.4,27,93.20%,99.80%,5,15,3,1,3
+2256 Chelsea Esso Express,Convenience London,GREATER LONDON,"£1,942",51,£35.15,£3.15,11.2,36,1.4,22.6,98.00%,99.10%,5,11,4,1,2
+2257 Chaddesden Esso Express,Convenience Central,MIDLANDS,"£2,613",79,£29.97,£3.05,9.8,59,1.3,25.2,96.20%,99.20%,8,12,3,1,2
+2259 Sutton Malden Rd Esso Express,Convenience London,SOUTH EAST,"£4,062",132,£27.71,£2.61,10.6,89,1.5,24.4,96.20%,99.70%,6,13,3,1,2
+2263 Chesterfield Esso Express,Convenience North,MIDLANDS,"£8,384",226,£34.06,£2.88,11.8,174,1.3,45.7,81.30%,99.30%,6,32,3,2,3
+2265 Bank Express Express,Convenience London,GREATER LONDON,£17,1,£15.89,£0.79,20,1,1,123.7,0.00%,95.20%,11,41,23,4,44
+2271 Cheshunt Superstore,Large South,SOUTH EAST,"£22,681",640,£32.42,£2.64,12.3,468,1.4,29.3,97.40%,99.70%,7,11,4,1,5
+2277 Churchtown Esso Express,Convenience North,NORTH WEST,"£3,298",92,£32.80,£2.36,13.9,73,1.3,42.4,83.90%,99.40%,6,27,4,3,3
+2282 Christchurch Esso Express,Convenience South,SOUTH CENTRAL,"£3,024",97,£28.03,£2.64,10.6,74,1.3,34.6,86.00%,99.30%,5,20,3,2,4
+2285 Chesterfield Clowne Superstore,Large North,MIDLANDS,"£1,835",53,£31.87,£2.50,12.8,42,1.3,47.4,77.10%,93.20%,8,22,10,2,5
+2299 Covent Garden Express,Convenience London,GREATER LONDON,£445,13,£31.33,£3.99,7.8,8,1.6,38.4,85.70%,100.00%,4,22,4,3,6
+2302 Coventry Jubilee Crescent Express,Convenience Central,MIDLANDS,"£11,270",295,£35.14,£2.52,13.9,231,1.3,26.3,99.30%,99.20%,11,6,4,1,4
+2304 Barton Express,Convenience South,SOUTH WEST,"£1,336",47,£25.48,£2.70,9.4,30,1.6,77.4,36.20%,100.00%,5,64,3,2,3
+2309 Hendon Brent St Express,Convenience London,GREATER LONDON,"£14,162",394,£32.89,£2.40,13.7,313,1.3,31.4,91.10%,98.50%,8,15,4,1,3
+2317 Cheadle Hulme Express,Convenience North,MIDLANDS,"£3,074",89,£31.42,£2.58,12.2,68,1.3,33.2,93.30%,98.90%,8,17,4,1,2
+2318 Chessington Hook Express,Convenience London,SOUTH EAST,"£4,089",128,£28.96,£2.57,11.3,95,1.3,26.2,93.00%,100.00%,5,15,3,1,2
+2319 Witney Cogges Hill Express,Convenience Central,SOUTH CENTRAL,£666,26,£22.88,£2.67,8.6,21,1.2,40.4,88.00%,98.40%,5,30,3,2,1
+2331 High Street Sandyford Express,Convenience Central,MIDLANDS,"£3,870",126,£27.53,£2.63,10.5,94,1.3,22.5,97.60%,98.30%,7,7,3,2,3
+2332 Blackpool Ansdell Rd Express,Convenience North,NORTH WEST,"£1,386",49,£25.39,£2.50,10.2,31,1.6,26.9,91.70%,98.60%,3,17,4,1,2
+2333 Yeovil Abbey Manor Express,Convenience South,SOUTH CENTRAL,"£4,337",129,£30.55,£2.76,11.1,92,1.4,41.7,82.20%,99.50%,6,27,4,2,3
+2334 Frimley Balmoral Dr Express,Convenience South,SOUTH EAST,"£5,964",166,£32.81,£2.70,12.2,135,1.2,37.8,89.90%,99.10%,8,22,4,3,1
+2337 Wistaston Express,Convenience Central,MIDLANDS,"£3,964",118,£30.74,£2.96,10.4,88,1.3,36.3,88.10%,99.20%,8,21,3,1,3
+2338 Combe Down Esso Express,Convenience South,SOUTH CENTRAL,"£1,151",29,£36.48,£3.03,12,19,1.5,30.1,100.00%,99.30%,5,17,4,2,1
+2339 Copnor Esso Express,Convenience South,SOUTH CENTRAL,"£4,824",154,£28.18,£2.58,10.9,110,1.4,20.6,99.40%,98.80%,5,9,3,2,3
+2341 Cowley Esso Express,Convenience London,SOUTH EAST,"£8,978",285,£28.43,£2.54,11.2,205,1.4,23.1,98.30%,99.20%,6,9,4,1,3
+2342 Colliers Wood Esso Express,Convenience London,GREATER LONDON,"£3,314",117,£25.26,£2.50,10.1,86,1.4,25.3,99.20%,97.00%,7,11,4,1,2
+2344 Hall Green Stratford Express,Convenience Central,MIDLANDS,"£4,652",129,£32.90,£2.53,13,97,1.3,18.6,100.00%,99.60%,6,7,3,1,1
+2345 Catford Express,Convenience London,GREATER LONDON,"£5,261",166,£28.53,£2.78,10.3,121,1.4,27.3,95.80%,98.50%,6,13,4,1,3
+2346 Abbeymead Mead Rd Express,Convenience Central,SOUTH CENTRAL,"£6,679",218,£27.46,£2.57,10.7,154,1.4,29.1,94.50%,98.00%,7,14,3,2,3
+2347 Blackfield Express,Convenience South,SOUTH CENTRAL,"£5,838",187,£28.14,£2.53,11.1,136,1.4,53.3,65.60%,99.90%,5,40,3,2,3
+2351 Bletchley Melrose Ave Express,Convenience Central,SOUTH EAST,"£5,125",175,£26.09,£2.83,9.2,118,1.5,27.8,98.30%,98.90%,6,15,3,1,2
+2353 Bentley Express,Convenience North,NORTH EAST,"£2,997",96,£28.05,£2.88,9.7,62,1.5,28.6,94.80%,99.50%,6,16,3,2,2
+2356 Chesterton Cirencester Express,Convenience Central,SOUTH CENTRAL,"£6,084",181,£30.66,£2.59,11.8,138,1.3,37.8,86.40%,99.50%,7,24,3,2,2
+2357 Chafford Hundred Express,Convenience Central,SOUTH EAST,"£3,901",140,£24.79,£2.40,10.3,99,1.4,31.2,93.50%,99.90%,7,17,4,1,2
+2359 Bookham Express,Convenience South,SOUTH EAST,"£2,579",91,£25.32,£2.81,9,72,1.3,39.8,91.30%,96.70%,4,28,4,2,2
+2364 Poundhill Express,Convenience South,SOUTH EAST,"£14,362",458,£28.23,£2.61,10.8,318,1.4,27.3,97.60%,99.30%,8,12,3,1,4
+2366 Chilwell Express,Convenience Central,MIDLANDS,"£5,394",167,£29.26,£2.73,10.7,129,1.3,25.1,100.00%,99.50%,8,9,3,2,2
+2367 Church Gresley Express,Convenience Central,MIDLANDS,"£2,395",68,£32.12,£2.94,10.9,51,1.3,26.3,95.60%,99.30%,5,14,3,2,1
+2369 Daventry Ashby Fields Express,Convenience Central,MIDLANDS,"£19,272",613,£28.33,£2.56,11.1,422,1.5,26.6,97.20%,98.90%,6,11,4,2,4
+2373 Dartford Esso Express,Convenience London,SOUTH EAST,"£5,090",167,£27.37,£2.85,9.6,119,1.4,29.2,97.00%,98.50%,6,15,4,1,3
+2374 Hythe Esso Express,Convenience South,SOUTH CENTRAL,"£7,017",223,£28.37,£2.51,11.3,146,1.5,45.7,78.60%,97.80%,6,30,4,2,4
+2376 Didsbury Express,Convenience North,NORTH WEST,"£3,601",110,£29.74,£2.71,11,84,1.3,28.9,92.60%,99.00%,6,18,3,1,1
+2377 Soho Dean Street Express,Convenience London,GREATER LONDON,£823,19,£39.81,£3.44,11.6,13,1.5,27.2,94.70%,98.90%,5,10,3,3,6
+2379 Crawley Downland Dr Express,Convenience South,SOUTH EAST,"£17,117",547,£28.15,£2.36,11.9,398,1.4,26.3,98.20%,99.40%,7,11,4,2,3
+2380 Alvaston Express,Convenience Central,MIDLANDS,"£4,324",138,£28.27,£2.47,11.5,89,1.6,22,98.50%,98.40%,6,8,4,1,3
+2382 Caerphilly Express,Convenience South,WALES,"£2,661",72,£33.84,£2.83,12,53,1.4,28.6,97.20%,99.40%,6,15,4,2,2
+2383 Crouch End Express,Convenience London,GREATER LONDON,"£4,523",132,£31.27,£2.79,11.2,88,1.5,31.4,93.80%,99.00%,6,18,4,1,2
+2386 Dudley Highland Rd Esso Express,Convenience Central,MIDLANDS,"£13,149",382,£31.38,£2.67,11.7,258,1.5,26.2,97.70%,99.40%,9,10,4,1,3
+2404 Derby Mickleover Superstore,Large Central,MIDLANDS,"£6,090",145,£38.91,£2.53,15.4,112,1.3,32.9,96.60%,96.30%,7,10,9,2,5
+2446 East Hunsbury Express,Convenience Central,MIDLANDS,"£12,480",366,£31.03,£2.67,11.6,264,1.4,26.4,97.80%,99.40%,8,12,3,2,2
+2452 Eastleigh The Swan Centre Express,Convenience South,SOUTH CENTRAL,"£4,187",116,£33.13,£2.64,12.5,92,1.3,38.6,87.70%,97.00%,7,20,6,2,4
+2455 Eccles Esso Express,Convenience North,NORTH WEST,"£2,370",75,£28.61,£2.71,10.5,48,1.6,31.6,92.00%,97.70%,6,18,3,1,3
+2456 Edgware Canons Corner Esso Express,Convenience London,SOUTH EAST,"£1,781",62,£25.61,£2.55,10,45,1.4,19.2,96.80%,99.30%,4,9,3,1,2
+2459 Willowbrae Rd Esso Express,Convenience North,EAST SCOTLAND,"£4,495",143,£28.38,£2.66,10.7,107,1.3,38.4,88.10%,97.90%,10,20,4,1,2
+2473 Enfield Esso Express,Convenience London,SOUTH EAST,"£13,595",464,£26.22,£2.47,10.6,322,1.4,27,97.90%,98.30%,8,11,3,1,3
+2475 Emmer Green Esso Express,Convenience South,SOUTH EAST,"£4,855",146,£30.20,£2.57,11.8,109,1.3,25.3,99.30%,99.50%,6,11,3,2,3
+2477 Trowbridge Eastbourne Rd Express,Convenience South,SOUTH CENTRAL,"£5,823",192,£27.37,£2.62,10.4,126,1.5,47.7,74.20%,98.40%,6,33,4,2,2
+2484 Erdington Esso Express,Convenience Central,MIDLANDS,"£3,862",114,£30.97,£2.55,12.1,87,1.3,25.4,98.30%,97.90%,7,11,4,2,2
+2491 Eaton Socon Express,Convenience Central,EAST ANGLIA,"£6,762",197,£31.16,£2.80,11.1,139,1.4,33.2,93.90%,98.50%,7,18,4,2,3
+2492 Bristol Filton Esso Express,Convenience South,SOUTH CENTRAL,"£6,835",216,£28.52,£2.54,11.2,142,1.5,26.9,97.70%,99.80%,9,11,3,1,3
+2493 Shenley Brook End Express,Convenience Central,SOUTH EAST,"£2,499",80,£28.09,£2.40,11.7,57,1.4,24.7,98.80%,99.10%,6,13,3,1,2
+2496 Farlington Express,Convenience South,SOUTH CENTRAL,"£7,523",247,£27.26,£2.74,10,174,1.4,25.6,97.60%,99.50%,7,11,3,2,3
+2498 Market Parade Express,Convenience Central,SOUTH CENTRAL,£373,14,£23.30,£2.65,8.8,10,1.4,27.6,100.00%,98.90%,3,15,4,3,2
+2499 Witney Fettiplace Rd Express,Convenience Central,SOUTH CENTRAL,"£1,857",67,£24.79,£2.75,9,46,1.5,35.1,86.20%,97.50%,5,25,2,2,1
+2500 Southport Birkdale Express,Convenience North,NORTH WEST,"£9,603",284,£30.81,£2.61,11.8,195,1.5,35.8,87.30%,98.50%,6,22,3,2,2
+2501 Fazeley Express,Convenience Central,MIDLANDS,"£1,949",62,£28.26,£2.69,10.5,46,1.3,25.2,98.40%,99.20%,6,12,4,2,1
+2503 Birmingham New Street Express,Convenience Central,MIDLANDS,£125,6,£17.22,£2.79,6.2,5,1.2,49.1,71.40%,93.20%,9,24,6,5,5
+2504 Barnt Green Express,Convenience Central,MIDLANDS,"£3,150",75,£38.97,£3.33,11.7,40,1.9,24.2,98.70%,98.40%,5,11,4,2,2
+2506 Armada Chafford Express,Convenience Central,SOUTH EAST,"£3,756",133,£25.19,£2.73,9.2,88,1.5,29,93.30%,98.70%,7,16,3,1,2
+2513 Bradley Stoke Baileys Court Express,Convenience South,SOUTH CENTRAL,"£5,901",197,£26.77,£2.63,10.2,132,1.5,23.1,99.00%,99.00%,6,10,4,1,3
+2514 Calmore Express,Convenience South,SOUTH CENTRAL,"£1,397",48,£25.94,£2.52,10.3,34,1.4,24.1,95.80%,98.10%,3,14,4,1,2
+2516 Ancells Farm Express,Convenience South,SOUTH CENTRAL,"£3,417",108,£28.52,£2.78,10.3,88,1.2,35.3,90.80%,99.60%,8,22,3,2,1
+2518 Swindon Freshbrook Express,Convenience South,SOUTH CENTRAL,"£1,562",55,£25.25,£2.70,9.3,34,1.6,29.6,98.20%,98.60%,5,19,3,2,2
+2519 Flint Express,Convenience Central,WALES,"£1,862",63,£26.51,£3.15,8.4,44,1.4,33.1,90.30%,99.50%,5,23,2,2,1
+2521 Chippenham Foundry Ln Express,Convenience South,SOUTH CENTRAL,"£4,252",119,£32.51,£2.87,11.3,77,1.5,38.2,81.40%,100.00%,6,27,2,2,1
+2522 Falmouth Killigrew Express,Convenience South,SOUTH WEST,"£2,502",81,£28.03,£2.55,11,63,1.3,62.3,54.50%,100.00%,7,45,5,2,4
+2523 Fishponds Express,Convenience South,SOUTH CENTRAL,"£3,305",100,£30.04,£2.65,11.4,74,1.4,27.5,98.00%,99.30%,8,13,4,2,1
+2527 Felixstowe Hamilton Road Express,Convenience Central,EAST ANGLIA,"£4,693",138,£30.99,£2.25,13.8,110,1.3,40.5,85.10%,99.30%,8,24,4,2,2
+2531 St Leonards-on-sea Fernside Express,Convenience South,SOUTH EAST,"£8,710",290,£27.00,£2.66,10.1,216,1.3,25.8,97.60%,99.50%,6,13,3,2,3
+2550 Falkirk Grahams Rd Superstore,Large North,EAST SCOTLAND,"£9,293",243,£35.25,£2.54,13.9,191,1.3,54.6,67.80%,96.10%,9,20,12,3,10
+2552 Fleet Esso Express,Convenience South,SOUTH CENTRAL,"£4,347",130,£30.36,£2.43,12.5,95,1.4,30.7,94.60%,99.50%,6,19,3,2,1
+2553 Fulham Kings Rd Esso Express,Convenience London,GREATER LONDON,"£1,617",51,£28.47,£3.11,9.2,37,1.4,27.4,96.10%,99.30%,5,16,3,1,1
+2554 Forestgate Esso Express,Convenience London,GREATER LONDON,"£1,949",70,£24.75,£2.70,9.2,46,1.5,22.4,97.10%,99.20%,4,13,3,1,1
+2556 Forest Hill Esso Express,Convenience London,GREATER LONDON,"£4,202",130,£29.34,£3.06,9.6,87,1.5,27,96.20%,98.50%,6,13,3,1,3
+2563 Grove Hill Express,Convenience Central,SOUTH EAST,"£2,595",95,£24.17,£2.75,8.8,65,1.5,20.7,100.00%,97.70%,4,6,5,2,3
+2579 Greenford Express,Convenience London,SOUTH EAST,"£7,404",218,£30.95,£2.54,12.2,169,1.3,32.1,93.60%,98.70%,7,12,5,1,7
+2594 Great Wyrley Esso Express,Convenience Central,MIDLANDS,"£1,584",49,£29.30,£2.51,11.7,40,1.2,31.5,89.80%,98.40%,6,18,4,1,2
+2596 Grove Park Esso Express,Convenience London,GREATER LONDON,"£5,893",204,£25.82,£2.56,10.1,151,1.4,23.7,97.50%,99.00%,6,12,3,1,1
+2597 Gowerton Esso Express,Convenience South,WALES,"£3,681",116,£28.64,£2.57,11.1,93,1.2,44.1,86.20%,99.10%,8,27,3,2,4
+2600 Grays Express,Convenience Central,SOUTH EAST,"£5,043",167,£27.13,£2.82,9.6,120,1.4,25.8,97.60%,98.90%,4,13,4,1,3
+2602 Taunton Galmington Express,Convenience South,SOUTH CENTRAL,"£2,354",77,£27.43,£2.80,9.8,57,1.4,40.6,86.80%,99.40%,6,28,3,2,1
+2603 Gants Hill Express,Convenience London,SOUTH EAST,"£6,411",213,£26.89,£2.61,10.3,157,1.4,24.3,97.70%,99.00%,7,10,3,1,3
+2604 Bridgend Gentle Way Express,Convenience South,WALES,"£8,639",246,£32.00,£2.90,11,172,1.4,35.6,92.30%,98.90%,7,17,4,2,5
+2605 Greenleys Express,Convenience Central,SOUTH EAST,"£4,761",159,£26.81,£2.07,12.9,130,1.2,23.7,100.00%,99.50%,6,9,4,1,3
+2606 Claregate Express,Convenience Central,MIDLANDS,"£5,836",171,£31.02,£2.64,11.8,117,1.5,24.5,100.00%,97.30%,7,10,4,1,3
+2608 Dudley Rd Express,Convenience Central,MIDLANDS,"£1,879",68,£24.49,£2.59,9.5,60,1.1,23.6,98.50%,98.80%,6,12,3,1,2
+2611 Henwick Park Express,Convenience Central,MIDLANDS,"£3,819",107,£32.67,£2.83,11.6,87,1.2,32.5,95.30%,98.40%,7,16,4,3,2
+2614 Horsforth Express,Convenience North,NORTH EAST,"£2,057",66,£28.28,£2.93,9.6,50,1.3,26.1,98.40%,99.80%,6,13,3,1,3
+2615 Milton Keynes Heelands Express,Convenience Central,SOUTH EAST,"£4,024",135,£26.71,£2.34,11.4,103,1.3,25.6,97.80%,97.80%,7,11,4,1,3
+2618 Harlow Express,Convenience Central,SOUTH EAST,"£15,613",410,£35.04,£2.56,13.7,320,1.3,35.9,91.50%,99.50%,9,13,5,2,5
+2620 Heavitree Esso Express,Convenience South,SOUTH WEST,"£11,884",394,£27.06,£2.60,10.4,259,1.5,28.9,94.80%,99.50%,9,13,3,1,3
+2625 Harrogate Esso Express,Convenience North,NORTH EAST,"£1,234",34,£33.20,£2.99,11.1,21,1.6,33.5,88.20%,98.90%,7,19,2,2,3
+2626 Hartshill Esso Express,Convenience Central,MIDLANDS,"£8,767",260,£30.72,£2.64,11.6,189,1.4,29.1,98.10%,99.30%,8,14,4,1,3
+2627 Harrow Esso Express,Convenience London,SOUTH EAST,"£2,118",59,£32.85,£3.20,10.3,32,1.8,21.3,100.00%,98.10%,4,9,4,1,3
+2631 Harpenden Esso Express,Convenience Central,SOUTH EAST,"£4,076",111,£33.71,£2.96,11.4,88,1.3,35.7,91.90%,99.50%,8,18,4,2,3
+2632 Greenford Oldfield Express,Convenience London,SOUTH EAST,"£5,136",165,£28.00,£2.68,10.5,116,1.4,25.1,96.40%,98.80%,7,12,2,1,2
+2637 Harrow Kenton Ln Express,Convenience London,SOUTH EAST,"£4,109",145,£25.14,£2.80,9,95,1.5,21.8,98.60%,98.60%,6,10,3,1,2
+2648 Henleaze Esso Express,Convenience South,SOUTH CENTRAL,"£1,502",51,£26.26,£2.55,10.3,35,1.5,26.1,98.00%,99.80%,5,16,3,1,1
+2650 Swadlincote Hearthcote Rd Express,Convenience Central,MIDLANDS,"£2,665",87,£27.54,£2.86,9.6,64,1.4,24.1,97.70%,98.60%,5,13,2,2,2
+2657 Bicester Hart Place Express,Convenience Central,SOUTH CENTRAL,£955,36,£23.16,£2.51,9.2,28,1.3,28.9,94.40%,99.60%,3,18,3,2,3
+2661 Hertford Superstore,Large South,SOUTH EAST,"£18,942",471,£37.21,£2.39,15.6,353,1.3,35.5,91.90%,98.80%,9,12,7,3,4
+2665 Norwich Grove Rd Express,Convenience Central,EAST ANGLIA,"£4,271",127,£30.54,£2.45,12.5,95,1.3,30.8,96.00%,98.60%,7,17,4,3,1
+2673 Grantham Express,Convenience Central,MIDLANDS,"£2,287",62,£33.84,£2.74,12.4,49,1.3,38.3,85.70%,98.00%,7,23,3,2,3
+2680 Hawkinge Express,Convenience South,SOUTH EAST,"£3,506",112,£28.17,£2.72,10.4,71,1.6,30.6,93.70%,99.70%,4,19,2,3,2
+2683 Horley Express,Convenience South,SOUTH EAST,"£7,555",258,£26.13,£2.56,10.2,202,1.3,29.4,98.10%,98.60%,7,14,3,2,3
+2684 Great Baddow Express,Convenience Central,SOUTH EAST,"£5,048",144,£32.05,£2.85,11.3,108,1.3,38.4,88.90%,99.10%,5,23,3,2,5
+2688 Horsham Esso Express,Convenience South,SOUTH EAST,"£10,986",326,£30.65,£2.59,11.8,228,1.4,35.1,87.70%,99.60%,8,19,3,2,3
+2696 Hove Dyke Rd Esso Express,Convenience South,SOUTH EAST,"£4,128",112,£33.93,£2.52,13.5,95,1.2,37.1,86.50%,99.10%,9,20,5,2,2
+2704 Hove Denmark Villas Express,Convenience South,SOUTH EAST,"£6,713",216,£28.09,£2.44,11.5,171,1.3,33.4,92.60%,97.80%,5,19,4,3,2
+2705 Histon Express,Convenience Central,EAST ANGLIA,"£3,385",109,£27.98,£2.41,11.6,77,1.4,32,93.50%,99.60%,7,17,3,2,3
+2708 Ealing Haven Green Express,Convenience London,GREATER LONDON,"£4,422",139,£28.73,£2.72,10.6,101,1.4,27.5,92.80%,98.00%,7,14,3,1,2
+2710 Heaton Moor Express,Convenience North,MIDLANDS,"£13,134",376,£31.93,£2.79,11.5,278,1.4,32.4,93.00%,99.30%,10,14,4,2,3
+2712 Gee Cross Stockport Rd Express,Convenience North,MIDLANDS,"£8,300",280,£26.53,£2.62,10.1,198,1.4,28.1,96.40%,98.80%,8,13,4,1,3
+2713 Hampton Hill Express,Convenience London,SOUTH EAST,"£5,486",153,£32.81,£2.99,11,113,1.4,30.1,91.40%,98.00%,6,18,3,1,2
+2714 Wirral Hoylake Rd Express,Convenience North,NORTH WEST,"£7,825",228,£31.15,£2.66,11.7,158,1.4,31.2,95.20%,98.50%,6,17,4,2,2
+2716 Heysham Express,Convenience North,NORTH WEST,"£3,223",97,£30.16,£2.43,12.4,73,1.3,38,86.50%,97.80%,6,24,4,2,3
+2717 Maida Vale Clifton Rd Express,Convenience London,GREATER LONDON,"£2,568",79,£29.46,£2.61,11.3,51,1.5,25.1,98.70%,99.60%,6,13,3,1,1
+2718 Heath St Express,Convenience London,GREATER LONDON,"£1,637",49,£30.34,£2.53,12,37,1.3,29.4,91.80%,97.60%,5,16,6,1,2
+2720 Russell Square Express,Convenience London,GREATER LONDON,"£1,066",34,£28.19,£3.42,8.2,29,1.2,27.2,91.40%,100.00%,6,16,3,1,2
+2722 Euston Express,Convenience London,GREATER LONDON,£488,17,£25.61,£2.15,11.9,13,1.3,42.8,76.50%,97.70%,5,29,4,3,2
+2723 Dulwich Express,Convenience London,GREATER LONDON,"£2,238",70,£28.97,£2.84,10.2,58,1.2,22.6,98.60%,99.20%,5,10,4,1,3
+2724 Hove Droveway Express,Convenience South,SOUTH EAST,"£2,018",71,£25.48,£2.51,10.2,57,1.2,39,88.10%,98.20%,9,21,4,1,4
+2726 Marylebone Baker St Express,Convenience London,GREATER LONDON,£486,16,£27.31,£1.92,14.3,12,1.3,24.6,100.00%,99.20%,5,10,4,2,3
+2727 Highgate Express,Convenience London,GREATER LONDON,"£1,435",50,£25.64,£2.48,10.3,41,1.2,34.7,85.70%,97.80%,5,23,4,1,1
+2728 700 Fulham Rd Express,Convenience London,GREATER LONDON,"£1,032",28,£33.71,£2.82,12,24,1.2,21.5,96.40%,97.50%,3,10,6,1,2
+2729 Golders Green Express,Convenience London,GREATER LONDON,"£6,338",173,£33.56,£2.69,12.5,132,1.3,30,92.50%,98.80%,7,14,4,1,3
+2730 Ilford Esso Express,Convenience London,SOUTH EAST,"£3,921",127,£27.86,£2.61,10.7,88,1.4,26.3,95.30%,99.10%,6,14,3,1,1
+2745 South Kensington Express,Convenience London,GREATER LONDON,"£1,213",38,£28.67,£2.31,12.4,29,1.3,24,100.00%,99.30%,7,10,3,2,3
+2747 Islington,Convenience London,GREATER LONDON,"£3,179",98,£29.41,£2.97,9.9,68,1.4,30.4,95.90%,99.00%,5,15,4,2,4
+2751 Kesgrave Superstore,Large Central,EAST ANGLIA,"£4,185",104,£37.28,£2.45,15.2,77,1.4,30.8,96.20%,97.80%,6,14,5,2,3
+2753 Goldhawk Rd Express,Convenience London,GREATER LONDON,"£3,412",117,£26.14,£2.29,11.4,87,1.3,25.1,94.90%,98.70%,5,12,3,1,3
+2754 Holland Park Express,Convenience London,GREATER LONDON,"£2,421",76,£28.95,£2.80,10.4,64,1.2,26.8,94.80%,97.20%,7,11,3,2,4
+2755 Clapham Junction Express,Convenience London,GREATER LONDON,"£2,343",72,£29.45,£2.55,11.6,58,1.2,28.7,93.00%,99.70%,5,17,3,1,2
+2756 Inverness Superstore,Large North,WEST SCOTLAND,"£4,872",124,£36.82,£2.40,15.3,101,1.2,69.7,54.90%,97.30%,10,44,9,3,4
+2761 Kew Gardens Express,Convenience London,SOUTH EAST,"£3,612",118,£27.72,£2.53,10.9,84,1.4,36,87.80%,98.70%,8,21,3,2,2
+2763 Kempshott Express,Convenience South,SOUTH CENTRAL,"£3,718",110,£30.72,£2.53,12.1,86,1.3,45.2,80.90%,97.50%,8,27,4,2,3
+2766 Kempston Bedford Rd Express,Convenience Central,SOUTH EAST,"£4,697",141,£30.24,£2.68,11.3,91,1.5,26,100.00%,99.00%,7,11,3,2,3
+2768 Twickenham St Margarets Express,Convenience London,SOUTH EAST,"£3,071",89,£31.50,£2.62,12,69,1.3,24.8,96.60%,98.70%,4,12,5,1,2
+2774 Kingsteignton Express,Convenience South,SOUTH WEST,"£7,082",224,£28.65,£2.75,10.4,168,1.3,47.8,79.00%,99.30%,8,31,3,2,3
+2775 Tottenham Court Rd Express,Convenience London,GREATER LONDON,£486,18,£23.90,£2.30,10.4,14,1.3,22.8,100.00%,99.40%,5,9,4,2,3
+2778 Hammersmith King St Express,Convenience London,GREATER LONDON,"£1,261",39,£29.37,£2.44,12.1,29,1.3,25.3,94.90%,99.20%,6,13,3,1,2
+2780 Kingswinford Esso Express,Convenience Central,MIDLANDS,"£4,079",105,£35.84,£2.61,13.7,78,1.3,23.4,97.10%,99.70%,6,9,4,1,2
+2781 Kingswood Express,Convenience South,SOUTH CENTRAL,"£2,335",73,£28.78,£2.66,10.8,50,1.5,23.4,98.60%,98.50%,4,11,4,2,2
+2782 Kings Worthy Express,Convenience South,SOUTH CENTRAL,"£1,341",41,£29.75,£2.69,11,31,1.3,43.6,78.00%,99.80%,5,29,5,2,3
+2789 Kings Cross Express,Convenience London,GREATER LONDON,"£4,705",147,£28.99,£2.50,11.6,93,1.6,30.9,94.50%,99.20%,6,15,4,2,3
+2793 Kirby Frith Express,Convenience Central,MIDLANDS,"£3,461",109,£28.58,£2.87,9.9,74,1.5,24.6,100.00%,99.20%,7,11,3,2,2
+2795 Willerby Kirk Ella Esso Express,Convenience North,NORTH EAST,"£3,572",108,£29.98,£2.62,11.4,80,1.4,23.9,97.20%,98.00%,6,9,4,2,2
+2803 Larkfield Esso Express,Convenience South,SOUTH EAST,"£3,597",116,£27.96,£2.35,11.9,87,1.3,36.8,85.70%,100.00%,5,26,2,2,1
+2805 Leyton Esso Express,Convenience London,GREATER LONDON,"£2,321",83,£24.84,£2.22,11.2,64,1.3,25.1,96.40%,100.00%,5,14,4,1,2
+2807 Leigh-on-sea Esso Express,Convenience Central,SOUTH EAST,"£4,720",126,£34.42,£2.62,13.2,92,1.4,28.1,95.30%,99.30%,5,16,4,2,2
+2810 Blackpool Lytham Rd Express,Convenience North,NORTH WEST,"£1,544",46,£30.47,£3.09,9.9,28,1.6,21.6,100.00%,98.70%,4,12,3,2,1
+2811 Littlehampton Finisterre Express,Convenience South,SOUTH EAST,"£9,582",286,£30.40,£2.65,11.5,209,1.4,30.4,95.50%,99.70%,6,17,3,2,2
+2813 Leamington Spa Parade Express,Convenience Central,MIDLANDS,"£11,477",288,£36.83,£2.53,14.6,221,1.3,27,99.30%,98.60%,8,8,6,2,3
+2817 Langford Village Express,Convenience Central,SOUTH CENTRAL,"£8,278",231,£32.81,£2.52,13,153,1.5,31.7,93.00%,98.30%,7,17,3,2,3
+2820 Leicester Fosse Esso Express,Convenience Central,MIDLANDS,"£2,934",82,£32.74,£2.47,13.2,63,1.3,24.9,95.10%,99.00%,6,12,4,1,2
+2823 Colney Express,Convenience Central,SOUTH EAST,"£1,838",54,£30.91,£3.00,10.3,37,1.5,23.8,98.10%,97.90%,5,11,4,2,2
+2844 Long Eaton Express,Convenience Central,MIDLANDS,"£5,179",143,£33.08,£2.67,12.4,115,1.2,21.7,100.00%,99.10%,6,8,4,2,2
+2847 Sundon Park Express,Convenience Central,SOUTH EAST,"£6,812",214,£28.72,£2.67,10.8,150,1.4,22,100.00%,98.70%,7,8,3,2,2
+2851 Tooting Bec Express,Convenience London,GREATER LONDON,£881,27,£29.64,£2.25,13.1,22,1.2,24.3,100.00%,98.00%,5,11,5,1,3
+2852 Leeds Harrogate Rd Esso Express,Convenience North,NORTH EAST,"£3,033",96,£28.43,£2.52,11.3,75,1.3,35.3,88.50%,98.90%,9,17,5,1,3
+2853 Limbury Mead Express,Convenience Central,SOUTH EAST,"£3,699",121,£27.38,£2.62,10.5,88,1.4,18.7,100.00%,98.90%,5,6,3,2,2
+2861 Maida Vale Esso Express,Convenience London,GREATER LONDON,"£3,340",98,£31.08,£2.38,13.1,70,1.4,28.9,89.80%,99.60%,4,17,4,2,2
+2863 Weston Milton Express,Convenience South,SOUTH CENTRAL,"£4,623",141,£29.78,£2.83,10.5,106,1.3,31,93.50%,98.30%,7,15,4,2,3
+2871 Mangotsfield Express,Convenience South,SOUTH CENTRAL,"£4,549",146,£28.01,£2.67,10.5,102,1.4,27.4,95.90%,97.10%,6,13,4,2,3
+2894 Mold Superstore,Large Central,WALES,"£3,385",65,£49.16,£2.62,18.8,55,1.2,64.3,61.30%,98.10%,10,37,12,2,3
+2899 Longton Meir Hay Express,Convenience Central,MIDLANDS,"£16,704",529,£28.41,£2.49,11.4,372,1.4,21.7,99.80%,99.10%,8,6,3,2,2
+2902 Maidstone Tonbridge Rd Esso Express,Convenience South,SOUTH EAST,"£5,776",187,£27.88,£2.47,11.3,131,1.4,29.7,94.70%,99.50%,6,16,3,2,3
+2911 Cookridge Express,Convenience North,NORTH EAST,£780,25,£28.27,£2.36,12,19,1.3,25.3,92.00%,99.60%,4,13,4,2,2
+2912 Longwell Green Express,Convenience South,SOUTH CENTRAL,"£4,723",151,£28.19,£2.69,10.5,111,1.4,26.4,97.30%,99.50%,7,13,3,2,2
+2914 Benton Rd Esso Express,Convenience North,NORTH EAST,"£3,912",106,£33.89,£2.95,11.5,72,1.5,36.7,88.60%,98.50%,8,21,3,1,3
+2915 Fenham W Rd Esso Express,Convenience North,NORTH EAST,"£3,727",111,£30.70,£2.63,11.7,77,1.4,34.6,87.30%,99.70%,9,18,3,1,3
+2925 Longlevens Express,Convenience Central,SOUTH CENTRAL,"£6,009",192,£28.17,£2.65,10.6,130,1.5,30.9,96.30%,98.90%,7,16,3,2,2
+2927 Newbury Express,Convenience South,SOUTH EAST,"£11,800",312,£34.85,£2.40,14.5,240,1.3,47,78.00%,99.60%,12,26,4,2,3
+2932 Newport Pagnell Elthorne Express,Convenience Central,SOUTH EAST,"£2,160",64,£30.76,£2.97,10.3,48,1.3,24.9,96.80%,97.20%,5,10,3,3,3
+2938 Jesmond Express,Convenience North,NORTH EAST,"£1,319",32,£38.50,£2.68,14.3,27,1.2,44.4,71.00%,99.50%,7,21,5,1,11
+2939 Barnet Esso Express,Convenience London,SOUTH EAST,"£2,589",83,£28.11,£2.77,10.1,61,1.4,20.5,98.80%,98.40%,6,8,3,2,2
+2946 Northenden Express,Convenience North,NORTH WEST,"£5,061",138,£33.68,£2.75,12.2,100,1.4,30.6,99.30%,98.70%,7,15,4,1,4
+2950 Narborough Express,Convenience Central,MIDLANDS,"£1,398",43,£29.44,£2.54,11.6,34,1.3,29,97.70%,98.20%,6,16,4,2,2
+2956 Portobello Road Express,Convenience London,GREATER LONDON,"£3,525",111,£28.64,£2.43,11.8,81,1.4,28.4,98.20%,98.90%,6,12,5,2,5
+2959 Lode Heath Express,Convenience Central,MIDLANDS,"£2,231",75,£26.65,£2.42,11,61,1.2,27.8,97.30%,98.30%,6,13,4,1,3
+2965 North Cheam Esso Express,Convenience London,SOUTH EAST,"£6,642",202,£29.78,£2.75,10.8,135,1.5,22,99.50%,98.40%,6,10,3,1,2
+2966 Ilchester Rd Express,Convenience South,SOUTH CENTRAL,"£4,744",146,£29.45,£2.48,11.9,112,1.3,33.1,92.40%,98.50%,6,19,4,2,2
+2968 North Shields Beach Rd Esso Express,Convenience North,NORTH EAST,"£6,237",179,£31.81,£2.94,10.8,139,1.3,30.3,96.60%,98.40%,7,13,3,2,5
+2970 Bradley Stoke Express,Convenience South,SOUTH CENTRAL,"£7,389",221,£30.38,£2.48,12.2,151,1.5,25.3,98.20%,99.20%,6,12,3,2,2
+2972 LANGLEY SLOUGH EXPRESS,Convenience South,SOUTH EAST,"£7,557",238,£28.61,£2.57,11.1,148,1.6,22.9,99.60%,99.00%,6,10,3,3,1
+2973 Matthias Road Express,Convenience London,GREATER LONDON,"£1,344",47,£25.55,£2.53,10.1,33,1.4,17.6,100.00%,99.00%,4,8,3,1,1
+2974 Nuneaton Croft Rd Express,Convenience Central,MIDLANDS,"£9,838",310,£28.67,£2.53,11.3,208,1.5,23.3,99.40%,98.50%,8,8,3,2,2
+2975 Ocean Village Express,Convenience South,SOUTH CENTRAL,"£2,944",84,£32.12,£2.76,11.6,63,1.3,31.8,91.70%,99.40%,9,17,3,1,2
+2976 Warrington Orford Green Esso Express,Convenience North,MIDLANDS,"£3,774",108,£31.86,£2.66,12,73,1.5,27.3,94.40%,99.40%,6,15,4,1,2
+2977 Oxford Rd Express,Convenience North,NORTH WEST,"£1,893",56,£30.55,£2.41,12.7,43,1.3,37.9,83.60%,99.30%,9,23,3,1,1
+2979 Southgate Bramley Rd Esso Express,Convenience London,GREATER LONDON,"£1,666",49,£30.92,£2.74,11.3,39,1.3,21.2,100.00%,99.50%,4,10,3,2,2
+2986 Bury St Edmunds Lawson Place Express,Convenience Central,EAST ANGLIA,"£2,932",80,£33.61,£2.88,11.7,54,1.5,40.5,82.50%,99.10%,5,28,4,2,2
+2990 Oxford Cowley Road Express,Convenience Central,SOUTH CENTRAL,"£9,986",275,£33.32,£2.55,13.1,204,1.3,33.8,96.00%,99.00%,9,14,5,1,4
+2996 Solihull Esso Express,Convenience Central,MIDLANDS,"£9,348",289,£29.22,£2.65,11,188,1.5,21.8,99.30%,98.90%,8,7,3,1,3
+2997 Stourbridge Esso Express,Convenience Central,MIDLANDS,"£10,953",302,£33.30,£2.56,13,230,1.3,21.8,100.00%,98.10%,7,7,4,2,2
+2998 Oulton Broad Esso Express,Convenience Central,EAST ANGLIA,"£4,512",142,£28.61,£2.47,11.6,102,1.4,29.7,95.80%,99.70%,7,16,3,2,2
+2999 Furzton Express,Convenience Central,SOUTH EAST,"£1,900",71,£23.57,£2.33,10.1,51,1.4,23.3,100.00%,98.40%,4,13,4,1,1
+3011 Dogsthorpe Esso Express,Convenience Central,EAST ANGLIA,"£4,775",158,£27.09,£2.21,12.3,110,1.4,25.7,98.70%,98.80%,6,9,4,2,4
+3012 Paddington Church Street Express,Convenience London,GREATER LONDON,"£1,947",59,£30.04,£2.48,12.1,39,1.5,32.8,95.00%,99.10%,6,15,4,2,5
+3018 Perth Express,Convenience North,EAST SCOTLAND,"£16,717",400,£38.77,£2.66,14.6,289,1.4,40.3,86.30%,98.60%,11,15,5,2,7
+3020 Linslade Express,Convenience Central,SOUTH EAST,"£4,721",143,£29.93,£2.71,11.1,103,1.4,24.5,98.60%,98.50%,6,11,3,2,3
+3023 Peterborough Hereward Cross Express,Convenience Central,EAST ANGLIA,"£3,114",84,£34.01,£2.43,14,65,1.3,28.5,96.40%,99.30%,6,8,6,2,6
+3038 Polegate Esso Express,Convenience South,SOUTH EAST,"£3,290",104,£28.56,£2.58,11.1,59,1.8,33.6,90.20%,99.30%,5,22,3,2,1
+3054 Portswood Esso Express,Convenience South,SOUTH CENTRAL,"£1,235",38,£29.57,£2.47,11.9,28,1.4,27.9,94.70%,100.00%,6,13,4,1,3
+3056 Port Talbot Superstore,Large Central,WALES,"£6,806",167,£37.90,£2.46,15.4,128,1.3,53.2,69.30%,95.60%,8,28,10,2,5
+3058 Poole Fernside Rd Express,Convenience South,SOUTH CENTRAL,"£5,717",169,£30.75,£2.62,11.7,126,1.3,31.2,94.70%,99.40%,7,17,3,2,2
+3061 Leavesden Green Express,Convenience London,SOUTH EAST,"£8,496",252,£30.71,£2.57,11.9,175,1.4,25,98.40%,97.00%,6,9,4,2,3
+3064 Outwood Express,Convenience North,NORTH EAST,"£2,878",90,£28.98,£2.93,9.9,59,1.5,23.9,100.00%,98.80%,5,9,4,2,4
+3069 Norwich Magdalen Rd Express,Convenience Central,EAST ANGLIA,"£6,392",205,£28.00,£2.55,11,146,1.4,25.4,98.60%,99.50%,5,12,3,2,3
+3070 Ashford Mace Ln Express,Convenience South,SOUTH EAST,"£5,924",193,£27.65,£2.49,11.1,147,1.3,26.4,97.90%,99.00%,7,12,3,2,2
+3072 Plympton Express,Convenience South,SOUTH WEST,"£4,606",146,£28.67,£2.91,9.9,98,1.5,31.3,94.20%,98.90%,6,19,3,1,2
+3073 Lichfield Netherstowe Express,Convenience Central,MIDLANDS,"£7,125",219,£29.46,£2.70,10.9,147,1.5,23.9,98.60%,99.20%,6,10,3,2,2
+3075 Northbourne Express,Convenience South,SOUTH CENTRAL,"£2,140",74,£25.87,£2.52,10.3,58,1.3,36.5,89.30%,99.40%,4,25,3,2,3
+3077 New Park Esso Express,Convenience London,SOUTH EAST,"£2,479",94,£23.46,£2.41,9.7,74,1.3,21.9,97.90%,98.50%,5,10,3,1,2
+3078 Rainham Shopping Centre Superstore,Large South,SOUTH EAST,"£17,406",461,£34.73,£2.49,14,345,1.3,33.8,94.30%,98.40%,9,14,6,2,3
+3080 Reading Shinfield Express,Convenience South,SOUTH EAST,"£6,699",204,£29.79,£2.77,10.8,126,1.6,23.2,99.00%,98.40%,6,9,4,1,3
+3082 Shenfield Express,Convenience Central,SOUTH EAST,"£5,983",169,£32.40,£2.63,12.3,131,1.3,29.4,94.10%,99.00%,6,13,4,2,4
+3083 Northwood Hills Esso Express,Convenience London,SOUTH EAST,"£4,908",164,£26.79,£3.14,8.5,103,1.6,20.4,98.80%,97.40%,5,9,3,1,2
+3088 Redfield Express,Convenience South,SOUTH CENTRAL,"£5,427",152,£32.68,£2.40,13.6,122,1.2,35.9,92.90%,99.30%,10,14,6,2,5
+3092 Reedley Esso Express,Convenience North,NORTH WEST,"£5,384",178,£27.15,£2.57,10.6,126,1.4,26.8,97.80%,96.40%,6,9,4,3,6
+3093 Regent Street Express,Convenience London,GREATER LONDON,£277,10,£24.09,£2.48,9.7,7,1.4,25.8,100.00%,100.00%,6,14,3,1,2
+3097 Richmond George Street Express,Convenience London,SOUTH EAST,"£2,515",67,£34.51,£3.02,11.4,49,1.4,35.4,85.10%,98.30%,6,21,4,1,2
+3098 Rayners Ln Express,Convenience London,SOUTH EAST,"£1,421",48,£26.52,£2.62,10.1,31,1.5,22.2,91.70%,97.10%,5,10,5,1,2
+3102 Richmond Express,Convenience London,SOUTH EAST,"£2,646",75,£32.27,£2.29,14.1,56,1.3,33.5,90.50%,98.90%,10,17,4,2,1
+3104 Rotherham Bawtry Rd Esso Express,Convenience North,NORTH EAST,"£8,614",232,£34.13,£2.85,12,175,1.3,32,94.80%,97.20%,7,15,4,2,4
+3105 Romford Esso Express,Convenience London,SOUTH EAST,"£4,535",155,£26.19,£2.49,10.5,122,1.3,27.4,97.40%,99.60%,7,14,3,1,2
+3109 Rothwell Express,Convenience Central,MIDLANDS,"£4,548",129,£32.16,£3.07,10.5,88,1.5,35.5,89.10%,99.00%,7,22,3,2,2
+3117 Manchester Rusholme Esso Express,Convenience North,NORTH WEST,"£2,610",79,£29.94,£2.65,11.3,59,1.3,36.7,88.60%,95.70%,11,17,4,2,3
+3122 Mossley Hill Express,Convenience North,NORTH WEST,"£2,627",72,£33.43,£2.44,13.7,61,1.2,31.4,90.40%,99.00%,5,17,5,2,3
+3123 Lavender Rd Express,Convenience South,SOUTH CENTRAL,"£6,285",213,£26.36,£2.54,10.4,139,1.5,25.6,99.50%,98.80%,7,11,3,2,3
+3124 Lilliput Express,Convenience South,SOUTH CENTRAL,"£1,337",30,£41.45,£2.81,14.7,22,1.4,37.1,90.30%,97.90%,5,23,4,2,2
+3125 Duston Limehurst Square Express,Convenience Central,MIDLANDS,"£5,119",166,£27.63,£2.49,11.1,121,1.4,25.6,98.20%,98.40%,7,8,4,2,4
+3127 Warsash Locks Heath Express,Convenience South,SOUTH CENTRAL,"£7,828",236,£30.03,£2.83,10.6,165,1.4,33,91.90%,99.60%,7,20,3,2,2
+3128 Kilnhouse Ln Express,Convenience North,NORTH WEST,"£2,833",98,£25.85,£3.12,8.3,58,1.7,38.8,83.50%,96.90%,6,26,3,2,2
+3131 Colchester St Johns Express,Convenience Central,SOUTH EAST,"£10,343",335,£27.84,£2.66,10.5,223,1.5,25.9,98.20%,98.50%,7,10,3,2,4
+3132 Hobs Moat Express,Convenience Central,MIDLANDS,"£11,580",337,£31.23,£2.88,10.9,226,1.5,20.7,99.70%,99.60%,8,8,3,1,1
+3135 Fulwood Esso Express,Convenience North,NORTH EAST,"£2,280",63,£33.20,£2.72,12.2,52,1.2,28.3,98.40%,98.70%,6,14,4,3,2
+3143 Southwold Express,Convenience Central,SOUTH CENTRAL,"£8,120",269,£27.04,£2.56,10.6,189,1.4,29.9,94.80%,99.10%,7,17,2,2,2
+3146 Saltcoats Superstore,Large North,WEST SCOTLAND,"£6,361",140,£42.59,£2.54,16.8,108,1.3,57.8,62.20%,99.20%,7,42,6,2,1
+3148 St Pauls Cray Esso Express,Convenience London,SOUTH EAST,"£19,738",626,£28.44,£2.78,10.2,419,1.5,23.7,99.00%,99.00%,8,9,3,1,3
+3151 Salisbury Express,Convenience South,SOUTH CENTRAL,"£10,636",325,£29.63,£2.62,11.3,233,1.4,34.1,93.50%,98.80%,8,15,6,2,3
+3153 Hayes South Esso Express,Convenience London,SOUTH EAST,"£1,499",54,£24.41,£2.88,8.5,39,1.4,25.7,96.30%,98.60%,7,13,3,1,2
+3156 St Mary's Esso Express,Convenience Central,SOUTH EAST,"£9,370",348,£23.80,£2.34,10.2,229,1.5,25.8,96.00%,98.70%,6,12,3,1,3
+3158 South Oxhey Esso Express,Convenience London,SOUTH EAST,"£7,897",245,£29.11,£2.82,10.3,164,1.5,23.1,98.40%,98.60%,6,10,4,1,3
+3165 Stapenhill Express,Convenience Central,MIDLANDS,"£7,411",226,£29.77,£2.62,11.4,149,1.5,23.4,100.00%,98.60%,8,7,4,2,2
+3186 Albert Rd Express,Convenience South,SOUTH CENTRAL,"£4,533",148,£27.59,£2.79,9.9,89,1.7,20.1,99.30%,99.10%,4,7,4,2,3
+3211 Slough Esso Express,Convenience South,SOUTH EAST,"£3,334",112,£26.53,£2.40,11,75,1.5,22.1,100.00%,98.90%,6,10,3,2,1
+3215 South Ockendon Esso Express,Convenience Central,SOUTH EAST,"£2,924",100,£26.12,£2.44,10.7,62,1.6,25.7,97.00%,100.00%,3,11,4,3,4
+3217 Swindon Express,Convenience South,SOUTH CENTRAL,"£13,680",363,£34.69,£2.56,13.5,288,1.3,39.3,90.70%,98.70%,10,15,6,2,6
+3236 Southchurch Esso Express,Convenience Central,SOUTH EAST,"£5,496",176,£28.17,£2.46,11.4,121,1.5,23.5,100.00%,97.90%,5,9,4,2,3
+3242 Reading Southcote Esso Express,Convenience South,SOUTH EAST,"£10,122",315,£29.00,£2.73,10.6,219,1.4,25.6,99.10%,99.30%,9,10,3,1,2
+3244 Stafford Esso Express,Convenience Central,MIDLANDS,"£7,609",243,£28.16,£2.79,10.1,160,1.5,26.9,99.60%,99.30%,7,14,3,2,2
+3246 Southborough Express,Convenience South,SOUTH EAST,"£6,469",199,£29.51,£2.58,11.4,160,1.2,35.3,90.10%,98.80%,7,19,4,2,4
+3247 Spinny Hill Express,Convenience Central,MIDLANDS,"£11,750",376,£28.23,£2.44,11.6,259,1.5,25.7,99.50%,99.60%,9,9,3,2,3
+3248 Millbrook Wimpson Ln Express,Convenience South,SOUTH CENTRAL,"£4,946",159,£27.89,£2.54,11,110,1.4,24.6,96.20%,99.80%,5,12,3,1,3
+3250 Shenley Express,Convenience London,SOUTH EAST,"£5,386",157,£31.21,£2.57,12.1,107,1.5,26.2,100.00%,98.40%,6,12,4,2,3
+3252 Thorpe Bay Express,Convenience Central,SOUTH EAST,"£3,309",92,£32.96,£2.32,14.2,71,1.3,28.8,95.70%,99.10%,7,12,5,2,3
+3253 Shaw Express,Convenience North,NORTH WEST,"£8,837",292,£27.17,£2.51,10.8,214,1.4,27.4,98.30%,99.00%,10,10,3,3,2
+3255 South Shields Superstore,Large North,NORTH EAST,"£3,698",104,£32.52,£2.23,14.6,84,1.2,40.4,85.60%,98.20%,11,19,7,1,3
+3256 Sidcup Longlands Express,Convenience London,SOUTH EAST,"£6,224",221,£24.98,£2.65,9.4,151,1.5,24.7,97.30%,99.00%,7,12,3,2,2
+3257 Eastbourne Seaside Express,Convenience South,SOUTH EAST,"£12,628",404,£28.19,£2.60,10.9,276,1.5,32.9,93.30%,99.30%,7,18,3,2,3
+3259 Salford Quays Express,Convenience North,NORTH WEST,"£8,524",255,£30.35,£2.74,11.1,196,1.3,40,84.70%,99.50%,11,22,3,2,2
+3260 Ashton Upon Mersey Express,Convenience North,MIDLANDS,"£2,925",98,£26.83,£2.85,9.4,58,1.7,24,99.00%,94.60%,5,11,4,2,3
+3261 Sutton-in-ashfield Express,Convenience North,MIDLANDS,"£2,699",84,£28.86,£2.30,12.5,62,1.4,34.4,95.20%,99.00%,7,21,3,2,2
+3262 Lodge Park Express,Convenience Central,MIDLANDS,"£12,541",385,£29.51,£2.93,10.1,276,1.4,23.4,100.00%,98.50%,7,8,3,2,3
+3263 Foley Park Express,Convenience Central,MIDLANDS,"£5,378",164,£29.57,£2.87,10.3,109,1.5,23.9,98.80%,99.80%,6,12,2,2,1
+3265 Spennells Express,Convenience Central,MIDLANDS,"£1,575",52,£27.23,£2.93,9.3,34,1.5,24.6,100.00%,100.00%,5,13,3,2,3
+3268 Rowner Express,Convenience South,SOUTH CENTRAL,"£10,545",328,£29.03,£2.86,10.1,224,1.5,28.8,94.80%,99.70%,5,17,3,2,2
+3269 Birmingham Mailbox Express,Convenience Central,MIDLANDS,£485,14,£31.94,£2.62,12.2,13,1.1,29,100.00%,100.00%,5,12,5,5,2
+3271 Northwich Regency Express,Convenience Central,MIDLANDS,"£3,906",109,£32.59,£2.82,11.6,80,1.4,34.8,88.20%,97.50%,5,20,4,2,4
+3272 Fulwood Express,Convenience North,NORTH WEST,"£1,623",45,£32.99,£3.56,9.3,28,1.6,29.7,97.80%,98.80%,7,12,4,3,4
+3275 St Albans Jersey Farm Express,Convenience Central,SOUTH EAST,"£2,654",78,£30.92,£2.86,10.8,48,1.6,21.8,100.00%,98.80%,5,9,4,2,2
+3276 Paddington Express,Convenience London,GREATER LONDON,"£1,573",52,£27.19,£2.26,12,38,1.4,31,98.20%,100.00%,6,16,4,2,3
+3277 Leith Walk Express,Convenience North,EAST SCOTLAND,"£5,509",161,£31.22,£2.69,11.6,122,1.3,33.9,93.80%,98.30%,7,16,5,3,3
+3287 Torquay Fleet Street Express,Convenience South,SOUTH WEST,"£2,618",66,£36.52,£2.74,13.3,46,1.4,48.8,75.80%,99.80%,7,33,4,2,3
+3292 Thornton Heath Rd Express,Convenience London,SOUTH EAST,"£5,730",172,£30.22,£2.75,11,127,1.4,22.5,100.00%,98.60%,6,9,4,1,3
+3295 Tolworth Esso Express,Convenience London,SOUTH EAST,"£4,205",126,£30.24,£2.49,12.1,91,1.4,23,97.60%,98.90%,5,11,3,1,2
+3296 Teignmouth Rd Esso Express,Convenience South,SOUTH WEST,"£1,104",35,£28.33,£2.16,13.1,28,1.3,63.5,60.00%,98.90%,5,50,5,2,2
+3302 Totterdown Express,Convenience South,SOUTH CENTRAL,"£2,578",71,£33.35,£2.41,13.8,56,1.3,27.7,97.20%,98.50%,7,13,4,1,2
+3303 Throston Grange Express,Convenience North,NORTH EAST,"£4,236",133,£28.78,£2.58,11.2,97,1.4,44.7,79.70%,97.60%,7,29,4,2,3
+3304 Grosvenor Road Express,Convenience South,SOUTH EAST,"£7,351",185,£36.77,£2.54,14.5,152,1.2,34.5,89.80%,99.10%,7,15,6,3,3
+3308 Spalding Matmore Gate Express,Convenience Central,MIDLANDS,"£2,566",80,£28.82,£2.81,10.3,57,1.4,30,92.50%,99.40%,6,16,4,2,2
+3311 Popley Express,Convenience South,SOUTH CENTRAL,"£6,949",214,£29.36,£2.71,10.8,148,1.4,38.8,86.90%,99.50%,6,23,4,2,4
+3312 Northolt Express,Convenience London,SOUTH EAST,"£4,918",149,£30.05,£2.86,10.5,98,1.5,29.2,93.90%,98.90%,8,14,3,1,2
+3314 West Hallam Express,Convenience Central,MIDLANDS,"£2,464",76,£29.30,£3.13,9.4,54,1.4,34,94.70%,99.50%,8,21,2,2,1
+3315 Stukeley Meadows Express,Convenience Central,EAST ANGLIA,"£9,101",300,£27.24,£2.64,10.3,223,1.3,34.2,91.60%,98.10%,8,17,4,2,4
+3317 Brixton Tulse Hill Esso Express,Convenience London,GREATER LONDON,"£3,439",107,£29.10,£2.85,10.2,77,1.4,28.2,96.30%,98.80%,5,16,3,1,2
+3318 Ledbury Rd Esso Express,Convenience Central,MIDLANDS,"£1,775",53,£30.41,£2.30,13.2,44,1.2,45.5,77.80%,97.60%,5,34,3,2,2
+3319 Leeds Rd Express,Convenience North,NORTH EAST,"£4,287",136,£28.48,£2.85,10,100,1.4,29.5,97.80%,98.20%,8,15,3,2,2
+3320 Theydon Bois Express,Convenience London,SOUTH EAST,"£6,853",198,£31.45,£2.69,11.7,155,1.3,31.8,94.40%,99.10%,7,17,4,3,2
+3326 Peacehaven Express,Convenience South,SOUTH EAST,"£5,471",179,£27.55,£2.53,10.9,123,1.5,41,80.10%,97.90%,6,26,5,2,3
+3328 Uttoxeter New Rd Express,Convenience Central,MIDLANDS,"£3,826",120,£28.76,£2.74,10.5,86,1.4,29.8,95.00%,99.50%,5,18,3,2,2
+3329 Cranham Express,Convenience London,SOUTH EAST,"£4,773",151,£28.45,£2.79,10.2,111,1.4,21.6,99.30%,98.60%,5,10,3,2,2
+3331 Stanford-le-hope Express,Convenience Central,SOUTH EAST,"£9,190",271,£30.83,£2.38,13,197,1.4,24.8,98.20%,99.80%,7,11,3,2,2
+3332 Upton Park Green Street Express,Convenience London,GREATER LONDON,"£2,429",85,£25.63,£2.50,10.2,66,1.3,21.6,100.00%,98.20%,5,9,5,1,2
+3335 Uxbridge High Street Express,Convenience London,SOUTH EAST,"£9,621",278,£31.59,£2.58,12.3,196,1.4,28.5,97.50%,98.90%,8,12,4,1,3
+3336 St Davids Rd North Express,Convenience North,NORTH WEST,"£1,147",30,£35.12,£3.72,9.4,20,1.5,39.2,80.00%,97.50%,4,28,3,2,2
+3338 Valley Park Soton Express,Convenience South,SOUTH CENTRAL,"£1,548",47,£29.76,£2.73,10.9,35,1.3,37.7,87.20%,97.70%,7,21,5,2,2
+3339 Witney Valence Crescent Express,Convenience Central,SOUTH CENTRAL,"£1,229",42,£26.14,£2.48,10.5,29,1.4,42.5,81.00%,99.50%,5,29,4,2,3
+3343 Warners End Express,Convenience Central,SOUTH EAST,"£7,997",237,£30.73,£2.46,12.5,172,1.4,21.4,99.20%,99.50%,5,8,3,2,3
+3349 Romford Marlborough Express,Convenience London,SOUTH EAST,"£10,047",323,£28.04,£2.69,10.4,210,1.5,26.7,97.50%,98.30%,7,13,4,1,2
+3351 Walsall Brownhills Superstore,Large Central,MIDLANDS,"£5,388",137,£36.33,£2.38,15.3,105,1.3,34.7,95.60%,97.60%,10,10,9,3,4
+3352 Norwich Wroxham Rd Express,Convenience Central,EAST ANGLIA,"£7,168",254,£25.01,£2.49,10,169,1.5,26.6,96.90%,99.20%,6,13,3,2,2
+3355 Eastbourne Grove Express,Convenience South,SOUTH EAST,"£4,897",153,£29.00,£2.93,9.9,106,1.4,37.7,90.90%,99.80%,5,25,3,3,2
+3359 Walthamstow Hoe St Esso Express,Convenience London,GREATER LONDON,"£1,204",39,£27.76,£2.44,11.4,39,1,21.2,100.00%,99.50%,4,11,3,1,2
+3361 Bullsmoor Ln Esso Express,Convenience London,SOUTH EAST,"£12,341",420,£26.31,£2.61,10.1,311,1.4,25.1,99.50%,98.80%,8,10,3,2,2
+3366 Hamlet Court Express,Convenience Central,SOUTH EAST,"£3,528",115,£27.78,£2.25,12.4,89,1.3,26,99.10%,94.60%,5,10,5,2,4
+3374 Wednesfield Esso Express,Convenience Central,MIDLANDS,"£2,451",79,£28.03,£2.63,10.6,51,1.5,21.6,98.70%,97.80%,5,10,3,1,2
+3376 West Moors Express,Convenience South,SOUTH CENTRAL,"£2,069",58,£32.58,£2.55,12.8,45,1.3,40.7,80.70%,98.70%,5,26,4,2,3
+3381 Old Woking Rd Esso Express,Convenience South,SOUTH EAST,"£6,041",185,£29.45,£2.85,10.4,132,1.4,27.7,97.80%,99.90%,7,15,2,2,2
+3382 Radlett Watling Express,Convenience London,SOUTH EAST,"£4,738",131,£33.08,£2.63,12.6,98,1.3,28.8,95.40%,97.00%,5,13,5,2,4
+3386 Shirley W Wickham Esso Express,Convenience London,SOUTH EAST,"£5,696",179,£28.70,£2.51,11.4,130,1.4,26.1,95.50%,98.80%,7,13,4,1,2
+3393 Winchmore Hill Esso Express,Convenience London,GREATER LONDON,"£3,015",101,£26.78,£3.19,8.4,64,1.6,29.3,93.00%,99.80%,6,17,2,1,2
+3394 Whitehaven Superstore,Large North,NORTH WEST,"£2,130",62,£31.89,£2.45,13,55,1.1,77.3,22.40%,95.50%,10,38,17,3,10
+3395 Whitton Express,Convenience London,SOUTH EAST,"£6,538",187,£31.92,£3.02,10.6,128,1.5,23.1,98.40%,98.90%,6,11,3,1,3
+3396 Atherton Superstore,Large North,NORTH WEST,"£7,436",182,£37.80,£2.52,15,148,1.2,39.7,94.00%,97.10%,9,12,9,2,7
+3397 Whitchurch Express,Convenience South,WALES,"£4,321",132,£29.72,£2.72,10.9,97,1.4,29.5,94.00%,97.40%,8,14,4,1,2
+3405 Water Orton Express,Convenience Central,MIDLANDS,"£1,079",28,£35.45,£2.51,14.1,24,1.2,21.2,100.00%,99.10%,6,7,4,2,1
+3407 Doncaster Wheatley Hill Express,Convenience North,NORTH EAST,"£3,475",105,£30.18,£2.57,11.7,73,1.4,28.2,96.20%,97.40%,7,14,4,2,2
+3418 Witney Station Ln Esso Express,Convenience Central,SOUTH CENTRAL,£537,21,£22.42,£2.43,9.2,15,1.4,38.7,85.70%,98.70%,4,28,3,2,2
+3423 Weymouth Dorchester Rd Express,Convenience South,SOUTH CENTRAL,"£2,880",84,£31.24,£2.77,11.3,56,1.5,39.2,88.10%,99.40%,6,26,3,2,2
+3431 Larkhill Esso Express,Convenience Central,MIDLANDS,"£5,836",169,£31.54,£2.63,12,130,1.3,30.8,94.10%,98.10%,8,15,3,2,3
+3432 Glenmoor Rd Bournemouth Express,Convenience South,SOUTH CENTRAL,"£2,210",66,£30.46,£2.64,11.5,50,1.3,43.3,76.90%,99.40%,5,31,3,2,2
+3442 Terriers North Esso Express,Convenience South,SOUTH EAST,"£4,648",140,£30.03,£2.83,10.6,99,1.4,21.7,99.30%,98.40%,5,9,3,2,2
+3443 High Wycombe South Esso Express,Convenience South,SOUTH EAST,"£1,396",41,£30.87,£2.67,11.6,33,1.2,21.3,100.00%,98.50%,5,8,3,2,3
+3445 Wood Green Express,Convenience London,GREATER LONDON,"£3,369",116,£26.02,£2.35,11.1,86,1.3,27.9,97.40%,98.30%,6,11,4,1,6
+3446 Croydon Whitehorse Rd Express,Convenience London,SOUTH EAST,"£4,203",124,£30.82,£2.83,10.9,81,1.5,25.3,96.90%,98.50%,5,13,4,1,2
+3447 Woodingdean Esso Express,Convenience South,SOUTH EAST,"£2,789",86,£29.52,£2.90,10.2,57,1.5,36.8,86.40%,99.00%,8,21,4,1,3
+3450 Woodley Express,Convenience South,SOUTH EAST,"£4,378",131,£30.21,£2.75,11,96,1.4,27.5,98.50%,99.20%,6,14,4,2,2
+3455 Harestock Express,Convenience South,SOUTH CENTRAL,"£3,351",102,£29.69,£2.80,10.6,69,1.5,40.5,79.00%,99.30%,6,27,3,2,4
+3460 Totton Express,Convenience South,SOUTH CENTRAL,"£2,194",72,£27.43,£2.57,10.7,53,1.4,34.7,91.70%,98.90%,6,22,3,2,3
+3463 Warndon Express,Convenience Central,MIDLANDS,"£7,694",222,£31.51,£2.64,11.9,162,1.4,27.4,97.30%,99.10%,6,13,3,2,3
+3464 Liverpool Wavertree Express,Convenience North,NORTH WEST,"£4,564",133,£31.30,£2.45,12.8,106,1.3,29.6,94.70%,98.50%,9,13,4,1,2
+3465 Southampton Wessex Rd Express,Convenience South,SOUTH CENTRAL,"£2,084",63,£30.00,£2.72,11,40,1.6,29.8,96.90%,96.90%,4,19,3,3,2
+3467 Chelsea Royal Hospital Rd Express,Convenience London,GREATER LONDON,"£1,363",38,£32.85,£4.23,7.8,26,1.5,20.9,94.60%,98.40%,5,11,2,2,1
+3468 Eaglescliffe Superstore,Large North,NORTH EAST,"£2,033",50,£37.54,£2.63,14.3,40,1.3,34.4,95.90%,95.40%,9,14,7,2,2
+3469 Yateley Esso Express,Convenience South,SOUTH CENTRAL,"£3,698",99,£34.37,£2.68,12.8,72,1.4,41.9,79.80%,98.20%,6,28,4,2,1
+3471 Yate Station Rd Express,Convenience South,SOUTH CENTRAL,"£3,632",129,£24.95,£2.33,10.7,108,1.2,29.4,96.10%,99.20%,6,16,3,2,2
+3472 Acomb Wood Express,Convenience North,NORTH EAST,"£5,209",158,£29.86,£2.67,11.2,118,1.3,35.4,88.50%,98.60%,7,20,3,2,3
+3477 Dartmouth Park Express,Convenience London,GREATER LONDON,"£1,993",57,£31.92,£3.38,9.4,38,1.5,30.1,94.70%,100.00%,5,20,3,1,2
+3479 St John's Wood Express,Convenience London,GREATER LONDON,"£2,278",68,£30.42,£2.77,11,42,1.6,21,98.50%,99.80%,5,11,3,2,1
+3481 Weybridge Queens Rd Express,Convenience London,SOUTH EAST,"£5,079",145,£32.03,£2.76,11.6,109,1.3,28.6,95.10%,98.20%,6,13,4,1,3
+3484 Putney Express,Convenience London,GREATER LONDON,"£1,404",47,£26.61,£3.07,8.7,32,1.5,18.4,100.00%,99.40%,4,9,3,1,2
+3485 Shaw Ramleaze Dr Express,Convenience South,SOUTH CENTRAL,"£2,455",81,£27.34,£2.79,9.8,51,1.6,31.3,91.40%,97.90%,5,19,3,2,2
+3575 Notte St Express,Convenience South,SOUTH WEST,"£1,907",64,£26.90,£2.66,10.1,47,1.4,38.3,85.20%,99.70%,7,26,3,1,2
+4335 Bedfont Staines Express,Convenience London,SOUTH EAST,"£9,993",345,£25.89,£2.61,9.9,237,1.5,26.3,96.60%,98.10%,5,14,4,1,3
+4337 Braintree Coggeshall Express,Convenience Central,SOUTH EAST,"£20,134",636,£28.62,£2.52,11.4,473,1.3,45.2,77.90%,99.20%,8,28,4,2,4
+4343 Waterlooville Express,Convenience South,SOUTH CENTRAL,"£7,770",242,£28.98,£2.65,10.9,165,1.5,27.8,99.60%,99.90%,7,13,3,2,2
+4347 Hetton Le Hole Express,Convenience North,NORTH EAST,"£5,850",177,£30.04,£2.86,10.5,126,1.4,50.5,72.00%,99.50%,8,36,3,2,2
+4349 Sharrow Express,Convenience North,NORTH EAST,"£2,773",91,£27.44,£2.45,11.2,74,1.2,33.4,86.70%,96.90%,8,17,4,1,4
+4353 Airdrie Express,Convenience North,WEST SCOTLAND,"£8,151",222,£33.62,£2.42,13.9,156,1.4,26.8,98.20%,98.60%,6,12,3,2,3
+4355 Windmillhill Express,Convenience North,WEST SCOTLAND,"£5,664",150,£34.71,£2.70,12.9,120,1.3,37.4,92.70%,98.00%,7,18,5,3,4
+4356 Chertsey Express,Convenience London,SOUTH EAST,"£10,217",323,£28.61,£2.63,10.9,236,1.4,23.8,99.70%,98.30%,6,10,3,2,2
+4359 Bermondsey Spa Express,Convenience London,GREATER LONDON,"£5,905",168,£32.16,£2.60,12.4,120,1.4,30,94.80%,98.80%,7,13,5,2,3
+4365 Haydock Vicarage Rd Express,Convenience North,NORTH WEST,"£10,493",314,£30.42,£2.58,11.8,207,1.5,39,88.10%,99.00%,9,21,3,2,4
+4371 Ipswich Norwich Express,Convenience Central,EAST ANGLIA,"£9,109",265,£31.30,£2.59,12.1,190,1.4,26,98.50%,99.40%,8,11,3,2,2
+4372 Blythe Bridge Uttoxeter Express,Convenience Central,MIDLANDS,"£5,277",173,£27.36,£2.92,9.4,129,1.3,22.7,99.40%,98.00%,6,8,3,2,3
+4374 Ormeau Rd Belfast Express,NI Convenience,NORTHERN IRELAND,"£3,299",98,£30.49,£2.22,13.8,84,1.2,25.6,99.00%,98.60%,9,11,3,1,2
+4376 Mitcham Streatham Rd Express,Convenience London,GREATER LONDON,"£5,090",167,£27.42,£2.38,11.5,129,1.3,27.2,95.20%,98.90%,8,14,3,1,2
+4377 Abingdon Rd Express,Convenience Central,SOUTH CENTRAL,"£6,295",208,£27.11,£2.35,11.6,151,1.4,35.5,91.30%,98.40%,9,15,4,2,5
+4380 Romsey Rd Southampton,Convenience South,SOUTH CENTRAL,"£12,600",389,£29.34,£2.57,11.4,247,1.6,24.6,99.00%,99.80%,8,10,3,1,2
+4381 Ipswich Foxhall Express,Convenience Central,EAST ANGLIA,"£5,438",166,£29.61,£2.62,11.3,118,1.4,29.2,94.00%,98.30%,5,16,4,2,2
+4382 St Ives Needingworth Express,Convenience Central,EAST ANGLIA,"£7,288",210,£31.66,£2.69,11.8,159,1.3,26.1,98.10%,99.70%,6,13,3,2,2
+4392 Canterbury New Dover Express,Convenience South,SOUTH EAST,"£5,261",165,£28.72,£2.57,11.2,122,1.4,26,97.00%,98.50%,8,10,4,2,2
+4393 Ladbroke Grove Express,Convenience London,GREATER LONDON,"£2,821",103,£24.33,£2.59,9.4,71,1.5,22.4,97.10%,97.70%,5,10,4,1,3
+4396 Colchester Magdalen Express,Convenience Central,SOUTH EAST,"£13,637",418,£29.54,£2.63,11.2,290,1.4,26,98.60%,98.40%,7,9,4,2,4
+4397 Stony Stratford Express,Convenience Central,SOUTH EAST,"£5,651",154,£33.67,£2.33,14.4,115,1.3,26.5,96.80%,100.00%,7,11,4,1,3
+4407 South Parks Rd Express,Convenience North,EAST SCOTLAND,"£5,876",182,£29.09,£2.77,10.5,108,1.7,34.8,87.80%,99.10%,7,21,3,2,2
+4413 Tuckton Rd Express,Convenience South,SOUTH CENTRAL,"£3,339",116,£25.53,£2.76,9.3,74,1.6,28.1,95.70%,99.30%,6,16,3,2,2
+4415 Old Dumbarton Rd Express,Convenience North,WEST SCOTLAND,"£1,158",34,£31.14,£3.81,8.2,23,1.5,33.7,87.90%,96.80%,5,22,4,1,2
+4417 Hatfield Rise Express,Convenience Central,SOUTH EAST,"£5,706",190,£26.85,£2.12,12.6,148,1.3,25.8,97.40%,97.90%,7,10,4,2,3
+4428 Linwood Superstore,Large North,WEST SCOTLAND,"£8,175",193,£39.38,£2.52,15.6,141,1.4,54.6,64.60%,95.40%,9,21,14,3,8
+4431 Reading Whitley St Express,Convenience South,SOUTH EAST,"£2,826",81,£31.87,£2.64,12.1,49,1.7,31.6,91.50%,99.40%,7,19,3,1,1
+4436 Kilburn High Rd Express,Convenience London,GREATER LONDON,"£2,204",69,£28.81,£2.58,11.1,52,1.3,26.1,95.70%,97.40%,5,14,4,1,2
+4447 Queensway Express,Convenience London,GREATER LONDON,"£1,915",55,£31.85,£2.68,11.9,45,1.2,30.3,94.50%,97.40%,6,12,5,2,5
+4451 Liverpool Great Crosshall Express,Convenience North,NORTH WEST,"£1,682",54,£28.01,£2.76,10.1,36,1.5,36.3,88.90%,98.00%,8,21,4,1,3
+4457 Canons Park Express,Convenience London,SOUTH EAST,"£1,510",54,£24.74,£2.60,9.5,36,1.5,24.9,94.40%,98.40%,4,12,4,2,3
+4466 Farnborough Cove Rd Express,Convenience South,SOUTH CENTRAL,"£7,448",228,£29.65,£2.73,10.8,170,1.3,27.9,95.20%,99.40%,7,13,4,2,2
+4469 Bath Weston Express,Convenience South,SOUTH CENTRAL,"£2,156",51,£39.45,£3.04,13,33,1.5,31,91.80%,98.80%,4,18,4,2,3
+4470 Tingley Express,Convenience North,NORTH EAST,"£3,060",98,£28.16,£2.84,9.9,65,1.5,22,96.90%,98.40%,5,9,4,2,2
+4472 Peterborough Oundle Rd Express,Convenience Central,EAST ANGLIA,"£5,587",163,£31.21,£2.58,12.1,119,1.4,19.1,100.00%,99.70%,5,6,3,2,2
+4473 Coatbridge Express,Convenience North,WEST SCOTLAND,"£7,250",215,£30.61,£2.76,11.1,156,1.4,30.2,97.20%,98.80%,7,12,4,2,4
+4474 Southwark The Cut Express,Convenience London,GREATER LONDON,£454,15,£27.31,£3.25,8.4,12,1.3,25.3,100.00%,98.90%,4,15,3,3,1
+4476 Trymwood Express,Convenience South,SOUTH CENTRAL,"£2,226",68,£29.62,£3.48,8.5,39,1.7,30,98.60%,96.60%,7,16,3,2,3
+4477 Dolphin Dominion Rd Express,Convenience South,SOUTH EAST,"£6,358",184,£31.50,£2.58,12.2,119,1.5,31.2,94.60%,99.30%,8,15,4,2,2
+4485 Kendal Highgate Express,Convenience North,NORTH WEST,£858,30,£25.79,£3.28,7.9,20,1.5,53.3,57.10%,93.70%,6,38,4,2,3
+4490 Molesey Rd Express,Convenience London,SOUTH EAST,"£6,676",194,£31.31,£2.61,12,146,1.3,26.7,99.50%,99.70%,6,13,3,2,2
+4498 Hailsham South Rd Express,Convenience South,SOUTH EAST,"£11,277",351,£29.08,£2.66,10.9,249,1.4,41.4,84.90%,98.60%,7,23,5,2,4
+4502 Ruxley Ln Express,Convenience London,SOUTH EAST,"£5,201",178,£26.30,£2.54,10.4,124,1.4,21.6,97.80%,98.80%,5,11,3,1,2
+4503 London Rd Express,Convenience South,SOUTH EAST,"£5,362",173,£27.87,£2.42,11.5,122,1.4,21.1,100.00%,99.10%,6,7,3,3,1
+4508 Hereford Buckingham Express,Convenience Central,MIDLANDS,"£1,908",63,£27.35,£2.42,11.3,48,1.3,44.2,77.80%,99.50%,6,32,3,2,3
+4517 Sheffield Beighton Express,Convenience North,MIDLANDS,"£2,834",84,£30.66,£3.08,9.9,61,1.4,26,95.10%,98.40%,7,12,3,2,2
+4521 Waterloo Rd Express,Convenience London,GREATER LONDON,£416,14,£26.41,£2.68,9.9,9,1.6,26.3,92.90%,100.00%,4,16,3,3,0
+4540 Hillingdon Pield Rd Express,Convenience London,SOUTH EAST,"£7,291",246,£26.59,£2.69,9.9,178,1.4,17.7,100.00%,99.00%,6,5,4,2,2
+4541 Spring Grove Express,Convenience London,SOUTH EAST,"£4,694",157,£26.69,£2.70,9.9,115,1.4,20.8,98.70%,96.60%,5,10,3,1,2
+4558 Silverdale Rd Express,Convenience South,SOUTH EAST,"£2,825",78,£33.18,£2.66,12.5,59,1.3,24.4,98.70%,99.10%,7,11,4,1,1
+4560 Greetland Express,Convenience North,NORTH EAST,"£3,498",114,£27.52,£2.70,10.2,74,1.5,20,100.00%,98.70%,5,8,3,2,2
+4561 Barrack Rd Express,Convenience North,NORTH EAST,"£1,616",54,£27.31,£2.46,11.1,44,1.2,45.7,72.00%,99.10%,9,29,4,1,2
+4563 Putney Upper Richmond Rd Express,Convenience London,GREATER LONDON,"£3,748",113,£30.05,£2.69,11.2,80,1.4,24,99.10%,99.40%,5,12,3,1,2
+4564 Bromley Plaistow Ln Express,Convenience London,GREATER LONDON,"£5,118",160,£28.96,£2.73,10.6,113,1.4,24.3,98.10%,99.20%,5,12,4,1,2
+4573 Hemel Fletcher Way Express,Convenience Central,SOUTH EAST,"£5,787",195,£26.49,£2.60,10.2,136,1.4,20.1,99.00%,99.30%,5,6,4,3,3
+4577 Archway Holloway Rd Express,Convenience London,GREATER LONDON,"£2,543",86,£26.60,£2.84,9.4,60,1.4,25.8,96.50%,97.90%,4,15,3,1,2
+4611 Portsmouth Brunel Rd Express,Convenience South,SOUTH CENTRAL,"£2,536",77,£29.87,£3.21,9.3,60,1.3,22.3,98.70%,100.00%,5,8,3,4,2
+4612 Newton Rd Express,Convenience South,WALES,"£1,934",57,£30.94,£2.80,11.1,43,1.3,56,70.20%,99.30%,6,40,4,3,3
+4614 Cavalier Way Express,Convenience South,SOUTH CENTRAL,"£4,867",149,£29.60,£2.69,11,98,1.5,41.6,78.50%,97.30%,5,27,4,2,4
+4615 Basingstoke Oakridge Rd Express,Convenience South,SOUTH CENTRAL,"£10,410",314,£30.06,£2.58,11.7,202,1.6,40.8,82.40%,99.20%,7,23,4,2,5
+4616 Haywards Heath Walnut Park Express,Convenience South,SOUTH EAST,"£2,757",94,£26.23,£2.53,10.4,63,1.5,34.2,89.40%,99.50%,4,23,3,2,2
+4618 Bristol Hatchet Rd,Convenience South,SOUTH CENTRAL,"£4,423",147,£26.85,£2.43,11,97,1.5,27.1,96.70%,98.60%,7,13,3,1,2
+4619 Hastings Little Ridge Express,Convenience South,SOUTH EAST,"£6,498",220,£26.42,£2.43,10.9,160,1.4,36,93.70%,98.80%,7,20,4,2,3
+4622 Sandhurst Yorktown Express,Convenience South,SOUTH CENTRAL,"£6,544",178,£33.72,£2.61,12.9,146,1.2,35.4,87.70%,99.10%,8,20,4,1,3
+4624 Sheffield Crosspool Express,Convenience North,NORTH EAST,"£1,908",53,£32.95,£2.63,12.5,42,1.3,31.7,94.30%,96.90%,6,15,4,3,4
+4625 Plymouth Alex Rd Express,Convenience South,SOUTH WEST,"£4,990",160,£28.18,£2.61,10.8,112,1.4,30.6,94.30%,100.00%,5,19,3,1,3
+4634 London Borough High Street Express,Convenience London,GREATER LONDON,£399,11,£33.10,£3.31,10,8,1.4,29.8,90.90%,97.40%,5,17,4,3,1
+4642 Salisbury Wilton Express,Convenience South,SOUTH CENTRAL,"£10,980",353,£28.09,£2.56,11,268,1.3,40.4,83.70%,97.00%,7,23,4,2,4
+4647 Whyteleafe Express,Convenience London,SOUTH EAST,"£12,643",404,£28.19,£2.64,10.7,305,1.3,28.2,97.30%,98.80%,7,13,3,2,3
+4659 Haymarket Tower Express,Convenience Central,MIDLANDS,£102,3,£31.07,£2.27,13.7,2,1.5,29.3,100.00%,94.10%,5,13,6,2,4
+4672 Market Place Hull Express,Convenience North,NORTH EAST,"£2,317",75,£27.85,£2.60,10.7,48,1.6,31.3,89.30%,99.40%,9,16,3,2,2
+4673 Swansea Mariner Street Express,Convenience South,WALES,"£2,810",89,£28.63,£2.73,10.5,71,1.3,31,91.10%,98.60%,7,15,3,1,4
+4675 Chell Street Hanley Express,Convenience Central,MIDLANDS,"£10,277",298,£31.44,£2.50,12.6,213,1.4,26.5,98.30%,99.30%,8,12,3,1,2
+4676 Martletts Crawley Express,Convenience South,SOUTH EAST,"£4,040",144,£24.89,£2.32,10.7,123,1.2,26.1,96.50%,99.30%,9,11,3,1,2
+4677 Crossways Slough Express,Convenience South,SOUTH EAST,"£6,000",187,£28.96,£2.47,11.7,140,1.3,22.7,100.00%,99.50%,6,7,4,3,2
+4688 Park Lane Tottenham Exp,Convenience London,GREATER LONDON,"£1,615",58,£24.84,£2.32,10.7,47,1.2,24.6,100.00%,99.50%,5,11,3,1,3
+4690 Staines High Street Express,Convenience London,SOUTH EAST,"£6,241",203,£27.65,£2.48,11.2,165,1.2,27.5,99.00%,97.70%,9,11,3,2,2
+4693 New Road Chingford,Convenience London,GREATER LONDON,"£6,716",209,£29.00,£2.81,10.3,145,1.4,24.9,95.70%,98.70%,6,13,3,1,2
+4694 Dumont Express,Convenience London,GREATER LONDON,"£1,029",36,£25.61,£2.24,11.4,28,1.3,31,91.40%,98.50%,6,16,5,2,3
+4695 Prince of Wales Drive Express,Convenience London,GREATER LONDON,£573,22,£22.92,£2.52,9.1,19,1.2,48,81.80%,91.80%,12,24,5,3,4
+4698 Lowestoft Express,Convenience Central,EAST ANGLIA,"£6,173",203,£27.21,£2.43,11.2,146,1.4,29.2,95.10%,99.00%,7,15,3,2,2
+4757 Beaumont Road Express,Convenience London,GREATER LONDON,"£2,388",91,£23.01,£3.04,7.6,57,1.6,28,93.40%,99.80%,5,18,2,1,2
+4760 Guildford Railton Road Express,Convenience South,SOUTH EAST,"£8,183",235,£31.70,£2.75,11.5,172,1.4,29.1,96.60%,100.00%,7,15,3,2,3
+4761 Esher High Street Express,Convenience London,SOUTH EAST,"£2,997",92,£29.47,£2.98,9.9,62,1.5,27,96.70%,98.80%,6,14,3,2,1
+4763 Northcliffe Shipley Express,Convenience North,NORTH EAST,"£3,449",117,£26.51,£2.88,9.2,83,1.4,31,90.50%,98.90%,8,15,3,2,3
+4765 Donegall Express,NI Convenience,NORTHERN IRELAND,"£5,486",161,£31.02,£2.76,11.3,123,1.3,38.3,93.10%,97.50%,15,13,5,1,4
+4766 Portchester Express,Convenience South,SOUTH CENTRAL,"£11,304",351,£29.13,£2.42,12,244,1.4,30.8,94.90%,98.80%,8,16,3,2,2
+4767 Pentewan Road Express,Convenience South,SOUTH WEST,"£3,797",123,£28.08,£2.79,10,94,1.3,51.9,69.70%,98.70%,7,37,4,2,2
+4771 Beaufort House Express,Convenience Central,MIDLANDS,£417,15,£24.56,£2.32,10.6,13,1.2,21.7,100.00%,100.00%,5,9,3,1,3
+4776 Lincoln Brayford Express,Convenience Central,MIDLANDS,"£4,227",120,£32.23,£2.42,13.3,99,1.2,32.3,95.00%,99.00%,8,16,3,2,2
+4777 Bollington Cheshire Express,Convenience Central,MIDLANDS,"£3,038",91,£30.45,£2.98,10.2,68,1.3,38.9,89.00%,99.40%,7,25,3,2,2
+4779 Chinese Garage Express,Convenience London,SOUTH EAST,"£2,207",70,£28.40,£2.72,10.5,57,1.2,32.5,88.60%,99.00%,6,19,4,1,3
+4781 Swansea Treboeth Express,Convenience South,WALES,"£12,770",391,£29.62,£2.60,11.4,284,1.4,28.5,96.10%,97.90%,8,13,3,1,3
+4782 Connahs Quay Express,Convenience Central,WALES,"£2,123",62,£31.09,£2.88,10.8,45,1.4,46.2,77.40%,98.50%,10,29,3,3,2
+4783 Toothill Village Centre,Convenience South,SOUTH CENTRAL,"£3,523",111,£28.64,£2.78,10.3,82,1.4,30.6,93.80%,98.20%,6,16,4,3,3
+4784 Orchard Park Express,Convenience Central,EAST ANGLIA,"£3,975",127,£28.30,£2.59,10.9,90,1.4,25.5,94.50%,98.80%,5,12,4,2,3
+4785 Hood Manor Express,Convenience North,MIDLANDS,"£2,971",100,£26.66,£2.90,9.2,74,1.4,30.4,95.00%,98.40%,7,16,3,1,2
+4786 Sefton Express,Convenience North,NORTH WEST,"£12,388",397,£28.25,£2.62,10.8,276,1.4,31.9,90.50%,98.10%,7,17,4,1,3
+4787 Altrincham Express,Convenience North,NORTH WEST,"£8,207",268,£27.54,£2.60,10.6,176,1.5,30,94.80%,98.20%,8,14,3,1,3
+4788 Dam Lane Express,Convenience North,MIDLANDS,"£1,899",57,£30.20,£2.73,11.1,32,1.8,33.3,91.20%,100.00%,8,19,2,2,2
+4791 Chessington Express,Convenience London,SOUTH EAST,"£2,564",86,£26.65,£2.94,9.1,62,1.4,18.5,97.70%,98.90%,4,8,3,1,2
+4792 Urmston Davyhulme Express,Convenience North,NORTH WEST,"£3,042",94,£29.39,£2.66,11.1,69,1.4,29.2,93.60%,99.20%,6,17,3,1,2
+4793 Wisbech Express,Convenience Central,EAST ANGLIA,"£7,988",248,£29.10,£2.79,10.4,178,1.4,25.9,96.40%,99.80%,6,13,3,2,2
+4794 Kirby Express,Convenience North,NORTH WEST,"£2,990",103,£26.15,£3.01,8.7,73,1.4,35.5,85.60%,92.90%,7,22,3,1,2
+4795 Garforth Express,Convenience North,NORTH EAST,"£4,318",151,£25.49,£2.50,10.2,113,1.3,27.2,94.70%,98.40%,6,15,3,2,2
+4797 Malinslee Express,Convenience Central,MIDLANDS,"£4,469",140,£28.82,£2.45,11.8,106,1.3,26.7,97.10%,97.20%,7,10,4,2,4
+4798 Telford Woodside Express,Convenience Central,MIDLANDS,"£10,634",350,£27.29,£2.49,11,251,1.4,32.3,95.70%,98.20%,8,12,5,2,5
+4799 Narrow Hall Meadow,Convenience Central,MIDLANDS,"£3,278",103,£28.69,£2.66,10.8,72,1.4,27.5,97.10%,99.50%,7,13,3,2,2
+4802 Cramlington Express,Convenience North,NORTH EAST,"£4,033",117,£31.42,£3.17,9.9,72,1.6,30,97.40%,98.80%,6,15,3,2,4
+4803 Crookston Road,Convenience North,WEST SCOTLAND,"£10,717",302,£32.37,£2.73,11.8,203,1.5,28.9,98.00%,97.40%,7,13,4,2,2
+4804 Meadow Way Express,Convenience Central,SOUTH EAST,"£10,452",324,£29.27,£2.94,9.9,206,1.6,23,98.80%,99.40%,8,8,3,3,2
+4805 Clifton Shefford Express,Convenience Central,SOUTH EAST,"£1,352",36,£34.54,£3.09,11.2,23,1.6,33,94.40%,98.50%,6,19,3,3,2
+4806 Castleford Express,Convenience North,NORTH EAST,"£4,538",136,£30.43,£2.54,12,108,1.3,27.7,95.60%,99.10%,7,11,4,2,3
+4807 Crigglestone Express,Convenience North,NORTH EAST,£614,22,£24.56,£2.97,8.3,14,1.6,24.5,100.00%,98.70%,5,11,3,3,2
+4811 St Helens Express,Convenience North,NORTH WEST,"£2,008",70,£25.69,£2.60,9.9,53,1.3,39.3,85.50%,98.60%,6,24,3,1,5
+4812 Hampton Vale Express,Convenience Central,EAST ANGLIA,"£10,394",313,£30.14,£2.77,10.9,214,1.5,22.5,99.00%,99.50%,6,8,3,2,3
+4813 Hardwicke Express,Convenience Central,SOUTH CENTRAL,"£4,408",160,£24.32,£2.97,8.2,107,1.5,31.5,94.40%,99.70%,6,17,3,2,3
+4814 Bridlington Express,Convenience North,NORTH EAST,"£4,527",134,£30.63,£2.80,10.9,93,1.4,36.6,83.80%,99.70%,6,22,3,2,3
+4817 Eltham Express,Convenience London,GREATER LONDON,"£4,259",142,£27.01,£2.93,9.2,79,1.8,32.3,88.70%,98.80%,6,18,3,1,4
+4818 Giffard Park Express,Convenience Central,SOUTH EAST,"£3,175",98,£29.19,£2.69,10.8,75,1.3,23.4,100.00%,100.00%,5,9,3,3,3
+4819 Watford North Approach,Convenience London,SOUTH EAST,"£2,971",91,£29.64,£2.45,12.1,70,1.3,20.3,100.00%,98.40%,5,7,4,2,2
+4821 Beswick Express,Convenience North,NORTH WEST,"£9,292",278,£30.30,£2.64,11.5,204,1.4,26,97.90%,99.10%,9,8,4,2,3
+4823 Northern Moor,Convenience North,NORTH WEST,"£8,984",294,£27.50,£2.56,10.7,184,1.6,26.1,95.90%,96.30%,5,12,4,1,4
+4824 Northwood Express,Convenience London,SOUTH EAST,"£3,739",123,£27.35,£3.02,9.1,75,1.6,17.4,99.20%,99.20%,5,6,3,2,2
+4826 Lichfield,Convenience North,MIDLANDS,"£3,301",109,£27.26,£2.73,10,74,1.5,29.1,94.50%,97.60%,5,15,3,2,3
+4827 Springfield Express,Convenience Central,SOUTH EAST,"£2,890",83,£31.86,£2.58,12.3,58,1.4,48.2,80.00%,99.50%,6,32,4,3,3
+4828 Harwich Express,Convenience Central,SOUTH EAST,"£2,654",99,£23.78,£2.56,9.3,60,1.7,23.9,93.60%,99.60%,5,13,3,2,2
+4830 Grange Road Express,Convenience Central,SOUTH EAST,"£5,720",164,£31.78,£2.71,11.7,123,1.3,42.3,86.70%,99.30%,8,26,3,2,3
+4831 Beaconsfield Express,Convenience South,SOUTH EAST,"£1,807",45,£37.00,£3.66,10.1,32,1.4,26.2,95.60%,99.10%,5,15,3,3,1
+4833 Nicol Street Express,Convenience North,EAST SCOTLAND,"£3,307",83,£36.78,£2.83,13,64,1.3,37.6,89.20%,98.40%,7,23,4,2,1
+4840 Bagot Street Express,Convenience Central,MIDLANDS,"£2,219",74,£26.96,£2.20,12.2,60,1.2,26.4,98.70%,98.90%,9,9,4,1,2
+4842 Union Street Castlegate Express,Convenience North,EAST SCOTLAND,"£1,235",44,£25.18,£2.42,10.4,40,1.1,71.1,43.90%,97.90%,8,52,5,3,3
+4843 Coventry Bishopsgate Express,Convenience Central,MIDLANDS,"£4,132",133,£28.03,£2.44,11.5,116,1.1,25.6,95.60%,98.40%,9,10,3,1,1
+4846 Stratford Upon Avon Express,Convenience Central,MIDLANDS,"£5,448",161,£30.89,£3.00,10.3,120,1.3,47.8,73.60%,96.80%,7,31,4,2,4
+4847 Moortown Express,Convenience North,NORTH EAST,"£3,438",95,£32.97,£2.89,11.4,77,1.2,30.1,90.70%,96.80%,6,14,5,3,2
+4850 Covent Garden Endell Street Express,Convenience London,GREATER LONDON,£977,29,£30.84,£3.12,9.9,21,1.4,27.1,96.60%,100.00%,4,16,3,2,2
+4854 Pinner Express,Convenience London,SOUTH EAST,"£1,186",38,£28.11,£2.36,11.9,27,1.4,17.7,100.00%,99.50%,4,8,4,1,2
+4877 Weymouth Express,Convenience South,SOUTH CENTRAL,"£2,568",79,£29.45,£2.92,10.1,54,1.5,43,75.90%,98.80%,4,32,3,2,2
+4888 Twickenham Whitton Road Express,Convenience London,SOUTH EAST,"£1,954",64,£27.44,£2.62,10.5,49,1.3,29.3,86.20%,99.30%,6,17,3,1,1
+4890 Solihull High Street Express,Convenience Central,MIDLANDS,"£3,148",87,£33.08,£2.48,13.3,67,1.3,35.7,89.70%,98.70%,10,18,4,1,3
+4891 Maylands Plaza Express,Convenience Central,SOUTH EAST,"£3,972",123,£29.20,£2.57,11.3,90,1.4,21.7,99.20%,99.50%,5,8,3,2,3
+4893 High Street Winchester Express,Convenience South,SOUTH CENTRAL,"£4,636",151,£27.68,£2.68,10.3,120,1.3,35,90.10%,99.20%,7,19,4,2,3
+4898 PAIGNTON VICTORIA EXP,Convenience South,SOUTH WEST,"£5,031",162,£28.12,£2.53,11.1,117,1.4,51.7,71.20%,99.10%,8,35,4,2,3
+4916 Blackfriars Circus Express,Convenience London,GREATER LONDON,£568,19,£26.72,£2.63,10.2,15,1.3,32.3,84.20%,100.00%,5,21,2,3,1
+4923 Cringleford Express,Convenience Central,EAST ANGLIA,"£3,498",122,£25.45,£2.59,9.8,82,1.5,28.1,97.50%,99.00%,6,15,3,2,2
+4926 West Brompton Express,Convenience London,GREATER LONDON,"£1,567",45,£31.95,£2.55,12.5,32,1.4,21,97.80%,98.90%,5,9,4,2,2
+5000 Marlbrook Express,Convenience Central,MIDLANDS,"£2,088",54,£35.63,£2.85,12.5,41,1.3,29.2,100.00%,99.10%,7,15,3,2,1
+5001 Maidstone London Rd Express,Convenience South,SOUTH EAST,"£4,734",169,£24.94,£2.83,8.8,121,1.4,32.3,93.40%,97.00%,8,17,2,2,2
+5003 Milton Regis Express,Convenience South,SOUTH EAST,"£2,683",97,£24.55,£2.41,10.2,69,1.4,26,93.90%,98.80%,4,15,3,2,2
+5004 Thetford Norwich Rd Express,Convenience Central,EAST ANGLIA,"£8,784",309,£25.27,£2.60,9.7,224,1.4,35,85.90%,99.10%,5,23,3,2,2
+5012 Dunstable Langdale Express,Convenience Central,SOUTH EAST,"£2,832",90,£28.44,£2.54,11.2,73,1.2,23.6,98.90%,98.90%,6,9,4,2,2
+5015 Rowley Regis Express,Convenience Central,MIDLANDS,"£9,659",276,£31.97,£2.69,11.9,202,1.4,22.1,100.00%,98.80%,7,6,3,2,3
+5019 Lisieux Way Express,Convenience South,SOUTH CENTRAL,"£2,624",82,£29.00,£2.95,9.8,49,1.7,37.6,89.00%,98.10%,5,23,3,3,3
+5020 Appenine Way Express,Convenience Central,SOUTH EAST,"£4,805",165,£26.01,£2.29,11.3,136,1.2,22.1,99.40%,98.20%,6,7,4,2,4
+5021 Middlesbrough Parliament Rd Express,Convenience North,NORTH EAST,£345,13,£23.65,£2.29,10.3,12,1.1,29.4,91.70%,99.20%,5,19,4,1,1
+5022 Rotherham Brinsworth Ln Express,Convenience North,NORTH EAST,"£2,584",82,£28.45,£2.36,12.1,65,1.3,24.1,100.00%,97.20%,5,12,3,2,2
+5023 Milton Keynes Old Farm Park Express,Convenience Central,SOUTH EAST,"£7,195",233,£27.65,£2.58,10.7,168,1.4,24.8,98.70%,99.00%,7,10,3,1,3
+5026 Didcot Cockcroft Express,Convenience Central,SOUTH CENTRAL,"£5,982",211,£25.23,£2.15,11.7,161,1.3,30.7,93.30%,98.00%,7,15,3,2,4
+5027 Muscliffe Express,Convenience South,SOUTH CENTRAL,"£1,343",46,£26.11,£2.38,11,39,1.2,24.1,100.00%,99.30%,6,11,4,1,2
+5035 Ridgway Rd Express,Convenience South,SOUTH EAST,"£1,472",44,£30.20,£2.88,10.5,34,1.3,46,77.30%,100.00%,6,35,2,2,1
+5036 Hasbury Express,Convenience Central,MIDLANDS,"£1,398",40,£31.95,£2.86,11.2,29,1.4,26.4,95.00%,99.40%,4,17,3,1,1
+5038 Ribbleton Express,Convenience North,NORTH WEST,"£2,192",67,£29.61,£3.30,9,44,1.5,23.7,97.00%,96.00%,5,10,3,2,4
+5043 Marsh Express,Convenience North,NORTH EAST,"£5,924",192,£27.70,£2.79,9.9,135,1.4,23.1,98.40%,99.50%,9,9,3,1,2
+5045 Forest Park Express,Convenience South,SOUTH EAST,"£13,132",403,£29.44,£2.60,11.3,300,1.3,29.3,97.00%,98.30%,9,12,3,2,3
+5047 Burgess Hill Gatehouse Express,Convenience South,SOUTH EAST,"£11,774",383,£27.65,£2.38,11.6,269,1.4,30.6,94.10%,99.30%,6,15,4,2,4
+5049 Kenilworth Leyes Ln Express,Convenience Central,MIDLANDS,"£2,230",68,£29.67,£2.49,11.9,51,1.3,23.4,100.00%,98.20%,6,10,3,2,2
+5056 Birmingham Corporation St Express,Convenience Central,MIDLANDS,£410,11,£34.29,£1.96,17.5,11,1,30.1,100.00%,99.30%,12,8,7,1,2
+5057 Pemberton Express,Convenience North,NORTH WEST,"£3,063",101,£27.30,£2.62,10.4,67,1.5,39.4,89.10%,93.40%,6,24,4,2,3
+5060 Birstall Smithies Ln Express,Convenience North,NORTH EAST,"£11,733",340,£31.43,£2.69,11.7,245,1.4,24.6,97.90%,98.30%,8,10,3,1,2
+5061 Shirley Express,Convenience London,SOUTH EAST,"£4,992",179,£24.86,£2.74,9.1,126,1.4,22.7,98.30%,97.80%,5,11,3,1,3
+5063 Warminster Thornhill Rd Express,Convenience South,SOUTH CENTRAL,"£1,712",55,£28.07,£2.56,10.9,38,1.4,59,66.70%,99.10%,5,47,3,2,2
+5064 Amington Express,Convenience Central,MIDLANDS,"£2,433",85,£25.51,£2.81,9.1,58,1.5,26.6,96.50%,99.50%,5,15,3,2,2
+5069 Tankerton Rd Express,Convenience South,SOUTH EAST,"£6,545",189,£31.57,£2.64,11.9,141,1.3,29.7,94.20%,98.40%,7,15,4,2,2
+5070 Tinkers Bridge Express,Convenience Central,SOUTH EAST,"£6,438",203,£28.58,£2.60,11,157,1.3,27.4,98.50%,98.60%,7,12,4,1,3
+5071 Norton Express,Convenience North,NORTH EAST,"£11,838",353,£30.45,£2.78,10.9,261,1.4,32.5,95.50%,98.20%,9,16,3,1,3
+5073 Moordown Express,Convenience South,SOUTH CENTRAL,"£3,725",114,£29.49,£2.51,11.7,83,1.4,27,93.90%,98.70%,6,15,3,1,2
+5075 Parkstone Herbert Ave Express,Convenience South,SOUTH CENTRAL,"£4,892",143,£31.03,£2.93,10.6,91,1.6,27,95.80%,99.00%,4,16,4,2,2
+5077 Ruislip Field End Rd Express,Convenience London,SOUTH EAST,"£1,751",60,£26.13,£2.98,8.8,44,1.4,22.2,98.20%,100.00%,6,9,3,1,3
+5078 Tiverton Moorhayes Park Express,Convenience South,SOUTH WEST,"£12,990",411,£28.59,£2.63,10.9,289,1.4,47.1,77.10%,98.90%,5,32,3,3,4
+5079 Hornchurch Ardleigh Express,Convenience London,SOUTH EAST,"£9,595",316,£27.23,£2.86,9.5,244,1.3,27,97.20%,99.00%,9,12,3,1,2
+5080 Blackpool Central Dr Express,Convenience North,NORTH WEST,"£2,543",89,£25.57,£2.60,9.8,68,1.3,32,88.40%,97.80%,5,17,4,1,5
+5081 Ashton-in-makerfield Esso Express,Convenience North,NORTH WEST,"£7,011",197,£32.50,£2.67,12.2,143,1.4,37,91.40%,98.70%,8,22,4,2,1
+5082 Pendlebury Esso Express,Convenience North,NORTH WEST,"£4,958",168,£26.52,£2.58,10.3,125,1.3,22.6,98.80%,99.10%,6,8,4,2,3
+5083 Heywood York St Esso Express,Convenience North,NORTH WEST,"£7,660",245,£28.21,£2.75,10.2,165,1.5,23.3,100.00%,97.60%,6,8,4,2,3
+5084 Eastwood Esso Express,Convenience Central,SOUTH EAST,"£5,523",174,£28.65,£2.89,9.9,131,1.3,23.4,98.90%,99.40%,6,9,3,2,3
+5085 Yate Brimsham Park Express,Convenience South,SOUTH CENTRAL,"£3,915",112,£31.86,£2.66,12,79,1.4,26.6,95.50%,98.80%,5,13,3,3,2
+5086 Bury St Edmunds Horringer Express,Convenience Central,EAST ANGLIA,"£3,148",93,£30.73,£2.63,11.7,75,1.2,46.1,76.10%,99.00%,6,34,4,2,1
+5088 Hanworth Express,Convenience London,SOUTH EAST,"£8,368",290,£25.66,£2.61,9.8,183,1.6,25.5,95.20%,99.30%,6,12,3,1,4
+5092 Wellington Haygate Rd Express,Convenience Central,MIDLANDS,"£3,316",104,£28.73,£2.63,10.9,77,1.4,26,97.10%,99.80%,6,13,3,3,1
+5093 Dalton Huddersfld Express,Convenience North,NORTH EAST,"£1,862",59,£28.35,£2.36,12,50,1.2,30.8,89.70%,99.00%,6,18,3,1,3
+5094 Bispham Express,Convenience North,NORTH WEST,"£3,140",97,£29.42,£2.42,12.2,75,1.3,27.4,94.70%,98.90%,6,15,4,1,2
+5095 Worle Express,Convenience South,SOUTH CENTRAL,"£1,441",47,£27.60,£2.57,10.7,30,1.6,30.1,98.00%,98.90%,6,17,2,2,2
+5097 Horsforth New Rd Express,Convenience North,NORTH EAST,"£1,430",53,£23.97,£2.73,8.8,43,1.2,31.5,96.00%,98.50%,7,19,2,1,1
+5098 Coldfield Esso Express,Convenience Central,MIDLANDS,"£1,572",41,£35.27,£3.16,11.1,30,1.4,32,92.70%,98.30%,6,19,3,1,2
+5099 STOURBDG HALESOWEN EXPRESS,Convenience Central,MIDLANDS,"£10,100",317,£28.79,£2.61,11,228,1.4,21.6,99.40%,99.10%,7,8,3,1,2
+5101 Paganhill Express,Convenience Central,SOUTH CENTRAL,"£3,923",140,£24.90,£2.44,10.2,105,1.3,40.9,79.60%,98.20%,6,27,3,2,2
+5103 Hammersmith North End Rd Express,Convenience London,GREATER LONDON,"£2,546",83,£27.57,£2.88,9.6,62,1.3,22.3,97.50%,99.70%,5,12,3,1,1
+5108 Redcar Superstore,Large North,NORTH EAST,"£3,925",104,£34.79,£2.39,14.5,83,1.3,49.5,77.50%,93.40%,9,26,10,2,3
+5109 Ingleby Barwick Superstore,Large North,NORTH EAST,"£3,506",78,£42.00,£2.62,16,65,1.2,41.6,91.00%,94.40%,8,12,12,2,8
+5115 Causewayside Express,Convenience North,EAST SCOTLAND,"£2,848",87,£29.60,£2.62,11.3,65,1.3,33,93.10%,98.20%,5,18,5,3,3
+5116 Waltham Cross Hammond St Express,Convenience Central,SOUTH EAST,"£11,241",375,£26.89,£2.70,9.9,280,1.3,30.5,97.10%,98.30%,6,13,4,2,5
+5117 Bishopston Express,Convenience South,SOUTH CENTRAL,"£3,638",96,£34.95,£2.49,14,79,1.2,29.3,95.80%,99.60%,8,15,3,1,2
+5121 Sowerby Bridge Superstore,Large North,NORTH EAST,"£4,543",122,£34.26,£2.53,13.5,91,1.3,32.8,96.70%,95.40%,9,9,8,3,4
+5140 Colchester Bromley Rd Express,Convenience Central,SOUTH EAST,"£7,507",262,£25.44,£2.57,9.9,174,1.5,22.6,97.70%,99.50%,5,11,3,2,1
+5141 Hedge End Tanhouse Ln Express,Convenience South,SOUTH CENTRAL,"£4,946",159,£27.95,£2.53,11.1,120,1.3,25.9,97.50%,98.40%,6,12,4,2,3
+5142 Woodville Express,Convenience Central,MIDLANDS,"£3,711",125,£26.63,£2.75,9.7,87,1.4,25.8,95.20%,98.80%,5,12,4,2,3
+5145 Gillingham Sturdee Ave Express,Convenience South,SOUTH EAST,"£15,926",495,£29.09,£2.51,11.6,355,1.4,28.4,96.80%,99.20%,8,11,3,2,3
+5146 Doncaster Wentworth Rd Express,Convenience North,NORTH EAST,"£4,358",119,£33.60,£2.90,11.6,82,1.5,32.1,94.40%,97.20%,8,17,3,2,2
+5149 Leicester Aberdale Rd Express,Convenience Central,MIDLANDS,"£3,551",109,£29.47,£2.76,10.7,84,1.3,21.4,100.00%,98.60%,7,8,3,2,1
+5150 Earl Grey St Express,Convenience North,EAST SCOTLAND,£680,20,£30.89,£2.18,14.2,17,1.2,59.7,57.90%,98.30%,8,40,4,5,2
+5153 Southsea Goldsmith Ave Express,Convenience South,SOUTH CENTRAL,"£5,599",177,£28.53,£2.71,10.5,124,1.4,21.8,99.40%,98.10%,6,7,3,2,4
+5154 Wellingborough Cannon St Express,Convenience Central,MIDLANDS,"£5,126",178,£25.67,£2.57,10,124,1.4,24.7,98.90%,98.30%,7,10,3,3,2
+5155 Chichester South St Express,Convenience South,SOUTH EAST,"£8,567",275,£27.98,£2.87,9.7,191,1.4,28.7,94.30%,99.40%,7,14,3,2,2
+5156 Fazakerley Longmoor Ln Express,Convenience North,NORTH WEST,"£9,302",310,£26.94,£2.34,11.5,210,1.5,33.6,92.80%,98.40%,9,16,4,1,3
+5159 Cleethorpes Grimsby Rd Express,Convenience North,MIDLANDS,"£9,415",315,£26.79,£2.39,11.2,226,1.4,26.4,99.40%,98.00%,7,11,3,2,4
+5165 Bewdley Hill Esso Express,Convenience Central,MIDLANDS,"£5,074",163,£28.05,£2.75,10.2,105,1.6,22.7,98.20%,99.70%,6,10,3,2,2
+5166 Gloucester Lysons Ave Express,Convenience Central,SOUTH CENTRAL,"£2,519",83,£27.18,£3.07,8.9,59,1.4,30.6,91.60%,99.80%,5,19,3,2,2
+5167 Farnham Hale Express,Convenience South,SOUTH EAST,"£7,804",224,£31.73,£2.85,11.1,166,1.3,28.7,95.60%,99.50%,8,14,3,2,2
+5172 Old Milton Rd Express,Convenience South,SOUTH CENTRAL,"£6,909",197,£32.03,£2.88,11.1,138,1.4,35,89.10%,99.70%,6,22,2,2,2
+5176 Welwyn Express,Convenience Central,SOUTH EAST,"£5,632",164,£31.32,£2.76,11.3,104,1.6,23.9,98.80%,99.10%,5,12,3,2,2
+5179 Cardiff Mermaid Quay Express,Convenience South,WALES,"£2,073",64,£29.31,£2.49,11.8,39,1.6,38,79.40%,98.90%,6,26,3,2,1
+5181 Falkirk Redding Rd Superstore,Large North,EAST SCOTLAND,"£9,852",217,£42.46,£2.57,16.5,165,1.3,49.1,76.70%,95.10%,10,20,12,2,4
+5186 Kentish Town Express,Convenience London,GREATER LONDON,"£3,218",93,£31.71,£2.45,12.9,68,1.4,31,88.00%,99.20%,7,16,5,2,2
+5187 Middlesbrough Roman Rd Express,Convenience North,NORTH EAST,"£2,839",83,£31.08,£2.76,11.3,65,1.3,25,98.80%,99.10%,6,12,3,2,2
+5188 Armley Express,Convenience North,NORTH EAST,"£4,185",131,£28.97,£2.56,11.3,108,1.2,35.2,90.80%,96.10%,9,17,5,1,3
+5190 Marylebone Melcombe St Express,Convenience London,GREATER LONDON,£168,2,£80.88,£7.35,11,2,1,31.3,100.00%,100.00%,4,9,10,2,7
+5191 Chigwell Manford Way Express,Convenience London,SOUTH EAST,"£8,455",298,£25.21,£2.48,10.2,200,1.5,18.4,100.00%,99.70%,6,5,3,2,2
+5192 Heaton Haworth Rd Express,Convenience North,NORTH EAST,"£1,584",53,£26.84,£3.30,8.1,35,1.5,21.1,100.00%,98.40%,6,7,4,2,3
+5193 Bolton Upon Dearne Express,Convenience North,NORTH EAST,"£9,645",305,£28.56,£2.68,10.6,208,1.5,27.6,96.10%,98.60%,7,13,3,2,3
+5196 Chelmsford Broomfield Rd Express,Convenience Central,SOUTH EAST,"£6,550",206,£28.68,£2.77,10.3,129,1.6,37.6,85.90%,98.40%,6,23,3,2,3
+5199 Thamesmead Express,Convenience London,GREATER LONDON,"£1,266",65,£17.26,£3.78,4.6,42,1.5,31.1,95.60%,99.00%,5,16,2,2,5
+5200 Anlaby Rd Express,Convenience North,NORTH EAST,"£4,624",144,£28.96,£2.77,10.4,94,1.5,25.6,97.90%,98.70%,7,11,4,1,3
+5201 Hartlepool Catcote Rd Express,Convenience North,NORTH EAST,"£4,848",147,£29.85,£2.86,10.4,104,1.4,40.5,85.70%,98.90%,6,27,3,2,2
+5203 Shirley Dickens Heath Express,Convenience Central,MIDLANDS,"£4,912",139,£32.26,£2.72,11.8,97,1.4,23,100.00%,98.30%,6,8,4,3,2
+5205 Newport Malpas Rd Express,Convenience South,WALES,"£1,833",55,£30.07,£2.77,10.9,49,1.1,33,92.70%,98.80%,7,19,3,3,1
+5207 Birmingham Frankley Express,Convenience Central,MIDLANDS,"£7,476",240,£28.08,£2.64,10.6,169,1.4,19.6,100.00%,98.40%,6,7,3,2,1
+5212 Leyland Earnshaw Bridge Express,Convenience North,NORTH WEST,"£9,271",284,£29.62,£2.73,10.9,186,1.5,29.4,97.50%,98.90%,6,14,4,2,3
+5213 Durrington Esso Express,Convenience South,SOUTH EAST,"£9,049",303,£26.71,£2.57,10.4,211,1.4,26.6,97.40%,99.00%,6,13,4,2,2
+5214 Wimbledon Hill Express,Convenience London,GREATER LONDON,"£1,672",47,£32.58,£3.20,10.2,34,1.4,32.4,89.40%,98.20%,7,19,4,1,1
+5215 East Dulwich Express,Convenience London,GREATER LONDON,"£3,392",101,£30.62,£2.62,11.7,82,1.2,31.8,91.20%,97.20%,6,18,5,1,2
+5217 Clifton Regent St Express,Convenience South,SOUTH CENTRAL,£424,11,£35.59,£2.51,14.2,9,1.2,36.5,90.90%,98.70%,5,24,5,2,1
+5220 Oakley Vale Express,Convenience Central,MIDLANDS,"£11,468",352,£29.49,£2.58,11.4,241,1.5,30.6,95.20%,98.10%,7,15,3,2,3
+5221 Rochdale Whitworth Rd Express,Convenience North,NORTH WEST,"£10,018",299,£30.43,£2.84,10.7,208,1.4,25.8,99.30%,98.40%,9,8,4,2,3
+5223 Birmingham Hurst St Express,Convenience Central,MIDLANDS,"£1,625",52,£28.21,£2.30,12.3,40,1.3,29.2,95.30%,99.00%,8,12,3,2,4
+5225 Stourbridge Audnam Express,Convenience Central,MIDLANDS,"£7,051",210,£30.49,£2.77,11,144,1.5,23,100.00%,99.60%,7,9,3,1,2
+5226 Folkestone Bouverie Rd Express,Convenience South,SOUTH EAST,"£6,304",195,£29.25,£2.54,11.5,147,1.3,25.1,99.50%,98.40%,6,11,3,2,2
+5227 Streetly Express,Convenience Central,MIDLANDS,"£2,846",78,£33.46,£2.59,12.9,61,1.3,20.5,100.00%,98.90%,5,8,4,2,1
+5229 Blackburn Bank Top Express,Convenience North,NORTH WEST,"£8,723",263,£30.10,£2.65,11.4,181,1.5,27,97.70%,99.20%,9,10,3,2,3
+5230 Colne Market St Express,Convenience North,NORTH WEST,"£3,323",97,£31.22,£2.84,11,66,1.5,29.7,93.80%,97.30%,6,15,4,3,2
+5233 Uckfield Browns Ln Express,Convenience South,SOUTH EAST,"£10,775",343,£28.41,£2.60,10.9,231,1.5,41.8,79.80%,99.60%,7,27,3,2,3
+5234 Crystal Palace Express,Convenience London,GREATER LONDON,"£5,736",182,£28.54,£2.64,10.8,131,1.4,30.6,93.90%,98.50%,6,19,3,1,1
+5235 Bristol Wine St Express,Convenience South,SOUTH CENTRAL,£451,14,£29.27,£2.12,13.8,14,1,33.6,100.00%,96.30%,9,10,7,1,7
+5238 Strood Esso Express,Convenience South,SOUTH EAST,"£18,145",561,£29.24,£2.56,11.4,409,1.4,27.6,98.80%,100.00%,8,12,3,2,3
+5241 Westcliff-on-sea Rd Express,Convenience Central,SOUTH EAST,"£7,881",228,£31.61,£2.46,12.9,161,1.4,24.6,99.10%,99.20%,6,11,3,2,3
+5242 Haywards Heath Express,Convenience South,SOUTH EAST,"£6,936",207,£30.46,£2.66,11.5,152,1.4,36.2,89.00%,99.10%,6,21,4,3,3
+5244 High Rd Kilburn Express,Convenience London,GREATER LONDON,"£3,401",104,£29.65,£2.68,11.1,76,1.4,25.6,98.10%,98.90%,5,12,4,2,2
+5248 Nottingham Rd Esso Express,Convenience Central,MIDLANDS,"£3,275",88,£34.21,£2.95,11.6,69,1.3,31,89.70%,99.50%,7,16,5,2,2
+5250 Eastleigh Twyford Rd Esso Express,Convenience South,SOUTH CENTRAL,"£2,593",72,£32.84,£2.55,12.9,52,1.4,34.5,90.40%,98.90%,5,21,4,2,2
+5251 Bolton Wigan Rd Esso Express,Convenience North,NORTH WEST,"£4,546",137,£30.12,£2.60,11.6,105,1.3,27.9,97.10%,98.40%,9,12,3,2,1
+5252 Cinderhill Express,Convenience Central,MIDLANDS,"£9,370",278,£30.61,£2.65,11.5,190,1.5,25.2,99.60%,99.60%,10,9,3,1,2
+5254 Acklam Rd Esso Express,Convenience North,NORTH EAST,"£1,805",58,£28.06,£2.50,11.2,48,1.2,29.1,98.30%,97.40%,5,16,4,1,3
+5256 Exmouth Churchill Rd Express,Convenience South,SOUTH WEST,"£15,862",448,£32.36,£2.77,11.7,295,1.5,28.9,94.60%,99.20%,6,14,4,2,3
+5258 Compton Esso Express,Convenience South,SOUTH WEST,"£8,710",270,£29.22,£2.82,10.4,198,1.4,34.3,95.50%,98.60%,9,18,3,1,3
+5259 Gloucester Eastern Ave Esso Express,Convenience Central,SOUTH CENTRAL,"£3,272",103,£28.78,£2.60,11.1,66,1.6,26.6,96.10%,97.90%,4,13,4,2,4
+5260 King's Lynn Wootton Rd Express,Convenience Central,EAST ANGLIA,"£11,287",358,£28.42,£2.66,10.7,247,1.4,32.5,91.50%,99.70%,7,19,3,2,1
+5263 Sale Manor Ave Express,Convenience North,NORTH WEST,"£4,855",147,£29.92,£2.82,10.6,99,1.5,26.6,99.30%,97.50%,6,11,5,3,3
+5264 Blackpool Marton Express,Convenience North,NORTH WEST,"£5,967",190,£28.40,£2.74,10.4,138,1.4,29.8,91.90%,99.30%,7,18,3,1,1
+5268 Cardiff Tyn-y-parc Express,Convenience South,WALES,"£1,941",61,£28.56,£2.77,10.3,46,1.3,30.2,95.40%,98.00%,7,17,3,1,2
+5270 Sandwell Stone Cross Express,Convenience Central,MIDLANDS,"£9,799",302,£29.33,£2.51,11.7,207,1.5,26,99.00%,99.00%,9,9,4,1,3
+5272 Windle Island Express,Convenience North,NORTH WEST,"£2,663",83,£29.15,£2.52,11.6,65,1.3,35.4,88.90%,98.70%,7,21,3,2,3
+5274 Middlesbrough Dixons Bank Express,Convenience North,NORTH EAST,"£7,573",236,£29.03,£2.96,9.8,154,1.5,26.9,97.90%,100.00%,7,14,3,1,2
+5275 Earlham Rd Express,Convenience Central,EAST ANGLIA,"£6,229",195,£28.93,£2.63,11,142,1.4,27.3,97.50%,99.40%,6,14,3,2,2
+5276 Gosforth Express,Convenience North,NORTH EAST,"£10,329",298,£31.66,£2.76,11.5,213,1.4,34,90.40%,97.60%,9,16,4,1,4
+5277 Warrington Winwick Rd Express,Convenience North,MIDLANDS,"£4,570",138,£30.09,£2.54,11.9,101,1.4,31.3,94.20%,98.40%,7,15,4,2,3
+5278 Willenhall Lichfield Rd Esso Express,Convenience Central,MIDLANDS,"£4,204",127,£30.15,£2.95,10.2,80,1.6,25,96.80%,99.10%,8,10,3,1,2
+5279 Rothwell Leeds Rd Esso Express,Convenience North,NORTH EAST,"£1,187",36,£29.95,£2.74,10.9,30,1.2,34,91.70%,99.50%,6,22,3,2,1
+5280 Cairns Hill Express,NI Convenience,NORTHERN IRELAND,"£1,212",37,£29.59,£2.98,9.9,27,1.4,40.9,78.90%,99.00%,9,26,3,1,3
+5281 Lakeside Point Express,Convenience North,MIDLANDS,"£5,614",152,£33.87,£2.81,12,110,1.4,29.1,100.00%,98.20%,9,11,4,2,3
+5282 Shoreditch Commercial St Express,Convenience London,GREATER LONDON,£244,8,£27.27,£3.12,8.8,6,1.3,19.5,100.00%,100.00%,3,10,3,2,1
+5283 Great Junction St Express,Convenience North,EAST SCOTLAND,"£9,113",292,£28.13,£2.68,10.5,190,1.5,34.2,89.70%,98.90%,9,18,4,2,2
+5284 Norwich Plumstead Rd Express,Convenience Central,EAST ANGLIA,"£5,073",158,£29.02,£2.62,11.1,112,1.4,28.5,97.50%,99.20%,5,16,3,2,3
+5286 Dunstable High St Esso Express,Convenience Central,SOUTH EAST,"£6,340",203,£28.21,£2.51,11.2,143,1.4,28.4,99.00%,99.60%,8,12,3,2,3
+5287 Hazel Grove Esso Express,Convenience North,NORTH WEST,"£5,206",136,£35.27,£2.76,12.8,110,1.2,27.6,100.00%,97.60%,8,10,5,2,3
+5309 Manchester Quay St Express,Convenience North,NORTH WEST,"£4,268",123,£31.76,£2.82,11.3,95,1.3,43.1,80.20%,99.70%,11,24,3,1,4
+5310 Cardiff Salisbury Rd Express,Convenience South,WALES,£205,6,£30.44,£2.37,12.8,4,1.5,22.5,83.30%,97.70%,3,13,2,1,4
+5311 Penge Croydon Rd Express,Convenience London,GREATER LONDON,"£3,236",106,£27.54,£2.73,10.1,84,1.3,19.8,99.10%,98.50%,4,10,3,1,1
+5312 Argyle St Express,Convenience North,WEST SCOTLAND,£722,20,£33.04,£3.15,10.5,13,1.5,34.8,90.50%,98.30%,6,21,4,2,2
+5314 Huntington Rd Express,Convenience North,NORTH EAST,"£3,537",109,£29.42,£2.35,12.5,84,1.3,37.4,85.30%,97.40%,8,20,4,2,5
+5316 Parkstone Bournemouth Rd Express,Convenience South,SOUTH CENTRAL,"£4,695",145,£29.47,£2.99,9.8,111,1.3,35.2,88.20%,98.30%,5,23,3,1,3
+5318 Birmingham Rd Sutton Express,Convenience Central,MIDLANDS,"£2,667",78,£31.21,£2.91,10.7,53,1.5,19.3,100.00%,98.80%,5,7,4,2,2
+5320 Hatfield Station Rd Express,Convenience North,NORTH EAST,"£3,108",98,£28.77,£2.35,12.3,76,1.3,31.1,90.80%,98.40%,5,17,5,2,3
+5321 Brighton Jubilee St Express,Convenience South,SOUTH EAST,"£7,042",226,£28.11,£2.65,10.6,171,1.3,34.4,91.50%,97.60%,11,17,3,1,2
+5323 Hindley Green Express,Convenience North,NORTH WEST,"£8,549",265,£29.20,£2.58,11.3,190,1.4,27.8,96.60%,99.40%,7,15,3,2,1
+5324 Grangetown Corporation Rd Express,Convenience South,WALES,"£2,343",76,£27.74,£2.58,10.8,55,1.4,27.7,97.40%,99.80%,6,16,3,1,2
+5338 Dosthill Esso Express,Convenience Central,MIDLANDS,£669,22,£27.38,£2.71,10.1,19,1.2,25.3,95.50%,98.20%,5,13,2,2,3
+5339 Dalhousie Esso Express,Convenience North,EAST SCOTLAND,"£2,016",53,£35.15,£2.75,12.8,37,1.4,58.3,64.20%,99.50%,5,44,4,2,3
+5340 Silksworth Rd Esso Express,Convenience North,NORTH EAST,"£5,441",173,£28.42,£2.63,10.8,125,1.4,32.8,90.70%,99.80%,9,16,2,1,4
+5342 Vauxhall Express,Convenience London,GREATER LONDON,"£1,419",48,£26.58,£2.31,11.5,32,1.5,26.8,91.70%,98.10%,7,12,4,2,2
+5343 Colchester Crouch St Express,Convenience Central,SOUTH EAST,"£10,476",317,£29.92,£2.44,12.3,222,1.4,29.2,96.20%,99.30%,8,13,4,2,2
+5347 Willesden Ln Kilburn Express,Convenience London,GREATER LONDON,"£1,068",34,£28.26,£2.99,9.4,23,1.5,18.6,100.00%,99.20%,5,8,3,1,1
+5348 Leeds Easterly Rd Express,Convenience North,NORTH EAST,"£7,114",235,£27.13,£2.44,11.1,176,1.3,28.8,95.30%,99.30%,10,11,3,1,3
+5350 Accrington Abbey St Esso Express,Convenience North,NORTH WEST,"£12,795",415,£27.67,£2.64,10.5,285,1.5,20.4,98.80%,98.00%,6,7,3,2,2
+5351 Scarborough Burniston Rd Express,Convenience North,NORTH EAST,"£2,820",94,£26.95,£2.80,9.6,55,1.7,34,92.60%,96.30%,6,21,3,2,2
+5352 Pokesdown Express,Convenience South,SOUTH CENTRAL,"£3,461",111,£28.18,£2.95,9.5,76,1.5,28.7,97.20%,98.80%,5,11,4,1,7
+5357 Hatch End Express,Convenience London,SOUTH EAST,"£2,515",84,£26.68,£2.34,11.4,54,1.6,22.2,100.00%,97.90%,6,10,3,1,2
+5358 Streatham Place Express,Convenience London,GREATER LONDON,"£5,747",177,£29.51,£2.66,11.1,120,1.5,28.4,93.80%,97.10%,7,14,4,1,2
+5359 Blidworth Express,Convenience North,MIDLANDS,"£4,871",142,£31.27,£2.42,12.9,102,1.4,32,92.20%,98.00%,6,17,4,2,3
+5360 Hull Beverley Rd Express,Convenience North,NORTH EAST,"£2,960",84,£32.23,£2.85,11.3,49,1.7,23,100.00%,99.00%,6,9,4,2,2
+5365 Slough Wexham Rd Express,Convenience South,SOUTH EAST,"£7,481",233,£28.91,£2.67,10.8,150,1.6,22.3,99.60%,99.40%,6,10,3,2,2
+5366 Bedminster Express,Convenience South,SOUTH CENTRAL,"£6,295",206,£27.43,£2.47,11.1,139,1.5,25.6,97.60%,95.90%,9,10,3,1,3
+5367 Kilmarnock Rd Express,Convenience North,WEST SCOTLAND,"£4,708",129,£33.39,£2.87,11.6,100,1.3,28.5,99.20%,99.00%,7,12,4,3,2
+5368 Nottingham Hucknall Rd Express,Convenience Central,MIDLANDS,"£2,909",94,£27.86,£2.71,10.3,59,1.6,22.4,99.00%,99.60%,6,11,3,1,1
+5370 Salvington Rectory Rd Express,Convenience South,SOUTH EAST,"£3,177",98,£29.40,£2.41,12.2,82,1.2,26,95.90%,98.50%,4,14,4,2,2
+5371 Ashtead Craddocks Express,Convenience London,SOUTH EAST,"£6,727",198,£30.97,£2.81,11,143,1.4,33.3,96.00%,99.00%,6,19,4,2,2
+5372 Waltham Cross Theobalds Park Express,Convenience Central,SOUTH EAST,"£1,543",60,£22.56,£2.18,10.4,56,1.1,32.3,95.00%,96.10%,8,17,3,1,4
+5373 Normanby Express,Convenience North,NORTH EAST,"£8,123",252,£29.14,£2.91,10,170,1.5,29,97.60%,98.70%,7,15,3,2,2
+5374 Sutton Brighton Rd Express,Convenience London,SOUTH EAST,"£6,042",199,£27.25,£2.82,9.7,128,1.6,22.4,98.50%,99.60%,5,11,3,1,2
+5377 Benfleet Rd Express,Convenience Central,SOUTH EAST,"£6,444",181,£32.56,£2.30,14.2,158,1.1,25.4,97.30%,99.80%,7,12,4,1,2
+5380 Barbican Express,Convenience London,GREATER LONDON,£241,8,£27.30,£1.82,15,6,1.3,27.3,100.00%,98.90%,7,11,5,4,1
+5383 Harringay Express,Convenience London,GREATER LONDON,"£2,502",86,£26.01,£2.52,10.3,64,1.3,27.6,93.00%,98.50%,6,15,4,1,2
+5384 Isleworth Express,Convenience London,SOUTH EAST,"£5,281",180,£26.39,£2.64,10,125,1.4,23.1,98.90%,97.70%,6,12,2,1,2
+5386 Birmingham Bournville Esso Express,Convenience Central,MIDLANDS,"£5,561",146,£35.05,£2.96,11.8,99,1.5,26.4,98.00%,99.40%,7,11,4,1,2
+5387 Wigan Poolstock Ln Express,Convenience North,NORTH WEST,"£3,346",104,£29.15,£2.39,12.2,79,1.3,31.7,92.30%,97.70%,6,17,4,2,2
+5388 West Ealing Express,Convenience London,GREATER LONDON,"£10,788",300,£32.93,£2.55,12.9,235,1.3,27.6,95.00%,98.10%,7,11,4,1,4
+5391 Hounslow Bath Rd Express,Convenience London,SOUTH EAST,"£2,328",81,£25.66,£2.84,9,61,1.3,23.4,97.50%,99.50%,7,11,3,1,2
+5392 Birmingham Jewellery Quarter Express,Convenience Central,MIDLANDS,"£2,608",81,£28.97,£2.53,11.4,63,1.3,27.4,97.50%,100.00%,8,11,4,1,2
+5393 Ashby Express,Convenience North,MIDLANDS,"£3,503",110,£28.73,£2.50,11.5,85,1.3,27.6,96.40%,98.00%,6,14,4,2,2
+5397 Wolverhampton Willenhall Rd Express,Convenience Central,MIDLANDS,"£5,251",157,£30.40,£2.74,11.1,102,1.5,22.7,99.40%,99.70%,7,10,3,1,2
+5398 Bletchley Buckingham Rd Express,Convenience Central,SOUTH EAST,"£5,161",161,£28.95,£2.66,10.9,121,1.3,31.6,94.40%,99.10%,8,17,3,1,2
+5399 Heald Green Express,Convenience North,NORTH WEST,"£6,691",191,£31.94,£2.54,12.6,140,1.4,33.7,94.80%,99.20%,9,14,4,1,5
+5400 Preston Blackpool Rd Express,Convenience North,NORTH WEST,"£5,000",152,£29.79,£2.74,10.9,94,1.6,24.4,98.00%,99.70%,6,11,4,2,2
+5401 Southampton Cobden Ave Express,Convenience South,SOUTH CENTRAL,"£3,576",120,£26.73,£2.84,9.4,76,1.6,27.4,96.70%,96.90%,5,14,4,1,2
+5402 Hull Spring Bank Express,Convenience North,NORTH EAST,"£3,776",112,£30.71,£2.94,10.4,71,1.6,23.4,99.10%,97.80%,6,10,4,1,2
+5403 Penn Rd Express,Convenience Central,MIDLANDS,"£4,209",124,£30.99,£2.47,12.5,92,1.3,22.2,100.00%,98.00%,6,7,4,2,3
+5404 Hackney Express,Convenience London,GREATER LONDON,"£2,366",81,£26.14,£2.62,10,56,1.4,25.4,100.00%,100.00%,4,14,2,4,1
+5406 Tesco Rawtenstall,Large North,NORTH WEST,"£6,239",158,£36.44,£2.52,14.4,116,1.4,34.6,89.20%,98.20%,9,12,7,2,4
+5408 Chelmsford Interchange Express,Convenience Central,SOUTH EAST,"£3,008",93,£29.48,£2.49,11.8,69,1.3,39.4,81.70%,99.10%,6,24,3,4,3
+5409 Glengormley Express,NI Convenience,NORTHERN IRELAND,"£2,540",77,£29.88,£2.14,13.9,63,1.2,37.7,85.70%,98.30%,9,19,6,1,3
+5412 Billingham Bypass Esso Express,Convenience North,NORTH EAST,"£7,006",211,£30.08,£2.71,11.1,153,1.4,32.7,91.60%,99.60%,7,19,3,2,2
+5415 Hemel Hempstead Barnacres Express,Convenience Central,SOUTH EAST,"£8,305",276,£26.98,£2.62,10.3,199,1.4,23.9,98.90%,98.50%,6,11,3,2,2
+5416 Holderness Rd Express,Convenience North,NORTH EAST,"£3,718",128,£26.01,£2.63,9.9,91,1.4,22.6,98.40%,97.90%,7,8,3,2,2
+5417 Mansfield Rd Express,Convenience Central,MIDLANDS,"£3,650",107,£31.14,£3.03,10.3,78,1.4,25,99.10%,99.90%,8,11,3,1,2
+5418 Whitechapel Express,Convenience London,GREATER LONDON,£959,36,£23.63,£2.45,9.6,35,1,34.6,94.70%,94.80%,9,12,4,5,4
+5419 Prestwick Main St Express,Convenience North,WEST SCOTLAND,£879,29,£26.75,£2.92,9.2,21,1.4,43.1,79.30%,99.20%,5,29,5,2,3
+5420 Tooting Upper Tooting Rd Express,Convenience London,GREATER LONDON,£836,29,£25.66,£2.11,12.2,26,1.1,24,100.00%,98.50%,4,12,5,1,1
+5423 Clarkston Express,Convenience North,WEST SCOTLAND,"£4,839",124,£35.95,£2.73,13.2,81,1.5,33.3,96.80%,98.50%,7,16,5,3,3
+5425 Kirkby In Ashfield Esso Express,Convenience North,MIDLANDS,"£3,368",98,£31.19,£2.84,11,73,1.3,27.5,97.00%,98.00%,7,13,4,2,2
+5427 Ovenden Esso Express,Convenience North,NORTH EAST,"£6,630",207,£28.98,£2.58,11.2,140,1.5,24.8,99.00%,98.80%,6,10,4,2,3
+5430 Isle Of Dogs Express,Convenience London,GREATER LONDON,"£2,128",67,£28.74,£2.53,11.4,54,1.2,28.3,95.60%,100.00%,7,14,3,2,2
+5431 Hull Newland Ave Express,Convenience North,NORTH EAST,"£4,843",156,£27.99,£2.37,11.8,108,1.4,25.9,98.70%,95.70%,9,8,4,1,3
+5432 Greenwich Express,Convenience London,GREATER LONDON,"£4,320",125,£31.49,£2.39,13.2,96,1.3,34.6,91.10%,98.40%,8,18,5,1,3
+5433 Newport Chepstow Rd Esso Express,Convenience South,WALES,"£9,688",311,£28.06,£2.74,10.2,216,1.4,29.1,98.70%,99.40%,7,11,4,2,5
+5434 Lanehouse Rocks Rd Esso Express,Convenience South,SOUTH CENTRAL,"£2,173",53,£37.98,£2.84,13.4,36,1.5,36.6,84.60%,99.60%,4,25,3,2,1
+5435 Ardwick Green Esso Express,Convenience North,NORTH WEST,"£1,072",35,£27.37,£2.40,11.4,31,1.1,44.1,77.10%,97.80%,9,25,4,3,3
+5436 Cardiff Canton Express,Convenience South,WALES,"£6,578",188,£31.86,£2.61,12.2,153,1.2,27.4,96.80%,98.40%,8,11,4,1,4
+5439 Ealing Broadway Express,Convenience London,GREATER LONDON,"£3,244",93,£31.98,£2.68,11.9,72,1.3,38.3,90.10%,99.00%,7,17,6,1,7
+5443 Bury Tottington Rd Express,Convenience North,NORTH WEST,"£3,877",116,£30.39,£2.75,11.1,84,1.4,21.8,98.20%,98.50%,4,12,3,1,2
+5444 Downham Bromley Rd Express,Convenience London,SOUTH EAST,"£9,044",290,£28.13,£2.83,10,168,1.7,22.6,99.70%,99.30%,6,12,3,1,1
+5445 Allestree Express,Convenience Central,MIDLANDS,"£2,061",57,£32.99,£3.46,9.5,35,1.6,20.5,98.20%,98.90%,5,9,3,2,2
+5446 Charlton Express,Convenience South,SOUTH CENTRAL,"£3,436",122,£25.06,£2.36,10.6,101,1.2,41.5,86.60%,97.90%,6,25,3,2,5
+5448 Liverpool Crosby Rd Express,Convenience North,NORTH WEST,"£4,153",135,£27.92,£2.65,10.5,102,1.3,33.6,89.40%,98.80%,6,18,3,1,4
+5450 Hull Bricknell Ave Express,Convenience North,NORTH EAST,"£8,813",263,£30.45,£2.59,11.8,177,1.5,24.4,98.90%,97.80%,9,9,3,1,2
+5451 Hesketh Esso Express,Convenience North,NORTH WEST,"£5,633",166,£30.92,£3.15,9.8,108,1.5,37.4,86.70%,98.80%,6,23,4,2,3
+5453 Highbury Express,Convenience London,GREATER LONDON,"£2,553",83,£27.67,£2.20,12.6,62,1.3,33.8,94.00%,100.00%,6,20,3,2,3
+5455 Codnor Express,Convenience Central,MIDLANDS,"£7,732",264,£26.22,£2.65,9.9,170,1.6,26.4,97.30%,98.20%,7,11,4,2,3
+5460 Clifton Lee Esso Express,Convenience London,GREATER LONDON,"£3,021",97,£28.00,£2.54,11,75,1.3,31.4,87.80%,100.00%,6,18,3,2,3
+5461 Farnham Common Express,Convenience South,SOUTH EAST,"£1,710",49,£31.81,£2.68,11.9,37,1.3,23.6,100.00%,97.10%,7,10,3,2,1
+5464 Stonycroft Queens Dr Esso Express,Convenience North,NORTH WEST,"£4,498",150,£27.05,£2.64,10.2,114,1.3,37.8,82.80%,97.80%,9,21,3,1,2
+5468 Olympia Express,Convenience London,GREATER LONDON,"£1,901",63,£27.18,£2.22,12.3,57,1.1,28.4,93.70%,98.30%,6,16,3,2,2
+5469 Stoke Newington High St Express,Convenience London,GREATER LONDON,"£3,662",115,£28.86,£2.66,10.8,76,1.5,35.5,87.70%,99.10%,7,18,5,2,4
+5470 West Norwood Express,Convenience London,GREATER LONDON,"£2,942",92,£28.86,£2.51,11.5,74,1.2,27.9,94.60%,98.40%,6,15,4,1,2
+5472 Plomer Green Ave Express,Convenience South,SOUTH EAST,"£1,896",65,£26.06,£2.80,9.3,49,1.3,21.3,98.50%,98.60%,5,10,3,2,1
+5475 Portsmouth Rd Express,Convenience South,SOUTH CENTRAL,"£7,234",227,£28.80,£2.46,11.7,168,1.4,27.8,96.00%,98.80%,7,12,4,2,3
+5476 Scarborough Castle Express,Convenience North,NORTH EAST,"£3,928",121,£29.34,£2.96,9.9,84,1.4,28.1,96.70%,100.00%,6,15,3,2,3
+5477 Enfield Windmill Hill Express,Convenience London,SOUTH EAST,"£7,944",279,£25.37,£2.59,9.8,202,1.4,19.3,99.60%,99.50%,5,7,3,2,2
+5478 Ashford Express,Convenience London,SOUTH EAST,"£11,824",389,£27.31,£2.62,10.4,271,1.4,22.3,99.00%,98.40%,6,10,3,1,3
+5479 Hale Express,Convenience North,NORTH WEST,"£4,798",112,£39.92,£2.97,13.4,82,1.4,38.2,91.20%,97.70%,7,21,4,1,5
+5480 Sauchiehall St Express,Convenience North,WEST SCOTLAND,£479,14,£31.27,£2.61,12,14,1,42.5,64.30%,98.70%,8,23,3,2,7
+5482 Swansea De La Beche St Express,Convenience South,WALES,"£1,933",60,£29.23,£2.79,10.5,39,1.5,30.6,96.60%,99.60%,6,18,4,1,2
+5484 Craiglockhart Express,Convenience North,EAST SCOTLAND,"£5,138",138,£34.02,£2.94,11.6,106,1.3,40,89.40%,99.50%,8,24,3,3,3
+5485 Yorkhill Express,Convenience North,WEST SCOTLAND,£939,29,£29.43,£3.41,8.6,17,1.7,30.8,86.20%,99.10%,4,21,3,2,1
+5486 Stoke Newington Green Lanes Express,Convenience London,GREATER LONDON,"£2,194",70,£28.34,£2.46,11.5,50,1.4,31.6,87.50%,95.90%,4,14,4,2,8
+5487 Seven Sisters Rd Express,Convenience London,GREATER LONDON,"£3,400",103,£29.89,£2.64,11.3,86,1.2,41.3,83.70%,98.10%,8,24,4,2,3
+5488 Cardiff City Rd Express,Convenience South,WALES,"£1,116",34,£29.73,£2.37,12.5,24,1.4,25,100.00%,98.40%,3,11,4,1,5
+5489 Hills Rd Cambridge Express,Convenience Central,EAST ANGLIA,£616,14,£40.87,£2.87,14.2,13,1.1,26.2,100.00%,96.30%,5,14,4,1,2
+5494 Streatham High St Express,Convenience London,GREATER LONDON,"£6,380",202,£28.58,£2.68,10.7,128,1.6,21.2,99.00%,98.90%,6,9,3,1,2
+5495 Hinckley Express,Convenience Central,MIDLANDS,"£6,696",190,£32.19,£2.49,12.9,153,1.2,29.7,95.20%,99.70%,7,14,4,2,3
+5496 Middlesbrough Marton Rd Express,Convenience North,NORTH EAST,"£4,285",143,£26.84,£2.32,11.6,91,1.6,28.3,97.20%,98.80%,7,15,3,1,2
+5498 Kings Heath Express,Convenience Central,MIDLANDS,"£4,353",128,£31.05,£2.57,12.1,88,1.5,22.5,96.90%,99.40%,5,10,3,1,2
+5500 Kelham Island Express,Convenience North,NORTH EAST,"£2,047",67,£27.83,£2.77,10.1,57,1.2,37.6,87.90%,97.60%,10,20,4,1,2
+5501 Southgate Rd Express,Convenience London,GREATER LONDON,"£1,074",35,£27.51,£2.60,10.6,23,1.5,28.1,85.30%,100.00%,4,19,3,1,1
+5502 Cardiff Maes Y Coed Express,Convenience South,WALES,"£3,530",108,£29.60,£2.75,10.8,83,1.3,31.4,93.60%,99.10%,9,15,3,1,4
+5506 Edgbaston Hagley Rd Express,Convenience Central,MIDLANDS,"£4,637",140,£30.10,£2.31,13.1,110,1.3,21.6,100.00%,99.40%,6,6,4,2,3
+5507 Sheffield Barnsley Rd Express,Convenience North,NORTH EAST,"£6,243",182,£31.09,£2.29,13.6,138,1.3,30.8,97.20%,98.90%,10,14,3,1,3
+5508 Shoreditch Express,Convenience London,GREATER LONDON,£559,18,£28.12,£2.30,12.2,14,1.3,19,100.00%,99.40%,3,7,5,3,2
+5509 Hither Green Express,Convenience London,GREATER LONDON,"£5,090",165,£27.81,£2.70,10.3,114,1.4,29.4,89.10%,97.00%,6,15,4,1,3
+5510 South Norwood Express,Convenience London,GREATER LONDON,"£6,373",205,£28.02,£2.51,11.2,140,1.5,18.1,99.50%,99.10%,4,8,4,1,1
+5511 Wallington Woodcote Rd Express,Convenience London,SOUTH EAST,"£7,719",226,£31.07,£2.45,12.7,152,1.5,24.1,97.80%,98.80%,7,10,4,1,2
+5512 Dyce Express,Convenience North,EAST SCOTLAND,"£3,188",91,£31.94,£2.97,10.7,63,1.4,57.3,57.60%,99.70%,6,43,3,2,3
+5513 Lewisham Way Express,Convenience London,GREATER LONDON,"£3,108",102,£27.26,£2.54,10.8,69,1.5,27.1,96.10%,99.20%,6,13,4,1,3
+5518 Borough Long Ln Express,Convenience London,GREATER LONDON,"£1,211",40,£27.23,£2.52,10.8,31,1.3,26.1,97.50%,99.10%,4,16,4,2,1
+5519 Southampton Shirley Rd Express,Convenience South,SOUTH CENTRAL,"£5,426",167,£29.45,£2.98,9.9,109,1.5,20.5,97.60%,99.20%,5,8,3,1,2
+5524 Taunton E Reach Esso Express,Convenience South,SOUTH CENTRAL,"£1,368",43,£28.79,£2.91,9.9,27,1.6,43,80.50%,98.70%,4,31,4,2,2
+5526 Bath Englishcombe Ln Express,Convenience South,SOUTH CENTRAL,"£1,985",63,£28.36,£2.29,12.4,44,1.4,29.6,93.70%,98.60%,4,17,4,2,2
+5529 Chorlton Esso Express,Convenience North,NORTH WEST,"£4,915",151,£29.63,£2.57,11.5,96,1.6,30.7,91.20%,98.00%,8,15,4,1,3
+5530 Valley Dr Gravesend Express,Convenience South,SOUTH EAST,"£10,520",352,£26.81,£2.53,10.6,217,1.6,25.5,98.90%,99.10%,6,11,3,2,3
+5531 Potters Bar Express,Convenience Central,SOUTH EAST,"£8,789",260,£30.77,£2.75,11.2,180,1.4,28.7,95.80%,99.10%,6,13,3,2,5
+5532 Hampstead Belsize Rd Express,Convenience London,GREATER LONDON,"£2,415",75,£29.14,£2.76,10.6,51,1.5,26.3,90.70%,99.50%,5,15,3,1,1
+5533 Bitterne Spring Rd Express,Convenience South,SOUTH CENTRAL,"£4,629",147,£28.38,£2.28,12.4,109,1.3,26.4,97.30%,99.20%,6,12,4,1,3
+5536 Ayr Express,Convenience North,WEST SCOTLAND,"£6,850",201,£30.96,£2.67,11.6,140,1.4,31.8,93.50%,99.20%,7,18,3,2,2
+5537 Maidstone Hermitage Ln Express,Convenience South,SOUTH EAST,"£1,851",62,£27.06,£2.62,10.3,43,1.4,31.1,90.30%,98.40%,6,16,3,2,5
+5538 Mansfield Dukeries Esso Express,Convenience North,MIDLANDS,"£5,916",179,£29.92,£2.55,11.7,143,1.3,31.2,96.70%,98.00%,9,13,4,2,4
+5539 ESSEX ROAD EXPRESS,Convenience London,GREATER LONDON,"£2,062",61,£30.69,£2.86,10.7,37,1.6,27.3,93.50%,99.20%,4,15,5,1,2
+5541 Grappenhall Express,Convenience North,MIDLANDS,"£5,148",138,£34.28,£2.59,13.3,109,1.3,36.5,89.90%,99.20%,6,21,4,2,3
+5542 Bathwick Hill Express,Convenience South,SOUTH CENTRAL,"£1,758",53,£30.21,£2.25,13.4,39,1.4,32.4,94.20%,98.10%,6,18,4,2,2
+5545 Manninghm Ln Bradford Express,Convenience North,NORTH EAST,"£1,464",51,£25.40,£2.50,10.2,38,1.3,30.1,86.30%,99.20%,6,15,5,2,2
+5546 Windsor Bridge Express,Convenience South,SOUTH CENTRAL,"£1,752",53,£29.88,£2.69,11.1,42,1.3,29.4,94.30%,99.80%,4,18,4,2,2
+5549 Gornal Dudley Express,Convenience Central,MIDLANDS,"£7,156",225,£28.82,£2.53,11.4,147,1.5,28.1,93.30%,98.30%,6,14,4,1,3
+5551 Huddersfield Halifax Express,Convenience North,NORTH EAST,"£3,350",99,£30.78,£2.89,10.6,81,1.2,32.9,86.90%,99.30%,7,18,3,2,2
+5553 Ball Hill Walsgrave Rd Express,Convenience Central,MIDLANDS,"£11,767",363,£29.33,£2.59,11.3,275,1.3,25.8,99.70%,98.80%,9,8,4,2,2
+5554 Bradford Bolton Express,Convenience North,NORTH EAST,"£3,063",100,£27.57,£2.98,9.3,79,1.3,22,99.00%,98.50%,5,8,3,2,4
+5557 Sketty Gower Rd Express,Convenience South,WALES,"£10,470",285,£33.73,£2.85,11.8,193,1.5,31.9,92.30%,99.30%,9,15,4,2,3
+5560 Tooting Broadway Express,Convenience London,GREATER LONDON,"£1,425",50,£25.48,£2.33,10.9,31,1.6,20.6,94.00%,98.80%,4,10,1,1,4
+5561 Ruislip Park Way Express,Convenience London,SOUTH EAST,"£2,278",79,£25.70,£2.52,10.2,61,1.3,19.9,100.00%,98.20%,4,9,3,1,2
+5565 Lisson Grove Express,Convenience London,GREATER LONDON,"£1,520",47,£29.27,£2.58,11.3,36,1.3,26,93.80%,98.30%,4,13,4,2,3
+5568 Leeds Clarence Dock Express,Convenience North,NORTH EAST,"£1,553",49,£28.63,£1.94,14.8,32,1.5,35,91.80%,98.60%,8,19,4,2,3
+5569 Rotherham Wortley Rd Esso Express,Convenience North,NORTH EAST,"£5,024",152,£30.04,£2.67,11.3,109,1.4,24.7,98.70%,99.30%,6,10,3,2,2
+5575 St Neots Loves Farm Express,Convenience Central,EAST ANGLIA,"£10,257",298,£31.35,£2.71,11.6,208,1.4,32.7,91.60%,99.00%,6,18,3,2,3
+5577 Sheepscar Esso Express,Convenience North,NORTH EAST,"£1,224",36,£31.02,£3.34,9.3,27,1.3,29,97.20%,99.60%,8,15,4,1,1
+5579 Cardonald Esso Express,Convenience North,WEST SCOTLAND,"£3,227",106,£27.31,£2.09,13.1,83,1.3,28,98.10%,98.30%,7,12,4,3,2
+5580 Carfin Express,Convenience North,WEST SCOTLAND,"£7,029",228,£27.79,£2.55,10.9,181,1.3,37.7,92.50%,99.50%,7,24,2,2,1
+5581 LOWER HOLLOWAY EXPRESS,Convenience London,GREATER LONDON,"£1,144",35,£29.51,£2.39,12.3,27,1.3,28.6,94.30%,99.20%,6,16,4,2,2
+5582 Bristol Soundwell Esso Express,Convenience South,SOUTH CENTRAL,"£3,042",101,£27.01,£2.32,11.6,76,1.3,28.8,90.10%,99.60%,7,15,3,1,3
+5583 Priory Vale Express,Convenience South,SOUTH CENTRAL,"£4,091",115,£32.45,£2.39,13.6,85,1.4,28.3,97.40%,99.30%,6,15,3,2,1
+5584 Acton Express,Convenience London,GREATER LONDON,"£2,911",87,£30.37,£2.50,12.1,73,1.2,33.9,93.10%,99.40%,9,19,4,1,1
+5585 Monkstown Express,NI Convenience,NORTHERN IRELAND,"£1,718",50,£31.35,£2.21,14.2,40,1.3,30.6,93.90%,98.50%,7,17,4,1,2
+5591 North Hykeham Express,Convenience Central,MIDLANDS,"£6,517",176,£34.00,£2.96,11.5,121,1.5,30.8,94.40%,99.60%,9,16,3,2,1
+5593 Birstall Leicester Express,Convenience Central,MIDLANDS,"£1,546",48,£29.21,£2.37,12.3,40,1.2,28,100.00%,98.70%,6,14,4,2,2
+5594 Milton Keynes Oxley Park Express,Convenience Central,SOUTH EAST,"£3,051",100,£27.35,£2.53,10.8,71,1.4,27.6,98.00%,99.60%,5,15,3,1,3
+5595 Wallasey Poulton Rd Express,Convenience North,NORTH WEST,"£5,639",174,£29.28,£2.62,11.2,109,1.6,24.6,97.70%,98.20%,4,12,4,1,3
+5602 Westhoughton Express,Convenience North,NORTH WEST,"£6,681",208,£29.13,£2.88,10.1,148,1.4,29.8,94.70%,98.90%,7,14,3,2,3
+5603 Duke St Express,Convenience Central,EAST ANGLIA,"£7,023",215,£29.56,£2.78,10.6,147,1.5,28.7,93.50%,98.80%,8,13,3,3,2
+5604 Bradford St Esso Express,Convenience North,NORTH WEST,"£7,524",236,£28.84,£2.63,11,169,1.4,31,93.00%,98.90%,10,14,4,1,3
+5605 Kettering Windmill Ave Esso Express,Convenience Central,MIDLANDS,"£5,121",162,£28.52,£2.41,11.8,118,1.4,24.3,97.50%,99.00%,5,12,3,2,2
+5607 Evesham Esso Express,Convenience Central,MIDLANDS,"£7,468",249,£26.81,£2.59,10.3,160,1.6,23.9,98.40%,99.80%,6,11,3,2,2
+5608 Eltham High St Esso Express,Convenience London,GREATER LONDON,"£1,709",58,£26.41,£2.65,9.9,44,1.3,27.4,93.00%,98.80%,6,15,3,1,2
+5611 Dagenham Heathway Express,Convenience London,SOUTH EAST,"£6,599",229,£25.77,£2.82,9.1,133,1.7,22.6,99.10%,99.00%,6,11,3,1,2
+5618 Hedge End Express,Convenience South,SOUTH CENTRAL,"£7,730",231,£30.39,£2.58,11.8,140,1.7,25.2,98.30%,98.50%,5,12,3,2,3
+5619 Eastham Rake Express,Convenience North,MIDLANDS,"£4,134",130,£28.69,£2.51,11.4,90,1.4,38,91.60%,99.10%,7,23,3,2,3
+5620 Kingsbury Circle Express,Convenience London,GREATER LONDON,"£1,710",57,£26.73,£2.81,9.5,36,1.6,23.7,94.70%,97.60%,6,11,4,1,1
+5621 Brayton Express,Convenience North,NORTH EAST,"£4,884",160,£27.54,£2.54,10.9,122,1.3,38.7,83.20%,99.90%,7,25,3,2,1
+5622 Clocktower Liverpool Express,Convenience North,NORTH WEST,"£4,762",154,£28.01,£2.65,10.6,120,1.3,35.2,90.70%,98.70%,7,19,4,1,4
+5628 Nottingham Castle Boulevard Express,Convenience Central,MIDLANDS,"£4,214",127,£30.04,£2.91,10.3,92,1.4,23,98.50%,99.90%,8,9,3,1,2
+5630 Dumbarton Rd Express,Convenience North,WEST SCOTLAND,"£2,922",85,£31.34,£2.64,11.9,65,1.3,35.1,96.50%,98.60%,6,17,6,4,2
+5631 Southbourne Grove Express,Convenience South,SOUTH CENTRAL,"£2,422",69,£32.06,£2.81,11.4,44,1.6,27.2,94.10%,99.40%,4,17,3,2,1
+5632 Fleetwood Express,Convenience North,NORTH WEST,£999,30,£30.32,£2.72,11.1,26,1.2,43.5,80.00%,97.10%,4,31,4,2,2
+5634 Kidderminster Comberton Hill Express,Convenience Central,MIDLANDS,"£4,057",147,£24.46,£2.68,9.1,94,1.6,20.4,100.00%,99.00%,5,9,3,2,2
+5635 Bradford Sunbridge Rd Express,Convenience North,NORTH EAST,"£1,929",60,£29.09,£2.22,13.1,50,1.2,26.2,100.00%,98.80%,9,8,4,3,3
+5636 Camelon Esso Express,Convenience North,WEST SCOTLAND,"£10,921",296,£33.82,£2.86,11.8,205,1.4,32.4,91.20%,98.00%,7,16,4,2,3
+5637 Bishopbriggs Express,Convenience North,WEST SCOTLAND,"£10,079",276,£33.47,£2.82,11.9,210,1.3,30.2,96.80%,99.50%,8,12,4,3,3
+5639 ABERDEEN GRT WST EXPRESS,Convenience North,EAST SCOTLAND,"£5,430",163,£30.24,£2.84,10.7,125,1.3,56,66.70%,98.80%,10,37,4,3,2
+5644 Romford Manor Park Express,Convenience London,GREATER LONDON,"£1,851",55,£30.61,£3.11,9.8,42,1.3,20.8,100.00%,99.10%,5,9,3,3,1
+5645 New Malden Express,Convenience London,SOUTH EAST,"£6,818",203,£30.50,£2.94,10.4,140,1.5,23,96.50%,99.00%,7,9,3,1,2
+5648 Drayton Park Express,Convenience London,GREATER LONDON,"£2,216",68,£29.70,£2.68,11.1,46,1.5,29.8,89.60%,97.40%,6,16,4,1,3
+5649 Norbiton Express,Convenience London,SOUTH EAST,"£2,805",83,£30.76,£3.06,10.1,64,1.3,22.4,97.60%,98.70%,4,10,3,1,4
+5654 Huddersfld Wakefield Express,Convenience North,NORTH EAST,"£2,345",76,£27.85,£2.96,9.4,62,1.2,26.7,98.60%,98.50%,7,12,4,1,3
+5655 Edgware Hale Ln Express,Convenience London,SOUTH EAST,"£3,511",117,£26.90,£2.81,9.6,80,1.5,21.8,100.00%,99.50%,7,9,3,1,2
+5656 Robin Hood Express,Convenience Central,MIDLANDS,"£7,632",220,£31.50,£2.73,11.6,142,1.5,20.8,100.00%,98.90%,6,8,3,1,2
+5657 March Hostmoor Superstore,Large Central,EAST ANGLIA,"£7,930",227,£31.94,£2.38,13.4,174,1.3,42.1,84.70%,98.90%,8,22,8,2,3
+5660 Fletcher Gate The Pod Express,Convenience Central,MIDLANDS,"£3,780",126,£26.80,£2.74,9.8,88,1.4,25.4,98.40%,99.00%,8,11,4,2,2
+5662 Leicester Granby St Express,Convenience Central,MIDLANDS,£50,2,£23.60,£1.57,15,2,1,44.6,50.00%,96.20%,1,36,5,2,1
+5664 Durrington Express,Convenience South,SOUTH CENTRAL,"£8,976",264,£30.91,£2.65,11.7,184,1.4,29.7,96.60%,99.40%,7,13,3,2,4
+5665 Bessacarr Esso Express,Convenience North,NORTH EAST,"£4,279",132,£29.29,£3.11,9.4,83,1.6,35.8,94.70%,98.70%,6,23,3,2,2
+5667 Clifton Ln Esso Express,Convenience Central,MIDLANDS,"£2,001",66,£27.14,£2.75,9.9,45,1.5,24.3,100.00%,100.00%,6,10,4,3,2
+5669 Auld Cross Esso Express,Convenience North,WEST SCOTLAND,"£7,088",219,£29.30,£2.36,12.4,167,1.3,27,98.20%,99.70%,6,14,3,2,2
+5671 Leaventhorpe Esso Express,Convenience North,NORTH EAST,"£3,811",113,£30.65,£2.23,13.7,84,1.3,23.3,100.00%,95.80%,6,7,6,2,3
+5672 Worthing South Farm Rd Express,Convenience South,SOUTH EAST,"£4,064",131,£27.93,£2.62,10.7,88,1.5,22.7,97.70%,99.90%,4,11,3,2,2
+5674 Whippendell Rd Express,Convenience London,SOUTH EAST,"£7,270",247,£26.31,£2.30,11.4,186,1.3,31,94.80%,98.40%,8,14,4,1,3
+5675 Bedford Ford End Express,Convenience Central,SOUTH EAST,"£10,307",318,£29.41,£2.61,11.3,219,1.5,27.9,99.10%,99.30%,9,11,3,2,2
+5676 Newquay Narrowcliff Express,Convenience South,SOUTH WEST,£804,26,£27.79,£3.16,8.8,17,1.5,67.9,51.90%,99.50%,5,56,2,2,3
+5677 Kilwinning Express,Convenience North,WEST SCOTLAND,"£3,629",125,£26.00,£2.43,10.7,100,1.3,55.8,64.80%,99.10%,6,43,3,2,2
+5678 Clapham Wandsworth Express,Convenience London,GREATER LONDON,"£2,735",74,£33.89,£2.46,13.8,57,1.3,28.5,91.80%,100.00%,6,15,4,1,2
+5679 Warmley Deanery Rd Esso Express,Convenience South,SOUTH CENTRAL,"£2,941",91,£29.30,£2.79,10.5,52,1.8,26.1,97.80%,99.10%,5,14,3,3,1
+5680 Claughton Express,Convenience North,NORTH WEST,"£8,942",274,£29.57,£2.91,10.2,182,1.5,33.7,92.00%,98.50%,9,16,4,1,4
+5681 Wellingborough Queensway Express,Convenience Central,MIDLANDS,"£5,219",162,£29.11,£2.56,11.4,114,1.4,23.7,98.80%,99.30%,6,11,3,2,2
+5684 Dunfermline Express,Convenience North,EAST SCOTLAND,"£17,194",510,£30.60,£2.56,11.9,379,1.3,33.3,93.10%,98.60%,8,16,4,2,3
+5685 Bradwell Express,Convenience Central,EAST ANGLIA,"£15,804",479,£29.84,£2.65,11.3,320,1.5,25.4,97.70%,99.50%,7,11,3,2,3
+5686 Croydon Rd Express,Convenience London,SOUTH EAST,"£2,978",107,£24.74,£2.41,10.3,77,1.4,23,100.00%,96.20%,5,9,5,1,3
+5687 Redhill Surrey Express,Convenience South,SOUTH EAST,"£6,370",194,£29.74,£2.59,11.5,147,1.3,35.4,92.70%,99.10%,7,19,4,3,3
+5690 Watford St Alban Express,Convenience London,SOUTH EAST,"£4,013",123,£29.63,£2.65,11.2,97,1.3,31.2,92.50%,99.30%,7,18,3,1,2
+5692 Stansted Express,Convenience Central,SOUTH EAST,"£6,560",180,£33.34,£2.77,12.1,124,1.5,36.6,86.80%,99.40%,6,23,3,2,3
+5698 Rockfield Esso Express,Convenience North,WEST SCOTLAND,"£15,604",449,£31.69,£2.71,11.7,319,1.4,29.2,98.20%,99.10%,8,12,4,3,3
+5700 Aintree Molyneux Way Express,Convenience North,NORTH WEST,"£3,801",119,£28.96,£2.64,11,94,1.3,36,92.80%,97.20%,8,19,4,3,3
+5703 Cathays Terrace Express,Convenience South,WALES,"£1,503",43,£31.88,£2.39,13.3,36,1.2,28.7,86.40%,99.40%,4,19,3,1,1
+5705 Alfreton Rd Nottingham Express,Convenience Central,MIDLANDS,"£2,432",66,£33.68,£2.67,12.6,46,1.4,22.1,97.00%,99.50%,8,9,3,1,2
+5706 Knaphill High St Express,Convenience South,SOUTH EAST,"£3,201",87,£33.66,£2.58,13,69,1.3,38.1,85.40%,98.90%,7,23,4,2,2
+5711 West Hampstead Express,Convenience London,GREATER LONDON,"£1,346",39,£31.46,£2.40,13.1,31,1.3,26.5,92.30%,98.50%,4,16,5,1,1
+5713 Baillieston Express,Convenience North,WEST SCOTLAND,"£15,163",462,£29.76,£2.43,12.2,344,1.3,33,97.20%,98.40%,9,14,4,2,4
+5715 Ely Cardiff Express,Convenience South,WALES,"£12,767",424,£27.06,£2.89,9.4,274,1.5,25,99.30%,99.00%,7,8,4,2,5
+5717 Undercliffe Express,Convenience North,NORTH EAST,"£1,874",62,£27.22,£2.27,12,39,1.6,24,98.40%,96.60%,7,8,4,2,3
+5724 Northampton Link Rd Express,Convenience Central,MIDLANDS,"£3,268",107,£27.39,£2.51,10.9,76,1.4,23.6,100.00%,99.10%,6,10,4,2,3
+5725 Rustington Sterling Parade Express,Convenience South,SOUTH EAST,"£4,447",144,£27.84,£2.42,11.5,110,1.3,38.1,85.40%,98.70%,6,24,4,2,3
+5726 Church Village Express,Convenience South,WALES,"£13,141",395,£30.17,£2.67,11.3,296,1.3,29.6,96.20%,98.90%,9,10,4,2,4
+5727 Woodford Green Express,Convenience London,SOUTH EAST,"£11,150",338,£29.97,£2.60,11.6,249,1.4,24.9,97.90%,99.80%,8,10,3,1,2
+5732 Swansea Uplands Crescent Express,Convenience South,WALES,"£3,712",112,£30.21,£2.99,10.1,86,1.3,28.7,95.50%,99.90%,7,15,3,1,2
+5734 Swillington Express,Convenience North,NORTH EAST,"£2,038",69,£26.28,£2.82,9.3,46,1.5,31,89.70%,98.30%,6,15,4,2,4
+5735 Herne Bay Express,Convenience South,SOUTH EAST,"£7,589",235,£29.25,£2.62,11.1,179,1.3,32.2,90.30%,99.50%,6,18,3,2,3
+5736 Limehouse Express,Convenience London,GREATER LONDON,"£5,866",174,£30.67,£2.57,12,116,1.5,30.1,94.30%,99.00%,8,14,3,4,1
+5737 Sheffield Broadfield Rd Express,Convenience North,NORTH EAST,"£7,590",208,£33.50,£2.76,12.1,154,1.4,31.2,94.80%,98.60%,10,14,4,1,2
+5746 Luton Dunstable Rd Express,Convenience Central,SOUTH EAST,"£6,673",192,£31.79,£2.64,12,134,1.4,25.5,100.00%,98.80%,8,8,4,3,2
+5749 St Albans Beech Rd Express,Convenience Central,SOUTH EAST,"£2,385",77,£27.89,£2.57,10.9,55,1.4,22.3,98.70%,99.60%,5,10,3,2,2
+5751 Erdington Six Ways Express,Convenience Central,MIDLANDS,"£8,170",258,£28.58,£2.54,11.3,187,1.4,26.4,96.90%,99.20%,10,9,3,1,2
+5753 Prestwich Bury Express,Convenience North,NORTH WEST,"£13,839",418,£30.00,£2.59,11.6,304,1.4,27.6,98.10%,97.70%,8,9,4,2,5
+5774 Pontyclun Express,Convenience South,WALES,"£5,697",164,£31.67,£2.49,12.7,117,1.4,36.3,89.60%,99.60%,8,20,4,2,3
+5775 Kensal Rise Express,Convenience London,GREATER LONDON,"£3,160",102,£27.94,£2.41,11.6,71,1.4,24.4,96.10%,98.10%,6,10,4,1,3
+5777 Norwich Unthank Rd Express,Convenience Central,EAST ANGLIA,"£3,472",103,£30.55,£2.53,12.1,70,1.5,23.5,99.00%,99.40%,4,11,4,2,2
+5782 Fegg Hayes Express,Convenience Central,MIDLANDS,"£6,705",212,£28.55,£2.70,10.6,140,1.5,22.4,100.00%,98.60%,6,8,4,2,2
+5783 Aldridge Paddock Ln Express,Convenience Central,MIDLANDS,"£7,566",237,£28.83,£2.51,11.5,172,1.4,28.6,99.20%,99.70%,8,12,3,2,3
+5784 Southwark Walworth Rd Express,Convenience London,GREATER LONDON,"£1,357",46,£26.44,£3.09,8.6,35,1.3,27.5,95.70%,95.20%,5,10,7,2,3
+5786 Arbroath Superstore,Large North,EAST SCOTLAND,"£6,452",149,£40.27,£2.35,17.1,115,1.3,41.3,82.20%,97.60%,7,21,9,2,3
+5787 Ickenham High Rd Express,Convenience London,SOUTH EAST,"£3,430",106,£29.26,£2.73,10.7,79,1.3,24.3,99.00%,97.60%,6,8,5,1,4
+5789 Crown St Express,Convenience South,SOUTH EAST,"£1,241",34,£33.54,£2.68,12.5,27,1.3,28.8,88.20%,100.00%,4,19,3,1,1
+5791 Tarbock Woodlands Esso Express,Convenience North,NORTH WEST,"£3,363",104,£29.30,£2.65,11,80,1.3,35.2,93.30%,97.90%,7,22,3,1,2
+5795 Leeds Beeston Express,Convenience North,NORTH EAST,"£2,311",78,£26.58,£2.85,9.3,47,1.7,26.9,96.20%,97.30%,7,13,3,2,2
+5798 Crewe Arms Esso Express,Convenience Central,MIDLANDS,"£4,574",144,£28.86,£2.78,10.4,100,1.4,30.2,95.10%,99.10%,8,16,3,2,2
+5800 Bristol St North Express,Convenience South,SOUTH CENTRAL,"£2,671",80,£30.46,£2.95,10.3,38,2.1,23.9,97.60%,99.10%,5,12,4,1,3
+5801 Broken Cross Macclesfield Express,Convenience Central,MIDLANDS,"£12,944",390,£30.14,£2.76,10.9,290,1.3,27.5,97.70%,99.30%,7,12,3,2,3
+5802 Fairfield Express,Convenience Central,SOUTH EAST,"£3,489",104,£30.65,£2.58,11.9,86,1.2,31.6,94.10%,97.80%,8,16,4,2,2
+5805 Cornmill Shopping Centre Express,Convenience North,NORTH EAST,"£2,780",92,£27.57,£2.67,10.3,68,1.4,43.1,74.70%,98.30%,9,27,4,1,2
+5806 Wakefield Express,Convenience North,NORTH EAST,"£2,524",80,£28.69,£3.04,9.4,56,1.4,27.5,96.30%,99.80%,7,14,3,1,3
+5807 Southampton Burgess Rd Express,Convenience South,SOUTH CENTRAL,"£4,030",130,£27.87,£2.41,11.6,92,1.4,27.2,97.70%,98.00%,7,12,4,1,3
+5808 Ossett Express,Convenience North,NORTH EAST,"£5,164",147,£32.07,£2.94,10.9,98,1.5,20.2,98.60%,98.30%,5,9,3,1,2
+5810 Slough Burnham Ln Express,Convenience South,SOUTH EAST,"£8,873",277,£28.96,£2.66,10.9,193,1.4,23.7,99.30%,98.70%,6,8,4,2,4
+5812 Middleton Rd Banbury Express,Convenience Central,SOUTH CENTRAL,"£3,666",116,£28.50,£2.59,11,84,1.4,21.5,100.00%,98.70%,6,8,3,2,2
+5814 Riverbank Court Express,Convenience South,WALES,"£3,015",102,£26.30,£2.56,10.3,74,1.4,27.9,97.10%,99.30%,5,14,3,2,3
+5818 Cardiff Wellfield Rd Express,Convenience South,WALES,"£4,154",118,£32.26,£2.74,11.8,87,1.4,32.6,92.30%,99.40%,9,16,4,1,3
+5819 Claremont Crescent Express,Convenience North,NORTH EAST,"£2,696",78,£31.41,£2.89,10.9,58,1.3,30.1,96.20%,98.90%,6,16,4,2,2
+5820 Waunceirch Express,Convenience South,WALES,"£9,293",264,£32.19,£2.85,11.3,192,1.4,35.4,92.70%,98.40%,8,18,4,2,4
+5822 Earlsfield Garratt Ln Express,Convenience London,GREATER LONDON,"£2,316",66,£32.34,£2.75,11.8,44,1.5,22.5,93.80%,100.00%,4,13,3,1,1
+5828 Coventry Holyhead Express,Convenience Central,MIDLANDS,"£9,493",283,£30.49,£2.41,12.6,220,1.3,23.3,99.60%,98.70%,8,7,3,2,2
+5831 Leicester Saffron Express,Convenience Central,MIDLANDS,"£1,858",58,£29.01,£2.54,11.4,43,1.3,25.1,100.00%,99.30%,6,11,5,2,2
+5839 Leicester Humberstone Express,Convenience Central,MIDLANDS,"£8,732",280,£28.01,£2.59,10.8,179,1.6,24.5,99.60%,99.20%,8,9,3,1,3
+5841 Poplar High St Express,Convenience London,GREATER LONDON,"£3,983",134,£26.58,£2.49,10.7,80,1.7,25.1,99.30%,99.40%,6,10,3,4,3
+5842 South Ockendon Derry Court Express,Convenience Central,SOUTH EAST,"£9,003",307,£26.12,£2.36,11.1,214,1.4,29.5,95.20%,100.00%,6,15,4,2,3
+5858 Penarth Express,Convenience South,WALES,"£8,301",238,£31.82,£2.66,12,167,1.4,24.2,99.60%,98.70%,7,9,4,2,3
+5861 Fortune Green Rd Express,Convenience London,GREATER LONDON,"£1,832",51,£32.74,£2.46,13.3,40,1.3,29,86.30%,98.70%,4,17,4,1,2
+5862 Winchester Andover Rd Esso Express,Convenience South,SOUTH CENTRAL,"£3,125",100,£28.14,£2.84,9.9,68,1.5,32.2,92.10%,99.40%,4,19,3,2,3
+5865 Exeter Cowick St Express,Convenience South,SOUTH WEST,"£4,904",151,£29.42,£2.55,11.5,95,1.6,28.7,92.90%,100.00%,6,17,3,1,2
+5867 Luton Hitchin Rd Express,Convenience Central,SOUTH EAST,"£3,203",93,£31.26,£2.55,12.2,76,1.2,24.6,100.00%,99.10%,6,10,3,2,3
+5869 Cardiff North Rd Express,Convenience South,WALES,"£2,033",55,£34.02,£2.68,12.7,45,1.2,30.6,93.00%,99.10%,6,16,4,1,3
+5872 Cheltenham Hewlett Rd Express,Convenience Central,SOUTH CENTRAL,"£6,788",217,£28.16,£2.48,11.4,167,1.3,36.2,89.00%,99.40%,7,20,3,2,4
+5873 Letchworth Express,Convenience Central,SOUTH EAST,"£6,350",189,£30.51,£2.69,11.3,113,1.7,25.5,94.70%,99.20%,5,14,3,2,2
+5875 Cambridge Clifton Rd Express,Convenience Central,EAST ANGLIA,"£3,685",109,£30.90,£2.63,11.7,80,1.4,30.8,91.50%,97.70%,8,15,4,1,3
+5877 Hucknall Annesley Rd Express,Convenience Central,MIDLANDS,"£9,184",270,£31.00,£2.63,11.8,200,1.4,20.7,100.00%,99.30%,6,7,3,2,2
+5880 Bournemouth Triangle Express,Convenience South,SOUTH CENTRAL,"£3,443",105,£29.73,£2.73,10.9,70,1.5,29.3,92.30%,99.40%,6,14,4,1,4
+5882 Willingdon Freshwater Square Express,Convenience South,SOUTH EAST,"£7,804",219,£32.59,£2.61,12.5,164,1.3,39.8,88.10%,98.20%,8,21,4,2,5
+5884 Beaumont Rd Express,Convenience South,SOUTH WEST,"£4,366",142,£27.77,£2.43,11.4,100,1.4,35.8,89.10%,99.30%,7,21,4,1,3
+5886 Derby St Peters Street Express,Convenience Central,MIDLANDS,"£3,164",104,£27.27,£2.41,11.3,75,1.4,31.2,96.10%,97.90%,9,10,5,2,4
+5887 Cambridge Rd Harrogate Express,Convenience North,NORTH EAST,"£1,022",28,£33.45,£2.45,13.6,24,1.2,32.2,92.90%,97.90%,9,17,3,2,2
+5890 Harlesden Stonebridge Express,Convenience London,GREATER LONDON,"£7,544",269,£24.95,£2.44,10.2,212,1.3,26.2,98.50%,99.00%,6,9,4,2,5
+5893 Worcester Foregate St Express,Convenience Central,MIDLANDS,"£4,164",127,£29.76,£2.58,11.5,97,1.3,33.8,92.10%,99.00%,7,18,3,2,3
+5899 Dewsbury Esso Express,Convenience North,NORTH EAST,"£2,592",80,£29.31,£2.63,11.2,63,1.3,28.7,97.50%,96.90%,7,13,4,1,4
+5900 Broughty Ferry Express,Convenience North,EAST SCOTLAND,"£4,224",106,£36.90,£2.42,15.2,76,1.4,41.9,84.10%,99.30%,7,27,4,2,2
+5907 East Ham High St Express,Convenience London,GREATER LONDON,"£5,979",193,£28.01,£2.57,10.9,122,1.6,23.1,98.40%,99.10%,6,10,4,1,2
+5908 Whalley Range Express,Convenience North,NORTH WEST,"£3,305",107,£28.04,£2.64,10.6,75,1.4,35.3,89.30%,98.80%,8,19,4,1,3
+5910 Torquay Lymington Express,Convenience South,SOUTH WEST,"£4,318",138,£28.27,£2.49,11.4,97,1.4,44.5,78.40%,97.90%,5,33,3,2,2
+5911 East Ham Pilgrims Way Express,Convenience London,GREATER LONDON,"£1,217",44,£24.68,£2.61,9.5,28,1.6,20.9,100.00%,100.00%,5,10,3,1,2
+5912 City Rd Express,Convenience London,GREATER LONDON,£352,11,£28.48,£2.93,9.7,10,1.1,44.3,72.70%,98.70%,6,25,4,6,2
+5913 Bath Row Birmingham Express,Convenience Central,MIDLANDS,"£2,673",77,£31.64,£2.61,12.1,62,1.2,25.7,100.00%,99.10%,6,13,4,1,2
+5916 Princess St Manch Express,Convenience North,NORTH WEST,"£3,228",96,£30.74,£2.80,11,81,1.2,53.3,63.00%,97.40%,13,31,3,2,4
+5917 Penketh Express,Convenience North,MIDLANDS,"£2,407",76,£28.61,£3.22,8.9,48,1.6,32,92.10%,99.50%,6,18,3,2,3
+5921 Leicester Hinckley Rd Express,Convenience Central,MIDLANDS,"£3,656",118,£27.93,£2.49,11.2,84,1.4,20.7,96.60%,99.50%,5,10,3,1,2
+5922 Harrow Pinner Rd Express,Convenience London,SOUTH EAST,"£2,053",61,£30.59,£2.75,11.1,44,1.4,21.6,100.00%,100.00%,6,9,3,1,2
+5923 Wanstead Express,Convenience London,GREATER LONDON,"£6,118",201,£27.34,£2.68,10.2,143,1.4,25.4,97.00%,98.10%,7,13,3,1,2
+5926 Farringdon Rd Express,Convenience London,GREATER LONDON,£485,19,£22.23,£2.78,8,12,1.6,22.3,89.50%,96.40%,5,10,4,3,2
+5927 High Wycombe New Rd Exp,Convenience South,SOUTH EAST,"£1,331",43,£27.64,£2.82,9.8,29,1.5,21.9,100.00%,99.70%,4,12,3,2,1
+5929 Turnpike Lane Express,Convenience London,GREATER LONDON,"£1,150",41,£25.00,£2.45,10.2,33,1.2,28.1,90.20%,99.20%,6,14,4,2,1
+5931 Barry Holton Express,Convenience South,WALES,"£4,969",149,£30.19,£2.71,11.2,109,1.4,22.7,98.60%,99.30%,6,10,3,2,2
+5932 Barking Ripple Rd Express,Convenience London,SOUTH EAST,"£6,403",221,£25.92,£2.49,10.4,153,1.4,29.4,94.10%,99.90%,8,13,3,2,4
+5933 Forest Gate Woodgrange Rd Express,Convenience London,GREATER LONDON,"£1,413",45,£28.34,£2.37,12,33,1.4,24.8,97.70%,99.60%,6,12,4,1,3
+5934 East Sheen Express,Convenience London,GREATER LONDON,"£2,166",67,£29.23,£2.60,11.3,40,1.7,28.5,92.50%,97.90%,4,17,3,1,3
+5935 Eastcote Field End Rd Express,Convenience London,SOUTH EAST,"£2,439",77,£28.68,£2.98,9.6,52,1.5,19.7,100.00%,97.70%,5,8,5,1,2
+5936 Consett Durham Rd Express,Convenience North,NORTH EAST,"£9,676",279,£31.73,£2.83,11.2,204,1.4,38.6,84.20%,99.30%,7,23,4,2,3
+5942 Victory Pier Gillingham Express,Convenience South,SOUTH EAST,"£3,549",119,£26.75,£2.63,10.2,88,1.4,34.6,95.80%,100.00%,7,20,3,2,2
+5944 Holland On Sea Express,Convenience Central,SOUTH EAST,"£4,264",136,£28.23,£2.54,11.1,98,1.4,31.9,91.90%,99.80%,5,20,3,1,2
+5945 Walthamstow Forest Express,Convenience London,SOUTH EAST,"£3,292",105,£28.36,£2.37,12,78,1.3,27.4,95.20%,99.10%,5,16,3,1,2
+5949 Leytonstone Rd Express,Convenience London,GREATER LONDON,"£2,546",87,£26.03,£2.13,12.2,68,1.3,24.2,95.40%,97.20%,6,10,4,1,3
+5950 Cheadle Wilmslow Express,Convenience North,MIDLANDS,"£1,271",45,£25.52,£2.94,8.7,30,1.5,29.5,97.60%,97.20%,7,16,3,1,2
+5951 Whitecross Weston-super-mare Express,Convenience South,SOUTH CENTRAL,"£6,332",187,£30.81,£2.83,10.9,131,1.4,33.8,92.50%,98.40%,7,18,5,2,2
+5955 Lytham St Annes Express,Convenience North,NORTH WEST,"£2,119",62,£31.06,£2.82,11,45,1.4,35.6,90.20%,97.30%,6,21,4,2,2
+5956 Mansell St Express,Convenience London,GREATER LONDON,£690,23,£26.89,£2.38,11.3,17,1.4,18.2,100.00%,99.20%,5,6,4,3,1
+5958 Bishop's Stortford South St Express,Convenience Central,SOUTH EAST,"£9,239",294,£28.35,£2.67,10.6,202,1.5,36.8,86.90%,99.30%,7,20,4,2,3
+5959 Westburn Esso Express,Convenience North,WEST SCOTLAND,"£9,238",265,£31.86,£2.78,11.4,180,1.5,27.6,97.80%,99.60%,7,12,3,3,3
+5964 Liverpool Lord St Express,Convenience North,NORTH WEST,£723,23,£28.44,£2.09,13.6,22,1,34.3,85.70%,98.00%,8,19,4,1,2
+5966 Oxford Banbury Rd Express,Convenience Central,SOUTH CENTRAL,"£3,807",115,£30.06,£2.60,11.5,92,1.3,30.8,94.80%,95.50%,8,13,5,1,3
+5967 Newcastle Chillingham Rd Express,Convenience North,NORTH EAST,"£3,804",107,£32.68,£2.62,12.5,75,1.4,34.4,86.90%,99.00%,7,19,4,1,3
+5977 Uddingston Superstore,Large North,WEST SCOTLAND,"£8,799",209,£39.06,£2.51,15.6,153,1.4,40.5,90.40%,98.20%,10,15,8,3,4
+5983 Ilford Cranbrook Rd Express,Convenience London,SOUTH EAST,"£1,169",40,£26.23,£3.15,8.3,26,1.5,20.5,100.00%,96.80%,5,10,3,1,1
+5984 Belgrave Gate Leicester Express,Convenience Central,MIDLANDS,£690,19,£33.14,£2.39,13.9,13,1.5,34.3,89.50%,98.30%,7,17,6,2,2
+5986 Preston Rd Wembley Express,Convenience London,SOUTH EAST,"£1,051",44,£20.63,£2.32,8.9,34,1.3,19.6,100.00%,99.10%,4,10,3,1,2
+5987 Taunton High St Express,Convenience South,SOUTH CENTRAL,£369,13,£24.75,£2.90,8.5,10,1.3,50.2,78.60%,100.00%,5,39,2,2,2
+5989 Bow Violet Rd Express,Convenience London,GREATER LONDON,"£4,655",165,£25.08,£2.55,9.8,126,1.3,34.1,87.20%,99.90%,8,15,3,2,6
+5990 Rogerstone Newport Express,Convenience South,WALES,"£5,297",172,£27.73,£2.52,11,138,1.2,30.5,93.00%,97.60%,7,15,4,2,2
+5994 Cardiff St Marys Express,Convenience South,WALES,"£1,238",40,£27.96,£2.16,13,32,1.3,27.7,92.10%,98.60%,6,15,4,1,1
+5995 Eccles Monton Rd Express,Convenience North,NORTH WEST,"£5,917",186,£28.85,£2.73,10.6,142,1.3,30,96.10%,98.90%,8,14,4,1,3
+5996 Kingsley Park Express,Convenience Central,MIDLANDS,"£2,319",74,£28.29,£2.36,12,60,1.2,23.7,98.60%,98.50%,5,9,4,2,4
+6005 Frances Wharf Express,Convenience London,GREATER LONDON,"£2,640",85,£28.04,£2.55,11,73,1.2,19.8,100.00%,98.90%,4,6,4,4,2
+6006 Lillington Express,Convenience Central,MIDLANDS,"£4,385",145,£27.06,£2.71,10,115,1.3,29.2,98.00%,98.00%,6,16,4,2,2
+6007 Liverpool Rd Express,Convenience North,NORTH WEST,£435,11,£36.98,£2.47,15,9,1.2,37.5,90.90%,100.00%,9,20,4,4,1
+6009 Mile End Rd Lond Express,Convenience London,GREATER LONDON,£370,10,£34.00,£3.09,11,10,1,40.7,80.00%,100.00%,10,22,4,3,2
+6013 Clifton St Express,Convenience South,WALES,"£4,659",145,£29.01,£2.79,10.4,91,1.6,29.9,94.50%,98.70%,7,16,4,1,2
+6014 Hounslow Staines Rd Express,Convenience London,SOUTH EAST,"£3,544",117,£27.21,£2.91,9.3,85,1.4,24.2,99.10%,98.50%,7,11,3,1,2
+6016 Worthing Chapel Rd Express,Convenience South,SOUTH EAST,"£1,404",45,£28.14,£2.44,11.5,33,1.4,27.1,100.00%,97.70%,5,14,3,3,2
+6020 Clapham Oval Express,Convenience London,GREATER LONDON,£646,24,£23.77,£2.14,11.1,20,1.2,27.1,95.80%,99.50%,4,14,5,1,3
+6023 Harrow Shaftsbury Express,Convenience London,SOUTH EAST,"£2,079",66,£28.35,£2.65,10.7,47,1.4,21.8,100.00%,97.90%,5,8,5,2,2
+6026 Kursaal Southend Express,Convenience Central,SOUTH EAST,"£2,012",71,£25.26,£2.64,9.6,46,1.5,25.8,97.20%,99.40%,3,15,3,2,3
+6031 Broadway Express,Convenience Central,SOUTH EAST,"£3,964",114,£31.72,£2.95,10.8,75,1.5,28,95.70%,99.40%,4,16,4,2,2
+6032 Mortlake Express,Convenience London,GREATER LONDON,"£3,256",105,£28.03,£2.73,10.3,52,2,25.9,96.20%,99.80%,5,15,3,1,3
+6033 Chadwell Heath Express,Convenience London,SOUTH EAST,"£4,050",151,£23.70,£2.36,10,115,1.3,30.1,92.70%,98.00%,8,14,4,1,3
+6035 Wallasey Liscard Express,Convenience North,NORTH WEST,"£5,083",163,£28.14,£2.53,11.1,124,1.3,32.3,87.00%,99.20%,6,20,3,1,2
+6037 Burnley Express,Convenience North,NORTH WEST,"£9,987",314,£28.77,£2.52,11.4,224,1.4,25.4,97.50%,98.90%,8,9,4,2,3
+6038 Elm Park Romford Express,Convenience London,SOUTH EAST,"£11,890",402,£26.52,£2.47,10.7,291,1.4,23,99.80%,98.50%,6,9,4,1,3
+6039 Fulham Munster Rd Express,Convenience London,GREATER LONDON,"£1,509",48,£28.30,£2.87,9.9,35,1.4,22.7,97.90%,99.50%,3,12,4,1,2
+6044 Queens Rd Peckham Express,Convenience London,GREATER LONDON,"£6,656",219,£27.23,£2.60,10.5,151,1.5,27.8,95.50%,99.40%,7,14,3,1,3
+6045 Lillie House Express,Convenience Central,MIDLANDS,"£3,201",100,£28.94,£2.61,11.1,72,1.4,29.2,98.00%,99.50%,10,12,3,2,2
+6046 Kingstanding Birmingham Express,Convenience Central,MIDLANDS,"£10,823",330,£29.68,£2.59,11.5,230,1.4,22.8,99.40%,98.90%,7,7,3,2,4
+6048 Deptford High St Express,Convenience London,GREATER LONDON,£486,17,£25.51,£2.69,9.5,17,1,26.9,100.00%,98.60%,6,14,4,1,2
+6049 Aberdeen Union St Express,Convenience North,EAST SCOTLAND,"£4,787",139,£31.58,£2.93,10.8,104,1.3,61.5,60.90%,98.20%,7,44,4,3,4
+6050 Newton Mearns Express,Convenience North,WEST SCOTLAND,"£4,601",104,£41.18,£2.99,13.8,74,1.4,33.5,95.20%,98.20%,8,15,4,3,3
+6054 Cwmbran Express,Convenience South,WALES,"£5,023",169,£26.65,£2.61,10.2,114,1.5,33.6,93.40%,99.90%,6,16,4,2,5
+6055 South Bridge Express,Convenience North,EAST SCOTLAND,"£1,046",28,£34.37,£2.57,13.4,25,1.1,46.9,71.40%,97.10%,4,27,5,4,7
+6057 Greenwich Creek Rd Express,Convenience London,GREATER LONDON,"£3,362",110,£27.56,£2.63,10.5,67,1.6,28.3,94.70%,97.70%,7,13,4,2,3
+6058 Middlesbrough Express,Convenience North,NORTH EAST,£698,25,£25.09,£2.50,10,17,1.5,36.6,87.50%,99.20%,7,23,4,1,2
+6059 Barnet Greenhill Express,Convenience London,SOUTH EAST,"£3,811",116,£29.83,£2.86,10.4,86,1.3,21.8,100.00%,98.90%,5,8,4,2,3
+6060 Derby Stenson Rd Express,Convenience Central,MIDLANDS,"£2,458",80,£27.70,£2.50,11.1,58,1.4,26.1,97.50%,99.60%,8,12,3,1,1
+6061 Sidwell St Express,Convenience South,SOUTH WEST,"£3,471",104,£30.30,£2.57,11.8,82,1.3,28.7,94.20%,98.60%,7,14,4,1,3
+6064 Glasgow Victoria Express,Convenience North,WEST SCOTLAND,"£2,060",67,£27.77,£2.80,9.9,53,1.3,39.9,83.30%,99.00%,7,27,3,1,2
+6066 Kingsway Local Centre Express,Convenience Central,SOUTH CENTRAL,"£4,086",137,£26.72,£2.74,9.7,91,1.5,32,90.50%,99.90%,5,19,3,2,3
+6069 Lambeth Kennington Rd Express,Convenience London,GREATER LONDON,"£3,785",108,£32.03,£2.77,11.6,68,1.6,27.1,93.60%,100.00%,4,13,4,2,4
+6070 Bermondsey Park Express,Convenience London,GREATER LONDON,"£6,817",230,£26.56,£2.44,10.9,166,1.4,23.9,99.10%,99.40%,5,10,3,3,2
+6071 Wimbledon Chase Express,Convenience London,GREATER LONDON,"£6,162",176,£32.00,£2.57,12.4,138,1.3,20.8,97.70%,98.60%,6,10,3,1,1
+6072 Oldham Ashton Express,Convenience North,NORTH WEST,"£13,922",421,£30.04,£2.57,11.7,312,1.3,26.7,98.30%,98.80%,10,8,3,2,3
+6073 Thornton Marsh Express,Convenience North,NORTH WEST,"£2,903",94,£27.88,£2.61,10.7,77,1.2,38.2,88.90%,98.50%,8,23,4,1,1
+6075 Upton Park Express,Convenience London,GREATER LONDON,"£3,056",93,£29.89,£2.39,12.5,71,1.3,21.8,97.80%,98.80%,4,10,3,1,2
+6076 Middleton Oldham Rd Express,Convenience North,NORTH WEST,"£8,894",267,£30.37,£2.69,11.3,211,1.3,29.1,93.40%,99.60%,7,14,4,1,3
+6077 Blackfriar Express,Convenience London,GREATER LONDON,£347,7,£46.32,£4.10,11.3,5,1.4,34.8,85.70%,100.00%,5,15,4,10,1
+6078 Radcliffe Water St Express,Convenience North,NORTH WEST,"£8,980",287,£28.33,£2.69,10.5,208,1.4,23.5,99.00%,98.60%,6,8,3,2,5
+6079 Erith Express,Convenience London,SOUTH EAST,"£4,327",146,£26.31,£2.82,9.3,100,1.5,25.2,93.90%,99.80%,6,13,3,1,2
+6080 Warrington Man Rd Express,Convenience North,MIDLANDS,"£4,948",157,£28.45,£2.75,10.3,112,1.4,26.9,91.70%,98.80%,6,14,3,1,3
+6082 Halton Leeds Express,Convenience North,NORTH EAST,"£4,646",166,£24.86,£2.25,11.1,128,1.3,32.7,91.60%,98.70%,8,15,3,2,5
+6083 Wigan Gidlow Ln Express,Convenience North,NORTH WEST,"£11,073",306,£33.16,£2.87,11.5,198,1.5,30.7,94.80%,98.50%,8,14,4,2,3
+6086 Battle Wallsend Express,Convenience North,NORTH EAST,"£5,889",180,£29.68,£2.96,10,121,1.5,28.3,96.70%,99.10%,7,16,3,1,2
+6087 Torquay Babbacombe Rd Express,Convenience South,SOUTH WEST,"£1,749",57,£27.73,£2.65,10.5,40,1.4,57.7,66.70%,98.80%,4,44,3,2,4
+6089 Lancaster King St Express,Convenience North,NORTH WEST,"£2,987",91,£29.71,£2.70,11,67,1.4,38,91.20%,98.90%,6,25,3,2,2
+6090 Hudders Leeds Rd Express,Convenience North,NORTH EAST,"£2,115",63,£30.50,£2.32,13.1,45,1.4,28,92.10%,99.50%,6,14,3,2,3
+6091 Ruislip High St Express,Convenience London,SOUTH EAST,"£2,300",65,£32.24,£3.12,10.3,49,1.3,18,100.00%,99.80%,5,7,3,1,2
+6093 Folkestone Foord Rd Express,Convenience South,SOUTH EAST,"£3,655",114,£28.94,£2.60,11.1,85,1.3,23.7,100.00%,98.10%,4,11,4,2,2
+6094 Gravesend Perry St Express,Convenience South,SOUTH EAST,"£5,787",188,£27.68,£2.58,10.7,129,1.5,27.4,97.90%,99.60%,7,12,3,3,3
+6097 Plympton St Mary Express,Convenience South,SOUTH WEST,"£2,897",83,£31.98,£2.44,13.1,63,1.3,54.9,64.80%,99.00%,9,38,4,2,2
+6099 Glasgow Byres Road Express,Convenience North,WEST SCOTLAND,"£2,273",68,£30.35,£2.43,12.5,54,1.3,40.1,92.60%,98.70%,9,14,4,3,10
+6101 Plumstead Lakedale Rd Express,Convenience London,GREATER LONDON,"£7,196",240,£26.97,£2.69,10,166,1.4,21,100.00%,98.40%,5,7,4,2,3
+6103 Nottingham Compton Express,Convenience Central,MIDLANDS,"£2,384",70,£30.90,£3.10,10,45,1.6,26.9,100.00%,98.50%,6,13,3,2,2
+6111 Stanground Express,Convenience Central,EAST ANGLIA,"£4,792",144,£30.14,£2.78,10.9,100,1.4,21.3,99.30%,99.40%,6,8,4,2,3
+6112 Birmingham Colmore Express,Convenience Central,MIDLANDS,£44,2,£19.10,£1.91,10,2,1,29.6,100.00%,100.00%,8,1,5,1,15
+6113 Swansea St Helen Rd Express,Convenience South,WALES,"£1,360",41,£30.02,£3.26,9.2,31,1.3,30.1,90.20%,98.40%,5,19,3,1,2
+6117 East Rd Express,Convenience Central,EAST ANGLIA,"£3,334",104,£28.91,£2.39,12.1,70,1.5,29.5,97.10%,98.70%,8,14,4,1,2
+6118 Richmond Kew Rd Express,Convenience London,SOUTH EAST,"£1,880",62,£27.27,£2.59,10.5,44,1.4,27,95.20%,98.40%,5,13,4,1,4
+6119 Selly Oak Bristol Rd Esso Express,Convenience Central,MIDLANDS,"£4,164",116,£32.80,£2.56,12.8,81,1.4,30.2,94.90%,97.90%,9,15,4,1,2
+6124 Reading Market Place Express,Convenience South,SOUTH EAST,£997,41,£21.21,£2.06,10.3,30,1.4,35.6,87.50%,97.70%,7,20,4,2,2
+6125 Baildon Express,Convenience North,NORTH EAST,"£2,173",69,£28.45,£3.34,8.5,53,1.3,22.9,100.00%,99.80%,6,9,2,2,3
+6126 Ipswich Nacton Rd Express,Convenience Central,EAST ANGLIA,"£3,784",116,£29.64,£2.33,12.7,79,1.5,25.7,96.60%,98.90%,5,14,3,2,2
+6127 Kettering London Rd Express,Convenience Central,MIDLANDS,"£5,977",186,£29.01,£2.52,11.5,132,1.4,29,95.70%,99.40%,6,14,4,2,3
+6129 Leyland Express,Convenience North,NORTH WEST,"£10,776",317,£30.98,£2.87,10.8,214,1.5,31,97.20%,99.10%,8,13,4,2,4
+6131 Old Stevenage Express,Convenience Central,SOUTH EAST,"£15,873",519,£27.50,£2.59,10.6,380,1.4,25.5,97.90%,98.20%,7,9,3,2,3
+6132 Bristol Axbridge Rd Express,Convenience South,SOUTH CENTRAL,"£13,862",430,£29.13,£2.47,11.8,313,1.4,23.9,98.40%,99.20%,7,9,4,1,2
+6133 Battersea Park Express,Convenience London,GREATER LONDON,"£5,190",146,£32.54,£2.77,11.7,97,1.5,26.2,96.60%,98.90%,5,11,4,2,4
+6137 Luton Bishopscote Express,Convenience Central,SOUTH EAST,"£1,335",44,£27.15,£2.46,11,30,1.5,23.1,100.00%,98.50%,5,11,5,2,1
+6138 Canons Express,Convenience South,SOUTH CENTRAL,£732,25,£26.24,£2.25,11.6,19,1.3,29.3,96.00%,97.60%,6,16,4,2,2
+6141 Great Barr Express,Convenience Central,MIDLANDS,"£3,999",113,£32.30,£2.57,12.5,85,1.3,22.9,100.00%,98.70%,6,7,4,2,4
+6142 Hayes Uxbridge Rd Express,Convenience London,SOUTH EAST,"£4,539",152,£26.76,£2.61,10.2,106,1.4,26.1,95.40%,99.50%,7,13,3,1,2
+6144 Harrow Apollo Express,Convenience London,SOUTH EAST,"£1,823",55,£30.10,£2.74,11,38,1.4,21.4,98.20%,99.00%,4,10,4,1,2
+6145 Dundee Hawkhill Express,Convenience North,EAST SCOTLAND,"£9,042",232,£35.90,£2.82,12.7,191,1.2,39,86.70%,99.10%,8,22,3,2,4
+6148 Southampton High St Express,Convenience South,SOUTH CENTRAL,£624,23,£24.18,£2.23,10.8,16,1.4,35.1,91.30%,97.70%,5,10,5,1,14
+6150 East Rd Shoreditch Express,Convenience London,GREATER LONDON,"£1,644",44,£34.38,£2.65,13,29,1.5,23.9,100.00%,98.80%,4,13,3,2,2
+6151 Napiershall Express,Convenience North,WEST SCOTLAND,"£3,846",106,£33.33,£2.90,11.5,69,1.5,45.7,76.70%,98.20%,9,27,5,2,3
+6152 South Lambeth Express,Convenience London,GREATER LONDON,"£2,234",71,£28.38,£2.47,11.5,52,1.4,39.2,78.90%,99.60%,6,25,4,2,2
+6153 Sheffield Birley Rd Express,Convenience North,NORTH EAST,"£3,888",101,£35.36,£2.90,12.2,79,1.3,28.3,97.00%,98.50%,8,14,4,1,2
+6156 Kingston Thames Express,Convenience London,SOUTH EAST,"£4,372",128,£31.18,£2.87,10.9,99,1.3,32.6,88.30%,96.10%,7,17,4,1,3
+6157 Dundee Strathmartine Road Express,Convenience North,EAST SCOTLAND,"£14,087",412,£31.12,£2.53,12.3,319,1.3,32.7,94.90%,97.30%,8,14,4,2,3
+6158 Queen Express,Convenience North,WEST SCOTLAND,"£9,405",266,£32.44,£2.75,11.8,194,1.4,42.2,84.00%,99.00%,11,20,5,2,5
+6159 Northampton St Edmunds Express,Convenience Central,MIDLANDS,"£4,801",152,£28.48,£2.50,11.4,97,1.6,24,99.40%,99.60%,7,9,3,3,2
+6162 Leyton High Rd Express,Convenience London,GREATER LONDON,"£3,034",103,£26.19,£2.64,9.9,72,1.4,27.1,94.20%,98.90%,5,14,4,1,3
+6164 Glasgow St Enoch Express,Convenience North,WEST SCOTLAND,"£1,128",36,£28.70,£2.87,10,29,1.2,60.3,57.60%,99.50%,10,29,6,2,13
+6165 Guildford Bridge Express,Convenience South,SOUTH EAST,"£4,694",144,£29.47,£2.63,11.2,110,1.3,34.2,90.90%,99.30%,7,19,3,3,1
+6166 Coulsdon Express,Convenience London,SOUTH EAST,"£15,055",442,£31.04,£2.62,11.8,328,1.3,26.4,98.40%,98.90%,7,10,4,2,4
+6167 Oxford St Aldates Express,Convenience Central,SOUTH CENTRAL,£519,19,£24.40,£2.74,8.9,18,1.1,28.6,94.40%,100.00%,9,11,2,1,6
+6168 Percy St Express,Convenience North,NORTH EAST,£680,26,£23.32,£2.20,10.6,21,1.2,34.7,92.00%,97.90%,11,17,3,1,3
+6169 North St Express,Convenience North,WEST SCOTLAND,£733,22,£30.62,£2.64,11.6,17,1.3,38.8,80.00%,99.50%,6,24,4,2,3
+6170 Hayes Station Rd Express,Convenience London,SOUTH EAST,£915,36,£22.20,£2.44,9.1,25,1.4,27.3,94.60%,99.20%,6,13,5,2,1
+6171 Paisley Rd Express,Convenience North,WEST SCOTLAND,"£2,577",71,£33.29,£2.77,12,57,1.2,29.5,94.30%,98.70%,6,13,5,4,3
+6172 Tower Bridge Express,Convenience London,GREATER LONDON,"£1,831",63,£26.03,£2.43,10.7,48,1.3,24.3,100.00%,98.10%,6,12,3,2,1
+6173 Swansea Langdon Rd Express,Convenience South,WALES,"£1,989",68,£26.15,£2.53,10.3,49,1.4,35.3,86.80%,99.30%,6,24,3,1,2
+6174 Twickenham Express,Convenience London,SOUTH EAST,"£3,081",100,£27.83,£2.60,10.7,55,1.8,23.4,95.00%,99.30%,5,11,3,1,3
+6176 Exwick Express,Convenience South,SOUTH WEST,"£4,812",156,£27.77,£2.51,11.1,114,1.4,29.9,94.30%,98.70%,6,15,4,1,4
+6179 St Edmunds Cornhill Express,Convenience Central,EAST ANGLIA,"£8,327",271,£27.75,£2.67,10.4,188,1.4,50,70.50%,98.30%,7,34,3,2,4
+6183 Fountainbridge Express,Convenience North,EAST SCOTLAND,"£1,385",39,£32.71,£2.68,12.2,27,1.4,52,65.90%,98.70%,7,38,4,1,2
+6186 Wembley Quadrant Express,Convenience London,SOUTH EAST,"£4,810",154,£28.18,£2.55,11.1,129,1.2,32.4,92.10%,98.00%,9,15,4,1,4
+6187 Caledonian Rd Express,Convenience London,GREATER LONDON,"£3,281",98,£30.48,£2.47,12.4,72,1.4,27.6,94.90%,98.30%,5,14,4,2,2
+6189 North End Portsmouth Express,Convenience South,SOUTH CENTRAL,"£3,468",118,£26.34,£2.54,10.4,74,1.6,20.7,98.30%,98.30%,4,9,4,2,2
+6190 Morley Elland Rd Express,Convenience North,NORTH EAST,"£3,811",126,£27.29,£2.69,10.1,90,1.4,33.6,93.50%,97.00%,8,19,3,1,2
+6194 Cheltnhm Rd Bristol Express,Convenience South,SOUTH CENTRAL,"£2,340",74,£28.72,£2.36,12.2,59,1.3,27.3,98.60%,98.90%,7,14,4,1,2
+6195 Leicester Bede Island Express,Convenience Central,MIDLANDS,£966,32,£27.14,£2.26,12,29,1.1,19.5,100.00%,98.10%,6,6,4,1,2
+6200 Norwich Dereham Express,Convenience Central,EAST ANGLIA,"£4,299",132,£29.53,£2.58,11.5,95,1.4,27.1,97.00%,98.30%,5,14,3,2,2
+6201 Bounds Green Rd Express,Convenience London,GREATER LONDON,"£5,125",160,£29.05,£2.50,11.6,128,1.3,28.6,96.80%,97.10%,6,15,4,1,2
+6203 Wishaw Coltnes Rd Express,Convenience North,WEST SCOTLAND,"£10,545",297,£32.44,£2.54,12.7,211,1.4,31.2,96.70%,99.30%,7,15,5,2,3
+6205 Nottingham Oakdale Express,Convenience Central,MIDLANDS,"£10,823",334,£29.32,£2.89,10.1,220,1.5,24.3,99.40%,99.30%,7,9,3,2,3
+6206 Clacton-on-sea Express,Convenience Central,SOUTH EAST,"£15,403",486,£28.62,£2.48,11.5,321,1.5,27.6,95.10%,98.90%,5,15,4,2,2
+6207 St Albans Express,Convenience Central,SOUTH EAST,"£5,199",143,£33.30,£2.53,13.2,97,1.5,32.8,95.10%,99.90%,7,14,3,3,5
+6211 Myrtle St Liverpool Express,Convenience North,NORTH WEST,"£6,577",216,£27.41,£2.50,11,168,1.3,35.5,92.20%,96.70%,10,15,5,1,4
+6212 Stratford Express,Convenience London,GREATER LONDON,"£1,474",51,£25.82,£2.29,11.3,41,1.2,19.9,100.00%,96.40%,6,8,4,1,1
+6214 London Road Southampton Express,Convenience South,SOUTH CENTRAL,"£2,031",68,£26.90,£2.52,10.7,46,1.5,28.8,92.90%,98.40%,6,13,4,2,4
+6215 Askew Rd Shepherds Bush Express,Convenience London,GREATER LONDON,"£4,422",144,£27.64,£2.56,10.8,108,1.3,30.2,91.80%,98.10%,7,18,3,2,1
+6216 Caerleon Rd Newport Express,Convenience South,WALES,"£6,624",214,£27.87,£2.54,11,161,1.3,31.7,95.30%,99.70%,8,16,3,2,3
+6217 Southend Rd Grays Express,Convenience Central,SOUTH EAST,"£6,723",229,£26.27,£2.42,10.8,154,1.5,25.7,98.30%,98.20%,5,13,4,1,2
+6218 Pencoed Express,Convenience South,WALES,"£5,450",148,£33.82,£2.76,12.3,104,1.4,41.3,82.40%,99.20%,9,23,4,2,3
+6220 Hereson Rd Ramsgate Express,Convenience South,SOUTH EAST,"£6,786",203,£30.37,£2.86,10.6,146,1.4,27.2,97.10%,99.50%,5,13,3,2,3
+6223 Syston Leicester Superstore,Large Central,MIDLANDS,"£2,829",75,£34.69,£2.68,13,53,1.4,23,98.70%,99.10%,5,8,5,2,2
+6224 Beckenham Express,Convenience London,SOUTH EAST,"£5,029",150,£30.54,£2.70,11.3,102,1.5,22.7,98.00%,99.10%,5,11,4,1,2
+6230 Hackney Dalston Ln Express,Convenience London,GREATER LONDON,"£8,938",291,£27.63,£2.39,11.6,188,1.5,36.3,88.50%,98.80%,8,20,4,2,3
+6231 Kennington Park Rd Express,Convenience London,GREATER LONDON,"£2,045",64,£28.77,£2.37,12.2,50,1.3,29.5,92.20%,98.50%,5,15,4,2,3
+6232 Chorlton-cum-hardy Express,Convenience North,NORTH WEST,"£3,560",108,£30.02,£2.77,10.9,72,1.5,29.9,97.20%,97.70%,7,16,4,1,2
+6233 St Pauls St Leeds Express,Convenience North,NORTH EAST,"£1,049",39,£23.90,£2.40,10,29,1.3,29.2,97.40%,98.90%,7,16,3,2,1
+6234 Chingford Express,Convenience London,GREATER LONDON,"£7,523",235,£28.99,£2.76,10.5,164,1.4,26.6,97.10%,98.30%,6,12,4,1,3
+6235 Butts Rd Express,Convenience London,SOUTH EAST,"£5,045",164,£27.70,£2.80,9.9,116,1.4,22.9,97.00%,97.60%,6,11,4,1,2
+6236 Queens Rd Cheltenham Express,Convenience Central,SOUTH CENTRAL,"£11,101",330,£30.62,£2.71,11.3,232,1.4,33.6,91.80%,99.10%,7,18,3,2,2
+6239 Streatham Crown Express,Convenience London,GREATER LONDON,"£5,638",176,£29.13,£2.74,10.6,121,1.5,26.5,95.40%,97.60%,6,10,5,1,4
+6242 Westbourne Poole Express,Convenience South,SOUTH CENTRAL,"£4,895",155,£28.55,£2.47,11.6,110,1.4,25.6,96.80%,99.10%,6,13,4,1,2
+6243 Middleton Langley Express,Convenience North,NORTH WEST,"£12,710",432,£26.43,£2.62,10.1,301,1.4,28,97.70%,98.00%,7,11,4,1,5
+6244 Lea Bridge Rd Express,Convenience London,GREATER LONDON,"£2,113",73,£25.73,£2.90,8.9,49,1.5,22.2,100.00%,98.40%,5,11,3,1,2
+6245 Briton Ferry Express,Convenience South,WALES,"£7,933",223,£32.62,£2.58,12.6,152,1.5,39.8,87.90%,98.70%,8,23,4,2,3
+6246 Melksham Express,Convenience South,SOUTH CENTRAL,"£1,400",55,£22.08,£2.83,7.8,36,1.5,46.1,68.50%,98.70%,7,33,3,2,1
+6248 Old St Hackney Express,Convenience London,GREATER LONDON,"£1,115",37,£27.17,£2.46,11.1,27,1.4,22.1,100.00%,99.70%,2,11,3,4,2
+6251 Bideford Superstore,Large South,SOUTH WEST,"£3,082",82,£34.67,£3.07,11.3,53,1.5,51.1,69.30%,97.10%,8,27,8,2,6
+6255 Fareham Superstore,Large South,SOUTH CENTRAL,"£5,793",138,£39.00,£2.58,15.1,107,1.3,48.1,80.00%,97.80%,9,22,11,2,4
+6256 Fulham Sherbrooke Rd Express,Convenience London,GREATER LONDON,"£1,427",46,£28.04,£2.95,9.5,30,1.5,21.5,100.00%,96.40%,3,8,4,1,5
+6257 Millbrae Rd Express,Convenience North,WEST SCOTLAND,"£2,424",63,£35.42,£2.75,12.9,50,1.3,35.7,87.30%,97.30%,6,20,5,1,3
+6258 Cheadle Stockport Rd Express,Convenience North,MIDLANDS,"£6,406",182,£32.12,£2.66,12.1,140,1.3,31.7,94.60%,98.80%,9,15,3,1,3
+6260 Margate Canterbury Rd Express,Convenience South,SOUTH EAST,"£18,418",529,£31.73,£2.62,12.1,370,1.4,30.4,95.80%,99.40%,7,14,4,2,3
+6262 Maidenhead Bath Rd Express,Convenience South,SOUTH EAST,"£7,924",205,£35.57,£2.71,13.1,158,1.3,24.3,99.50%,99.00%,6,9,3,2,3
+6275 Belmont Rd Belfast Express,NI Convenience,NORTHERN IRELAND,"£9,026",234,£35.44,£2.86,12.4,158,1.5,26.2,99.20%,99.20%,9,11,3,1,2
+6276 Rugby Cattlemarket Express,Convenience Central,MIDLANDS,"£4,545",136,£30.43,£2.85,10.7,99,1.4,22.8,99.30%,99.90%,6,11,2,2,1
+6277 Chesterfield Derby Rd Express,Convenience North,MIDLANDS,"£8,712",249,£31.90,£2.59,12.3,179,1.4,36.1,91.90%,98.80%,9,19,4,2,2
+6278 Lower Clapton Rd Express,Convenience London,GREATER LONDON,"£6,211",214,£25.93,£2.54,10.2,154,1.4,23.5,99.10%,99.00%,5,9,3,3,3
+6280 Allerton Rd Liverpool Express,Convenience North,NORTH WEST,"£2,780",90,£28.04,£2.30,12.2,72,1.3,30.9,95.30%,98.80%,7,16,4,1,2
+6282 Northwich Chester Rd Express,Convenience Central,MIDLANDS,"£8,120",242,£30.43,£2.91,10.5,154,1.6,31.8,93.00%,98.70%,7,18,3,2,2
+6289 South Plaza Isle Of Dogs Express,Convenience London,GREATER LONDON,£551,23,£20.83,£2.20,9.5,18,1.3,29.2,100.00%,100.00%,4,14,4,6,1
+6291 Camberwell Express,Convenience London,GREATER LONDON,"£3,398",113,£27.08,£2.52,10.8,76,1.5,31.4,94.70%,98.50%,8,16,4,2,3
+6292 Oxford Magdalen St Express,Convenience Central,SOUTH CENTRAL,"£3,117",83,£34.67,£2.42,14.3,70,1.2,38,90.20%,98.70%,11,14,8,1,3
+6299 West Heath Birmingham Express,Convenience Central,MIDLANDS,"£9,249",309,£26.85,£2.74,9.8,178,1.7,22.5,99.40%,97.50%,6,9,4,1,3
+6300 Welford House Leicester Express,Convenience Central,MIDLANDS,"£1,184",21,£53.37,£3.40,15.7,17,1.2,18.2,100.00%,99.20%,4,8,3,1,2
+6305 Birmingham Hockley Express,Convenience Central,MIDLANDS,"£1,829",53,£31.46,£2.48,12.7,44,1.2,28.8,94.70%,99.60%,7,13,4,2,3
+6312 Clytha Park Newport Express,Convenience South,WALES,"£6,963",229,£27.26,£2.71,10.1,158,1.4,31.6,95.20%,98.80%,8,14,4,2,4
+6313 London Road Gloucester Express,Convenience Central,SOUTH CENTRAL,"£2,553",71,£33.01,£2.62,12.6,50,1.4,27.8,97.20%,98.50%,6,12,5,3,3
+6314 Sisters Rd Express,Convenience London,GREATER LONDON,£717,23,£28.18,£2.48,11.3,20,1.2,23.7,100.00%,99.00%,6,12,3,1,1
+6315 Fulham Imperal Wharf Express,Convenience London,GREATER LONDON,"£2,643",70,£34.71,£3.02,11.5,56,1.3,32.1,94.30%,99.50%,8,15,5,2,2
+6316 Bournemouth Holden Rd Express,Convenience South,SOUTH CENTRAL,"£1,764",66,£23.66,£2.36,10,51,1.3,28.2,90.60%,99.50%,5,16,3,2,1
+6317 Rushden Express,Convenience Central,MIDLANDS,"£5,572",171,£29.64,£2.64,11.2,119,1.4,35.6,88.90%,96.10%,6,21,3,2,4
+6319 Borough Rd Express,Convenience London,GREATER LONDON,£481,18,£23.52,£2.30,10.2,15,1.2,28.7,94.40%,100.00%,7,16,3,2,1
+6321 Epsom Station Express,Convenience London,SOUTH EAST,"£3,107",109,£25.48,£2.68,9.5,78,1.4,35,84.70%,98.90%,7,22,3,1,2
+6325 Blackpool Westcliffe Dr Express,Convenience North,NORTH WEST,"£11,196",320,£31.91,£2.61,12.2,223,1.4,35.5,87.90%,99.30%,6,21,4,2,2
+6332 Delamere St Chester Express,Convenience Central,MIDLANDS,"£8,325",258,£29.13,£2.53,11.5,203,1.3,39.1,85.90%,99.20%,8,21,4,2,5
+6338 High St Banbury Express,Convenience Central,SOUTH CENTRAL,"£12,651",387,£29.60,£2.58,11.5,257,1.5,25.3,99.70%,100.00%,9,6,4,2,4
+6339 Mount Rd Chingford Express,Convenience London,GREATER LONDON,"£3,019",100,£27.05,£2.86,9.5,71,1.4,23.3,97.00%,99.00%,6,11,3,1,3
+6341 Marton Dr Blckpool Express,Convenience North,NORTH WEST,"£4,803",144,£30.43,£2.38,12.8,108,1.3,28.1,94.30%,99.60%,6,16,3,1,2
+6342 Liverpool Rd Irlam Express,Convenience North,NORTH WEST,"£10,247",348,£26.37,£2.57,10.3,224,1.6,26.2,97.40%,98.80%,7,12,3,2,3
+6346 St. Botolphs Express,Convenience London,GREATER LONDON,£181,7,£23.34,£1.92,12.1,5,1.4,16.5,100.00%,100.00%,2,6,2,5,1
+6347 Wombwell Express,Convenience North,NORTH EAST,"£7,940",244,£29.52,£2.50,11.8,183,1.3,27.6,97.90%,99.70%,7,13,3,2,3
+6353 Merchant Express,Convenience North,WEST SCOTLAND,"£13,576",369,£33.78,£2.67,12.6,291,1.3,37.3,93.20%,98.50%,11,15,4,3,3
+6354 Wembley Tube Station Express,Convenience London,SOUTH EAST,"£1,636",60,£24.26,£2.71,9,44,1.4,21.7,100.00%,99.80%,5,10,4,1,2
+6357 Eastwood Notts Rd Express,Convenience Central,MIDLANDS,"£6,849",220,£27.95,£2.52,11.1,154,1.4,24.6,100.00%,97.90%,8,8,4,2,3
+6358 St Albans Hatfield Rd Express,Convenience Central,SOUTH EAST,"£2,288",66,£31.75,£2.49,12.7,53,1.2,24.7,98.50%,99.00%,5,11,4,3,2
+6363 Bethnal Green Express,Convenience London,GREATER LONDON,"£3,901",120,£29.48,£2.53,11.7,99,1.2,24.4,99.20%,98.80%,7,10,4,2,2
+6364 Ilford Ley St Express,Convenience London,SOUTH EAST,"£1,244",44,£25.12,£2.55,9.8,33,1.3,22.5,97.80%,97.10%,5,10,4,1,3
+6365 High Rd Leytonstone Express,Convenience London,GREATER LONDON,"£5,311",167,£28.70,£2.53,11.3,132,1.3,26,96.40%,99.00%,6,13,3,1,2
+6366 Paston Express,Convenience Central,EAST ANGLIA,"£8,187",273,£26.70,£2.41,11.1,170,1.6,22.1,99.60%,98.50%,7,8,3,2,2
+6368 Crosby Coronation Rd Express,Convenience North,NORTH WEST,"£6,458",188,£31.27,£2.70,11.6,136,1.4,37.6,89.30%,96.20%,8,20,4,2,4
+6369 Leicester Melton Rd Express,Convenience Central,MIDLANDS,"£1,292",52,£21.71,£2.42,9,39,1.3,23.1,100.00%,98.90%,9,8,3,1,2
+6371 Woolwich Express,Convenience London,GREATER LONDON,"£11,942",398,£26.98,£2.63,10.3,278,1.4,31.2,90.80%,98.80%,9,14,4,1,3
+6372 Eastern Seaside Rd Express,Convenience South,SOUTH EAST,"£4,039",121,£30.26,£2.44,12.4,91,1.3,30,92.60%,99.70%,4,19,3,3,2
+6374 Bath Wellsway Express,Convenience South,SOUTH CENTRAL,£729,23,£28.53,£2.29,12.5,18,1.3,32.5,95.70%,94.40%,6,16,5,2,3
+6375 Gloucester Painswick Rd Express,Convenience Central,SOUTH CENTRAL,"£2,882",93,£27.74,£3.00,9.3,53,1.8,29.4,92.50%,97.20%,4,14,3,2,6
+6377 Plymouth Discovery Heights Express,Convenience South,SOUTH WEST,"£1,941",62,£28.43,£2.41,11.8,49,1.3,33.3,89.70%,99.40%,7,20,4,1,2
+6380 Gatley Church Rd Express,Convenience North,NORTH WEST,"£6,478",224,£25.87,£2.54,10.2,152,1.5,31.6,92.80%,97.40%,7,16,4,1,3
+6384 Tulketh Mill Preston Express,Convenience North,NORTH WEST,"£3,080",98,£28.44,£2.62,10.9,72,1.4,26.4,98.00%,98.10%,6,13,3,2,2
+6385 Rawlinson St Barrow Express,Convenience North,NORTH WEST,"£11,778",356,£30.19,£2.70,11.2,246,1.4,42.6,82.80%,98.90%,8,25,4,2,4
+6388 Birmingham Bristnall Express,Convenience Central,MIDLANDS,"£7,143",201,£32.47,£2.67,12.2,153,1.3,26.3,100.00%,99.20%,7,10,5,2,3
+6390 Great Suffolk St Express,Convenience London,GREATER LONDON,£388,11,£31.99,£3.23,9.9,7,1.6,25.8,90.90%,95.80%,4,11,4,4,3
+6392 Manchester Swinton Express,Convenience North,NORTH WEST,"£6,113",172,£32.50,£2.69,12.1,135,1.3,29.1,94.90%,98.60%,7,13,4,2,3
+6394 Rochdale Edenfield Express,Convenience North,NORTH WEST,"£3,821",112,£30.98,£2.82,11,80,1.4,21.2,100.00%,99.20%,5,9,3,2,2
+6403 Rickmansworth Express,Convenience London,SOUTH EAST,"£8,216",250,£29.73,£2.78,10.7,182,1.4,23.8,99.20%,98.10%,6,9,4,2,3
+6404 Trowbridge Frome Rd Express,Convenience South,SOUTH CENTRAL,"£3,822",135,£25.35,£2.67,9.5,101,1.3,53.2,66.40%,96.90%,6,39,4,2,3
+6405 Worthing Goring Rd Express,Convenience South,SOUTH EAST,"£4,889",143,£31.15,£2.78,11.2,98,1.5,28.9,93.80%,98.20%,4,17,4,2,2
+6406 Hereford Game Express,Convenience Central,MIDLANDS,"£2,530",84,£27.14,£2.56,10.6,69,1.2,37.3,86.30%,99.60%,5,25,3,2,3
+6407 Prince Edward Rd Express,Convenience North,NORTH EAST,"£6,886",193,£32.65,£2.87,11.4,130,1.5,32.4,91.30%,98.90%,8,16,4,1,3
+6408 Goodmayes Rowallen Express,Convenience London,SOUTH EAST,"£5,584",208,£23.67,£2.53,9.4,134,1.6,25,96.70%,97.80%,6,13,3,1,2
+6409 Hornsey Express,Convenience London,GREATER LONDON,"£2,370",76,£28.12,£2.77,10.1,60,1.3,26.4,94.90%,98.10%,5,16,4,1,1
+6411 Rugby Bilton Express,Convenience Central,MIDLANDS,"£4,429",134,£30.03,£2.63,11.4,95,1.4,25.9,96.30%,99.20%,6,14,3,2,1
+6412 Whetstone Express,Convenience London,GREATER LONDON,"£5,075",152,£30.28,£2.60,11.6,117,1.3,18.2,99.30%,98.40%,5,6,4,1,2
+6416 Nottingham Canning Circus Express,Convenience Central,MIDLANDS,"£2,327",72,£29.21,£2.43,12,53,1.4,21.6,100.00%,98.30%,6,9,3,1,2
+6423 Gracemount Express,Convenience North,EAST SCOTLAND,"£6,651",201,£30.00,£2.39,12.5,159,1.3,35.9,91.50%,99.60%,7,20,4,2,2
+6425 Ayr Maybole Rd Express,Convenience North,WEST SCOTLAND,"£3,303",93,£32.52,£2.79,11.7,69,1.3,43,83.70%,97.90%,5,30,4,2,3
+6426 Abingdon Fitzharris Express,Convenience Central,SOUTH CENTRAL,"£10,402",309,£30.46,£2.69,11.3,215,1.4,31.6,94.50%,98.20%,7,15,4,3,3
+6427 Brixton Rd Express,Convenience London,GREATER LONDON,"£2,790",92,£27.29,£2.27,12,61,1.5,33.4,87.00%,97.70%,5,18,6,2,4
+6429 Leeds King Ln Express,Convenience North,NORTH EAST,£890,24,£34.04,£2.58,13.2,20,1.2,20.5,100.00%,99.20%,5,8,4,2,1
+6431 Walthamstow St James St Express,Convenience London,GREATER LONDON,"£1,384",42,£29.98,£2.62,11.4,29,1.4,23.1,100.00%,95.20%,4,13,3,1,2
+6432 Wood Green Lordship Express,Convenience London,GREATER LONDON,"£2,862",93,£27.59,£3.08,9,57,1.6,23.5,98.90%,98.00%,5,13,3,1,2
+6433 Castleford Fryston Rd Express,Convenience North,NORTH EAST,"£2,538",84,£27.06,£2.57,10.5,53,1.6,32.9,96.40%,99.60%,5,21,3,2,3
+6434 Welling Bellegrove Express,Convenience London,SOUTH EAST,"£4,428",143,£27.93,£2.57,10.8,106,1.3,26.3,95.10%,99.20%,5,14,4,1,2
+6435 Low Moor Bradford Express,Convenience North,NORTH EAST,"£11,100",364,£27.44,£2.44,11.2,287,1.3,25.5,99.20%,97.60%,7,8,3,2,5
+6439 Nottingham Oxclose Ln Express,Convenience Central,MIDLANDS,"£12,383",385,£29.07,£2.66,10.9,253,1.5,23.9,99.20%,99.30%,8,10,3,1,2
+6441 Walsall Rd Express,Convenience Central,MIDLANDS,"£1,457",45,£29.35,£2.73,10.7,32,1.4,24.2,100.00%,98.80%,5,10,4,2,2
+6442 Whiston Windy Arbour Express,Convenience North,NORTH WEST,"£14,144",428,£29.99,£2.65,11.3,289,1.5,31.4,93.90%,99.10%,7,15,4,2,3
+6443 Folkestone Dover Rd Express,Convenience South,SOUTH EAST,"£3,655",119,£27.57,£2.65,10.4,82,1.5,22.7,99.20%,98.40%,4,11,4,2,2
+6444 Great Harwood Superstore,Large North,NORTH WEST,"£3,847",87,£41.27,£2.51,16.5,64,1.4,36.5,88.50%,97.30%,8,11,11,2,4
+6445 Liverpool Prescot St Express,Convenience North,NORTH WEST,"£4,019",123,£29.79,£2.85,10.5,88,1.4,41.9,80.00%,95.60%,8,25,4,1,4
+6447 Redditch Brockhill Express,Convenience Central,MIDLANDS,"£8,135",242,£30.47,£2.84,10.7,167,1.4,21.2,99.60%,98.90%,6,8,3,2,2
+6453 Greystoke Ave Express,Convenience South,SOUTH CENTRAL,"£4,020",136,£26.39,£2.64,10,89,1.5,26.3,96.40%,98.40%,7,11,4,1,3
+6458 Lincoln High St Express,Convenience Central,MIDLANDS,"£7,443",213,£31.78,£2.78,11.5,167,1.3,35.1,94.40%,98.90%,8,19,3,2,2
+6461 Feltham Horse And Groom Express,Convenience London,SOUTH EAST,"£5,188",167,£28.01,£2.77,10.1,110,1.5,23.9,96.40%,99.10%,5,13,3,1,2
+6469 Kearsley Manchester Rd Express,Convenience North,NORTH WEST,"£10,755",334,£29.14,£2.57,11.3,248,1.3,35.1,95.20%,97.30%,11,11,5,2,7
+6470 Winsford Delamere Express,Convenience Central,MIDLANDS,"£5,769",200,£25.77,£2.64,9.7,146,1.4,37,86.90%,98.50%,6,21,3,3,4
+6474 Sheffield Dykes Hall Express,Convenience North,NORTH EAST,"£5,651",159,£32.57,£2.76,11.8,119,1.3,31.1,94.50%,97.90%,9,14,4,1,3
+6476 Leigh Extra,Large North,NORTH WEST,"£4,790",110,£40.46,£2.41,16.8,99,1.1,51.2,72.70%,96.10%,10,18,14,3,7
+6479 Sheffield West Street Express,Convenience North,NORTH EAST,"£1,677",56,£26.88,£2.49,10.8,40,1.4,35,92.50%,98.50%,9,18,4,2,3
+6482 Belfast Great Victoria St Express,NI Convenience,NORTHERN IRELAND,"£3,769",105,£32.84,£2.67,12.3,83,1.3,33.4,92.40%,96.60%,12,14,3,1,3
+6483 Rainham Express,Convenience London,SOUTH EAST,"£10,937",402,£24.11,£2.44,9.9,289,1.4,25.9,98.00%,98.60%,7,11,3,1,4
+6485 Tooley Street Express,Convenience London,GREATER LONDON,"£1,267",39,£29.62,£2.58,11.5,33,1.2,27.9,97.40%,98.30%,5,15,6,2,1
+6490 Tottenham Hale Village Express,Convenience London,GREATER LONDON,"£4,212",139,£27.24,£2.49,10.9,100,1.4,37.3,87.20%,98.90%,8,20,4,2,4
+6491 Cathcart Rd Express,Convenience North,WEST SCOTLAND,"£16,345",435,£34.56,£2.66,13,317,1.4,30.3,98.20%,98.40%,10,11,4,3,2
+6495 Catford Rushey Rd Express,Convenience London,GREATER LONDON,"£4,371",152,£25.71,£2.39,10.8,117,1.3,28.2,94.70%,98.10%,6,13,4,1,4
+6499 Romford Fairview Express,Convenience London,SOUTH EAST,"£2,981",103,£25.89,£2.60,9.9,70,1.5,20.5,99.00%,99.60%,5,9,3,1,2
+6500 Eltham Coronet Express,Convenience London,GREATER LONDON,"£9,187",296,£28.04,£2.73,10.3,188,1.6,34.8,92.50%,98.10%,7,18,4,1,4
+6501 Lee Solent Marine Express,Convenience South,SOUTH CENTRAL,"£2,561",78,£29.76,£2.64,11.3,61,1.3,40.3,81.00%,99.00%,6,25,4,2,3
+6502 Seaham Stockton Rd Express,Convenience North,NORTH EAST,"£1,838",60,£27.66,£2.51,11,44,1.4,41.9,82.00%,98.30%,7,28,4,2,1
+6507 Great Malvern Express,Convenience Central,MIDLANDS,"£5,045",144,£32.02,£3.21,10,86,1.7,31.3,90.20%,99.70%,4,20,3,2,2
+6508 Bristol Bell Hill Rd Express,Convenience South,SOUTH CENTRAL,"£2,666",88,£27.39,£2.51,10.9,72,1.2,31.7,95.50%,99.60%,6,17,4,1,4
+6511 Maidstone Loose Rd Express,Convenience South,SOUTH EAST,"£21,271",632,£30.63,£2.45,12.5,473,1.3,32.3,95.40%,98.80%,9,15,4,2,2
+6512 St Anne's Rd Express,Convenience North,NORTH WEST,"£1,274",35,£33.38,£2.74,12.2,24,1.5,47.3,76.50%,98.60%,5,35,4,3,1
+6516 Rayleigh Rd Express,Convenience Central,SOUTH EAST,"£5,741",188,£27.42,£2.44,11.2,133,1.4,30,96.30%,98.80%,6,15,4,2,3
+6517 Preston Friargate Express,Convenience North,NORTH WEST,"£4,729",137,£31.42,£2.69,11.7,107,1.3,32.2,97.10%,98.30%,11,14,3,2,2
+6518 Piccadilly York Express,Convenience North,NORTH EAST,"£4,611",138,£30.57,£2.47,12.4,106,1.3,32.9,95.50%,98.60%,10,13,4,1,5
+6519 Abingdon Oxford Rd Express,Convenience Central,SOUTH CENTRAL,"£6,039",180,£30.42,£2.63,11.6,132,1.4,30.9,93.90%,99.10%,7,15,4,2,3
+6524 Gateshead Carr Hill Rd Express,Convenience North,NORTH EAST,"£9,336",295,£28.67,£2.75,10.4,213,1.4,35,90.80%,98.20%,9,17,4,1,4
+6527 Crawley Haslett Ave Express,Convenience South,SOUTH EAST,"£12,291",377,£29.55,£2.66,11.1,248,1.5,27.3,99.50%,98.90%,7,11,3,2,4
+6529 Mirfield Queens Rd Express,Convenience North,NORTH EAST,"£2,049",57,£32.85,£2.50,13.2,48,1.2,19.6,100.00%,99.00%,5,7,3,3,1
+6532 Reading Tilehurst Express,Convenience South,SOUTH EAST,"£3,119",102,£27.56,£2.61,10.6,73,1.4,25.5,96.10%,97.30%,6,11,4,1,3
+6533 Bournemouth Dolphin Express,Convenience South,SOUTH CENTRAL,"£5,355",164,£29.62,£2.92,10.1,115,1.4,29.4,95.10%,99.30%,6,14,4,2,4
+6536 Longlands Rd Express,Convenience North,NORTH EAST,"£2,005",57,£32.02,£2.76,11.6,41,1.4,29.6,98.20%,99.10%,5,18,4,1,2
+6537 Cricklewood Broadway Express,Convenience London,GREATER LONDON,"£7,054",235,£27.01,£2.53,10.7,166,1.4,24.4,94.90%,99.10%,6,12,3,1,2
+6539 Glasgow Sauchiehall Street Express,Convenience North,WEST SCOTLAND,"£2,498",74,£30.90,£2.60,11.9,61,1.2,46.6,79.50%,98.60%,9,25,6,4,2
+6541 New Southgate Friern Express,Convenience London,GREATER LONDON,"£12,034",395,£27.35,£2.52,10.9,286,1.4,24.4,100.00%,98.10%,7,8,4,1,4
+6542 Woking Guildford Rd Express,Convenience South,SOUTH EAST,"£3,408",106,£28.99,£2.72,10.6,84,1.3,32.4,95.30%,99.30%,6,18,4,3,2
+6544 Denton Mancunian Rd Express,Convenience North,NORTH WEST,"£9,143",278,£29.92,£2.72,11,209,1.3,35,91.30%,98.60%,10,17,4,1,4
+6546 Stevenage Chells Express,Convenience Central,SOUTH EAST,"£17,262",538,£29.00,£2.49,11.6,385,1.4,23.1,98.90%,98.90%,6,8,3,2,3
+6549 Whelley Express,Convenience North,NORTH WEST,"£10,390",312,£30.29,£2.59,11.7,205,1.5,30.2,95.50%,98.50%,6,14,4,2,4
+6551 Haymarket Express,Convenience North,EAST SCOTLAND,"£2,527",58,£40.59,£3.18,12.8,40,1.5,38.3,80.70%,97.20%,9,21,4,2,2
+6552 Doagh Rd Express,NI Convenience,NORTHERN IRELAND,"£7,158",214,£30.35,£2.99,10.2,134,1.6,28.7,95.30%,98.60%,8,13,4,1,3
+6557 Queensferry Rd Express,Convenience North,EAST SCOTLAND,"£14,172",402,£32.22,£2.83,11.4,269,1.5,35,92.50%,99.40%,8,18,3,2,3
+6560 Camberwell New Rd Express,Convenience London,GREATER LONDON,"£2,745",92,£26.81,£2.71,9.9,74,1.2,29.7,91.50%,98.50%,6,16,4,1,2
+6565 Hitchin Station Lyon Express,Convenience Central,SOUTH EAST,"£4,645",142,£29.65,£3.02,9.8,100,1.4,24.9,98.60%,95.10%,5,8,5,2,4
+6566 Battersea Rd Express,Convenience London,GREATER LONDON,"£2,041",68,£26.88,£2.65,10.1,48,1.4,39.5,79.40%,98.60%,7,25,3,2,4
+6567 Brixton Coldharbour Ln Express,Convenience London,GREATER LONDON,"£3,578",121,£26.58,£2.35,11.3,90,1.3,32.2,86.70%,98.00%,5,18,4,2,3
+6569 Stafford Stone Rd Express,Convenience Central,MIDLANDS,"£9,600",289,£30.12,£2.81,10.7,200,1.4,23.7,99.00%,99.60%,7,9,4,2,3
+6570 Boldmere Rd Express,Convenience Central,MIDLANDS,"£3,763",116,£29.35,£2.93,10,76,1.5,24,97.40%,98.20%,6,9,4,2,3
+6575 South Norwood Hill Express,Convenience London,GREATER LONDON,"£5,262",180,£26.09,£2.73,9.5,126,1.4,21.4,98.40%,97.90%,6,6,4,1,4
+6576 Westway Hove Express,Convenience South,SOUTH EAST,"£15,762",500,£28.58,£2.51,11.4,345,1.4,28.3,95.30%,99.60%,8,14,3,1,2
+6577 Portsmouth Kingston Rd Express,Convenience South,SOUTH CENTRAL,"£4,695",146,£29.06,£2.86,10.2,103,1.4,23.2,100.00%,99.00%,4,10,4,3,3
+6579 Bedford Brickhill Dr Express,Convenience Central,SOUTH EAST,"£13,571",410,£29.99,£2.53,11.8,283,1.4,24.8,99.00%,99.30%,8,9,4,2,2
+6581 Harrow Greenhill Way Express,Convenience London,SOUTH EAST,"£2,565",92,£24.84,£2.48,10,63,1.5,28.8,96.70%,97.30%,9,13,3,2,2
+6582 Heston North Hyde lane Express,Convenience London,SOUTH EAST,"£7,352",245,£26.88,£2.26,11.9,181,1.4,31,93.50%,99.20%,7,16,4,1,2
+6585 South St Romford Express,Convenience London,SOUTH EAST,"£3,369",116,£25.83,£2.71,9.5,79,1.5,26.1,98.30%,98.80%,8,11,3,1,3
+6586 Letchworth Southfields Rd Express,Convenience Central,SOUTH EAST,"£11,264",368,£27.49,£2.95,9.3,237,1.6,29.5,93.00%,98.80%,7,14,3,2,3
+6589 Barnham Inn Express,Convenience South,SOUTH EAST,"£7,194",239,£26.98,£2.45,11,159,1.5,36.2,88.00%,98.90%,7,21,3,2,3
+6592 Wakefield Barnsley Rd Express,Convenience North,NORTH EAST,"£1,396",47,£26.77,£2.29,11.7,42,1.1,36.6,90.70%,99.70%,7,23,4,1,2
+6593 Marsh Wall Express,Convenience London,GREATER LONDON,£654,25,£23.06,£2.64,8.7,19,1.3,22.3,100.00%,98.90%,4,10,3,2,3
+6594 Wolseley Road Express,Convenience South,SOUTH WEST,"£13,914",460,£27.21,£2.84,9.6,306,1.5,33.1,93.00%,99.20%,10,17,3,1,2
+6597 Newcastle Chapel House Express,Convenience North,NORTH EAST,"£5,172",150,£31.46,£2.97,10.6,110,1.4,32.6,92.70%,98.60%,8,13,3,2,6
+6598 Lordswood Rd Express,Convenience South,SOUTH CENTRAL,"£4,978",149,£30.37,£2.69,11.3,101,1.5,23.7,99.30%,99.30%,5,10,4,2,2
+6600 Romford Brentwood Rd Express,Convenience London,SOUTH EAST,"£9,348",323,£25.81,£2.58,10,255,1.3,27.1,97.50%,97.20%,8,11,4,1,3
+6601 Whitechapel Fieldgate Express,Convenience London,GREATER LONDON,"£1,408",47,£26.98,£2.38,11.3,36,1.3,39.6,88.60%,100.00%,7,22,6,2,3
+6602 Handsworth Oxhill Rd Express,Convenience Central,MIDLANDS,"£5,295",173,£27.43,£2.57,10.7,125,1.4,29,97.70%,98.80%,9,10,3,1,6
+6603 Newcastle-under-lyme Express,Convenience Central,MIDLANDS,"£6,838",204,£30.52,£2.66,11.5,137,1.5,23.9,99.50%,98.60%,7,8,3,2,4
+6605 Mossley Rd Express,Convenience North,NORTH WEST,"£11,627",359,£29.35,£2.64,11.1,252,1.4,24.7,99.40%,98.80%,8,8,4,2,3
+6606 Whickham Express,Convenience North,NORTH EAST,"£3,411",107,£28.87,£2.75,10.5,64,1.7,48,78.50%,98.70%,7,32,3,2,4
+6607 Gosport Forton Rd Express,Convenience South,SOUTH CENTRAL,"£5,016",155,£29.26,£2.52,11.6,124,1.3,36.1,87.70%,99.30%,5,23,3,2,3
+6610 Didsbury Wilmslow Rd Express,Convenience North,NORTH WEST,"£5,035",152,£30.04,£2.60,11.6,119,1.3,31.4,92.70%,98.00%,7,16,4,1,3
+6611 Walthamstow Forest Rd Express,Convenience London,GREATER LONDON,"£6,665",234,£25.32,£2.67,9.5,146,1.6,22.1,97.00%,98.90%,5,10,3,1,2
+6613 Holmefield Rd Abl Express,Convenience North,NORTH WEST,"£5,033",143,£32.18,£2.56,12.6,107,1.3,33,93.00%,97.70%,7,17,4,1,4
+6614 Greenford Lady Margaret Rd Express,Convenience London,SOUTH EAST,"£3,492",124,£25.13,£2.75,9.1,95,1.3,32.9,91.90%,98.00%,7,14,5,1,5
+6615 Dewsbury Leeds Rd Express,Convenience North,NORTH EAST,"£4,432",136,£29.59,£2.77,10.7,87,1.6,26.3,94.80%,98.60%,8,13,3,1,2
+6616 West Drayton Station Rd Express,Convenience London,SOUTH EAST,"£12,991",403,£29.13,£2.86,10.2,247,1.6,21.5,99.00%,99.10%,6,8,3,1,3
+6617 Edgware Mollisonway Express,Convenience London,SOUTH EAST,"£2,709",99,£24.17,£3.07,7.9,62,1.6,24.6,99.00%,98.40%,6,12,3,1,3
+6624 Priorswood Rd Express,Convenience South,SOUTH CENTRAL,"£3,661",107,£31.01,£2.75,11.3,85,1.3,34,90.70%,99.80%,5,20,3,2,3
+6626 Hoddesdon Burford St Express,Convenience Central,SOUTH EAST,"£9,768",302,£29.21,£2.55,11.4,203,1.5,33.3,92.40%,99.10%,8,17,4,2,2
+6629 Chelmsford Moulsham St Express,Convenience Central,SOUTH EAST,"£5,422",153,£32.37,£2.87,11.3,108,1.4,41.9,80.30%,99.60%,6,27,3,3,2
+6630 Chatham Lords Wood Express,Convenience South,SOUTH EAST,"£7,506",238,£28.42,£2.44,11.6,176,1.4,32.5,95.80%,98.50%,7,17,4,2,3
+6631 Ditherington Rd Express,Convenience Central,MIDLANDS,"£7,276",221,£29.79,£2.60,11.4,164,1.3,34,90.50%,99.10%,7,19,3,2,3
+6637 Croydon South End Express,Convenience London,SOUTH EAST,"£5,222",184,£25.37,£2.69,9.4,131,1.4,19.6,99.40%,98.60%,5,6,3,3,2
+6639 Stratford High St Express,Convenience London,GREATER LONDON,"£6,866",221,£28.13,£2.46,11.5,170,1.3,28.7,93.20%,99.50%,8,13,2,2,3
+6640 Dagenham Shafter Rd Express,Convenience London,SOUTH EAST,"£2,305",88,£23.07,£2.48,9.3,69,1.3,23.9,97.80%,96.80%,5,10,4,1,3
+6641 Leeds Burley Rd Express,Convenience North,NORTH EAST,"£1,371",50,£24.46,£2.09,11.7,44,1.1,29.6,93.90%,99.80%,7,13,4,2,4
+6642 Rugby Helvelyn Way Express,Convenience Central,MIDLANDS,"£2,629",91,£25.80,£2.78,9.3,71,1.3,29.7,92.00%,99.00%,5,18,3,1,3
+6644 Hoyland Superstore,Large North,NORTH EAST,"£4,180",119,£32.13,£2.37,13.6,95,1.3,36.4,90.70%,97.40%,8,16,7,2,4
+6650 Ramsgate High St Express,Convenience South,SOUTH EAST,"£11,029",335,£29.87,£2.79,10.7,224,1.5,24.8,97.60%,99.80%,5,11,3,2,3
+6656 Grimsby Express,Convenience North,MIDLANDS,"£8,129",270,£27.00,£2.41,11.2,196,1.4,25.6,98.20%,97.80%,7,10,4,2,3
+6657 Newquay East Street Express,Convenience South,SOUTH WEST,£705,25,£25.16,£2.78,9,21,1.2,62,50.00%,99.00%,7,45,3,2,6
+6658 Roseburn Express,Convenience North,EAST SCOTLAND,"£3,439",100,£31.42,£2.70,11.6,65,1.5,35.3,92.00%,98.10%,11,17,4,1,2
+6659 Crawley Betts Way Express,Convenience South,SOUTH EAST,"£2,340",84,£24.79,£2.56,9.7,58,1.4,33.4,97.60%,99.20%,7,20,3,2,2
+6660 Poole Wallisdown Rd Express,Convenience South,SOUTH CENTRAL,"£3,132",110,£25.34,£2.35,10.8,75,1.5,26.9,98.20%,99.00%,6,14,4,1,2
+6661 Ashton Under Lyne Oldham Rd Express,Convenience North,NORTH WEST,"£5,080",150,£30.84,£2.69,11.5,121,1.2,35.3,91.80%,98.10%,10,16,4,1,4
+6664 Angel Hill Express,Convenience London,SOUTH EAST,"£12,603",394,£28.92,£2.87,10.1,284,1.4,24.1,99.50%,98.90%,7,10,3,1,3
+6665 Green Gate Barking Rd Express,Convenience London,GREATER LONDON,"£6,747",236,£25.49,£2.71,9.4,160,1.5,27.2,95.90%,98.60%,7,12,4,1,3
+6666 Dartford E Hill Express,Convenience London,SOUTH EAST,"£7,235",238,£27.39,£2.72,10.1,171,1.4,27.6,96.60%,98.20%,7,14,3,1,3
+6668 New Cavendish Express,Convenience London,GREATER LONDON,£412,12,£31.05,£2.23,13.9,9,1.3,21.7,100.00%,99.10%,4,10,3,3,2
+6673 Southfields Replingham Rd Express,Convenience London,GREATER LONDON,£734,27,£24.26,£2.47,9.8,22,1.2,19.6,100.00%,94.80%,3,9,2,1,5
+6675 Bexley Blackfen Rd Express,Convenience London,SOUTH EAST,"£6,976",247,£25.27,£2.55,9.9,152,1.6,23.8,98.00%,98.90%,5,12,4,1,2
+6678 Leicester Rd Loughborough Express,Convenience Central,MIDLANDS,"£14,063",435,£29.27,£2.72,10.8,308,1.4,24.1,99.10%,99.60%,7,8,3,2,3
+6679 Cumberland Service Station Express,Convenience South,SOUTH CENTRAL,"£4,865",146,£30.26,£2.58,11.7,108,1.4,21.5,99.30%,99.70%,5,7,4,2,3
+6682 Southampton Butts Rd Express,Convenience South,SOUTH CENTRAL,"£15,212",496,£27.61,£2.63,10.5,353,1.4,29,97.40%,97.90%,6,9,4,2,7
+6685 Birmingham Alcester Express,Convenience Central,MIDLANDS,"£3,511",94,£34.35,£2.74,12.5,62,1.5,19.5,100.00%,98.80%,5,7,3,2,2
+6686 Surbiton Hook Rd Express,Convenience London,SOUTH EAST,"£3,934",116,£30.89,£2.59,11.9,88,1.3,23.8,99.10%,99.40%,6,11,3,1,3
+6687 Upper Shoreham Express,Convenience South,SOUTH EAST,"£11,924",366,£29.63,£2.72,10.9,266,1.4,27.7,97.50%,99.30%,7,13,4,1,3
+6688 Sheffield Church St Express,Convenience North,NORTH EAST,"£2,263",76,£26.84,£2.70,9.9,53,1.4,33.9,94.50%,95.60%,12,14,4,2,2
+6690 Worcester Park Express,Convenience London,SOUTH EAST,"£5,441",173,£28.41,£2.83,10,126,1.4,23.6,98.90%,98.60%,5,11,3,1,3
+6693 Wallasey King St Express,Convenience North,NORTH WEST,"£2,887",93,£27.83,£2.49,11.2,63,1.5,23.6,96.80%,98.60%,3,13,4,1,3
+6694 Edmonton Express,Convenience London,SOUTH EAST,"£10,050",320,£28.28,£2.59,10.9,227,1.4,32.9,95.00%,99.10%,10,13,3,1,5
+6696 Barry Rd Express,Convenience South,WALES,"£8,465",239,£32.38,£2.59,12.5,159,1.5,23.5,99.60%,99.30%,6,9,4,2,3
+6697 Hounslow Hanworth Express,Convenience London,SOUTH EAST,"£3,708",120,£27.78,£2.94,9.5,86,1.4,20.5,99.20%,99.10%,5,11,3,1,2
+6698 Sutton Lower Rd Express,Convenience London,SOUTH EAST,"£4,209",142,£26.59,£2.59,10.3,94,1.5,22.8,97.90%,99.30%,5,10,3,1,4
+6699 Northumberland Express,Convenience London,SOUTH EAST,"£3,907",132,£26.56,£2.53,10.5,101,1.3,24.8,99.20%,98.00%,7,10,4,1,3
+6704 Sheffield Broomhill Express,Convenience North,NORTH EAST,"£2,623",66,£36.76,£2.93,12.5,55,1.2,38.3,87.70%,98.20%,8,22,3,2,3
+6707 Kensal Rise Chamberlayne Rd Express,Convenience London,GREATER LONDON,"£1,886",61,£27.90,£2.77,10.1,44,1.4,21.1,98.30%,98.90%,4,11,3,1,2
+6708 Dundee Nethergate Express,Convenience North,EAST SCOTLAND,"£1,832",59,£27.98,£2.34,11.9,51,1.2,40.1,86.70%,99.40%,8,22,4,3,4
+6709 Deptford Express,Convenience London,GREATER LONDON,"£4,719",152,£28.04,£2.62,10.7,105,1.4,32,90.30%,99.40%,6,17,4,1,3
+6711 Liverpool Leathers Ln Express,Convenience North,NORTH WEST,"£4,683",151,£27.73,£2.88,9.6,109,1.4,33.3,92.80%,98.20%,7,16,4,2,4
+6715 Gateshead Express,Convenience North,NORTH EAST,"£6,029",189,£29.00,£2.70,10.8,153,1.2,38.2,80.70%,98.40%,8,21,4,1,4
+6716 Goose Pub Kingswin Express,Convenience Central,MIDLANDS,"£6,181",189,£29.62,£2.50,11.9,130,1.5,23.4,98.90%,98.90%,7,9,3,1,3
+6719 Sudbury Express,Convenience London,SOUTH EAST,"£2,911",106,£24.22,£2.73,8.9,71,1.5,25.6,95.30%,98.20%,7,11,4,1,4
+6720 Princess Dr Express,Convenience North,NORTH WEST,"£11,970",399,£27.03,£2.69,10.1,265,1.5,30.9,94.60%,96.90%,8,14,4,1,4
+6724 Chelmsford Marsham Arms Express,Convenience Central,SOUTH EAST,"£5,325",157,£30.88,£2.41,12.8,114,1.4,33.7,87.20%,99.10%,6,21,3,2,1
+6727 Bradmore Express,Convenience Central,MIDLANDS,"£3,691",118,£28.21,£2.58,10.9,84,1.4,19.1,100.00%,99.30%,5,6,4,2,2
+6728 Caerphilly Brynhyfryd Rd Express,Convenience South,WALES,"£6,453",199,£29.34,£2.56,11.5,139,1.4,27.7,96.50%,99.40%,7,12,4,2,3
+6731 Hillhouse Express,Convenience North,WEST SCOTLAND,"£7,896",241,£29.77,£2.55,11.7,173,1.4,32.7,96.30%,98.30%,7,14,4,2,4
+6734 Westbury On Trym Express,Convenience South,SOUTH CENTRAL,"£1,374",44,£28.21,£3.16,8.9,26,1.7,24.6,100.00%,99.30%,6,13,2,1,2
+6737 Halifax School Ln Express,Convenience North,NORTH EAST,"£6,517",191,£31.05,£2.94,10.6,139,1.4,27.6,95.30%,98.60%,7,12,3,2,3
+6738 Walton Hersham Rd Express,Convenience London,SOUTH EAST,"£6,886",224,£27.67,£2.67,10.4,156,1.4,26.7,96.90%,95.90%,6,13,4,1,3
+6739 Welwyn Garden City Express,Convenience Central,SOUTH EAST,"£13,369",418,£28.95,£2.63,11,293,1.4,23.5,99.50%,99.40%,7,10,3,2,2
+6740 Marine Wharf Express,Convenience London,GREATER LONDON,"£9,606",310,£27.93,£2.55,11,251,1.2,25.8,97.40%,98.20%,7,11,4,2,2
+6741 Willenhall Rd Express,Convenience Central,MIDLANDS,"£7,908",234,£30.79,£2.63,11.7,177,1.3,24.6,97.00%,99.00%,7,9,4,1,3
+6742 Windsor Express,Convenience South,SOUTH EAST,"£9,308",267,£31.69,£2.71,11.7,188,1.4,22.5,99.30%,99.40%,6,8,4,2,2
+6743 Stanningley Half Mile Ln Express,Convenience North,NORTH EAST,"£5,807",178,£29.47,£3.08,9.6,120,1.5,26.5,96.60%,99.10%,8,11,3,2,2
+6747 Chapel Ln Express,Convenience South,SOUTH EAST,"£1,683",63,£23.60,£2.68,8.8,43,1.5,21.7,100.00%,98.40%,5,10,3,2,1
+6754 Cardiff Countisbury Express,Convenience South,WALES,"£16,259",500,£29.51,£2.79,10.6,327,1.5,24.8,98.60%,98.90%,8,9,3,2,3
+6756 Mill Ln Express,Convenience North,NORTH WEST,"£7,181",231,£28.05,£2.62,10.7,166,1.4,29.8,95.60%,97.40%,8,12,4,1,4
+6759 East Kilbride Express,Convenience North,WEST SCOTLAND,"£12,605",347,£33.28,£2.83,11.7,242,1.4,34.1,92.20%,98.00%,9,16,5,2,3
+6760 Woodside Express,Convenience North,WEST SCOTLAND,"£12,786",368,£31.67,£2.52,12.6,257,1.4,30.8,97.00%,98.70%,7,13,5,3,4
+6761 Shiremoor Cobalt Express,Convenience North,NORTH EAST,"£2,099",62,£30.82,£2.96,10.4,50,1.2,31.5,96.80%,98.20%,9,16,4,1,2
+6765 Croydon Saffron Square Express,Convenience London,SOUTH EAST,"£2,501",83,£27.15,£2.65,10.2,64,1.3,30.9,95.30%,97.60%,7,15,4,2,3
+6767 Liverpool Dale St Express,Convenience North,NORTH WEST,£128,6,£17.98,£2.29,7.8,6,1,47,80.00%,100.00%,6,31,6,1,4
+6772 Fazakerley Longmoor Express,Convenience North,NORTH WEST,"£3,094",110,£24.94,£2.45,10.2,83,1.3,31,98.20%,97.70%,8,14,4,1,3
+6774 Ashford High St Express,Convenience South,SOUTH EAST,"£11,182",367,£27.32,£2.43,11.2,268,1.4,32,95.70%,99.50%,11,13,3,2,3
+6776 Dagenham Oxlow Ln Express,Convenience London,SOUTH EAST,"£5,664",188,£26.94,£2.68,10,123,1.5,20.4,99.50%,98.50%,5,10,3,1,2
+6779 Welling Upper Wickham Express,Convenience London,SOUTH EAST,"£4,373",156,£24.92,£2.68,9.3,110,1.4,24,98.10%,97.40%,5,10,4,1,4
+6782 Leicester Lutterworth Express,Convenience Central,MIDLANDS,"£3,507",112,£28.23,£2.76,10.2,79,1.4,26.4,100.00%,97.30%,9,10,4,1,3
+6787 Clerkenwell Central St Express,Convenience London,GREATER LONDON,"£2,102",62,£30.80,£2.78,11.1,41,1.5,26.2,91.90%,99.00%,5,12,4,2,3
+6789 Poole Ringwood Rd Express,Convenience South,SOUTH CENTRAL,"£3,561",123,£25.70,£2.45,10.5,94,1.3,30.1,95.10%,99.20%,5,18,3,2,1
+6790 Summerstown Garratt Express,Convenience London,GREATER LONDON,"£1,816",58,£28.26,£2.94,9.6,38,1.5,27.6,91.50%,97.00%,5,16,4,1,2
+6792 Gloucester Witcombe Express,Convenience Central,SOUTH CENTRAL,"£3,094",94,£29.70,£2.97,10,65,1.4,32.3,93.60%,98.20%,5,19,4,2,2
+6793 Warley Hill Express,Convenience Central,SOUTH EAST,"£8,719",288,£27.21,£2.61,10.4,208,1.4,26.8,99.30%,95.60%,5,13,4,2,3
+6795 Eastleigh Bishopstoke Express,Convenience South,SOUTH CENTRAL,"£4,504",121,£34.13,£2.71,12.6,82,1.5,28.6,94.20%,97.70%,6,12,5,2,4
+6798 Barnsley Huddersfield Rd Express,Convenience North,NORTH EAST,"£5,340",169,£28.47,£2.79,10.2,121,1.4,28.6,99.40%,98.20%,7,11,6,2,3
+6799 Sale Moor Norris Express,Convenience North,NORTH WEST,"£4,383",122,£33.05,£2.59,12.8,88,1.4,33.3,89.80%,97.60%,5,20,4,1,4
+6803 New North Rd Express,Convenience London,GREATER LONDON,"£2,393",73,£29.62,£3.06,9.7,51,1.4,24.3,97.30%,98.50%,4,13,4,1,2
+6809 Telford Hadley Centre Express,Convenience Central,MIDLANDS,"£7,178",236,£27.32,£2.56,10.7,155,1.5,28.1,96.70%,97.90%,7,12,3,2,3
+6811 Havers Ln Express,Convenience Central,SOUTH EAST,"£7,456",239,£28.03,£2.66,10.5,171,1.4,34.3,86.90%,99.20%,6,21,3,2,3
+6813 Southampton Witts Express,Convenience South,SOUTH CENTRAL,"£2,967",99,£26.93,£2.66,10.1,61,1.6,26,97.90%,98.40%,4,14,4,1,2
+6817 High Wycombe Hatters Ln Express,Convenience South,SOUTH EAST,"£5,738",178,£29.12,£2.67,10.9,128,1.4,25.2,98.40%,99.40%,5,11,3,3,3
+6818 Oxford Rd Express,Convenience South,SOUTH EAST,"£6,764",202,£30.37,£2.77,10.9,140,1.4,23.6,98.50%,99.50%,7,10,3,1,2
+6819 Gloucester Southgate Express,Convenience Central,SOUTH CENTRAL,£790,26,£27.10,£2.27,11.9,20,1.3,29,100.00%,99.10%,4,16,4,3,2
+6824 Great Northern Rd Express,Convenience North,EAST SCOTLAND,"£13,062",372,£32.17,£2.84,11.3,278,1.3,55.2,66.00%,97.70%,8,35,4,3,6
+6826 Edgware Glengall Rd Express,Convenience London,SOUTH EAST,"£4,967",162,£27.68,£2.50,11.1,115,1.4,29.4,94.00%,99.10%,7,15,3,1,3
+6827 Old Rd Express,Convenience South,SOUTH EAST,"£9,216",287,£29.07,£2.65,11,182,1.6,31.1,93.40%,99.30%,6,18,3,2,2
+6830 Hythe Langdown Lawn Express,Convenience South,SOUTH CENTRAL,"£7,339",257,£25.46,£2.71,9.4,142,1.8,38.9,79.90%,99.00%,4,27,3,2,3
+6832 Luton Eaton Green Express,Convenience Central,SOUTH EAST,"£5,017",150,£30.50,£2.52,12.1,100,1.5,22,100.00%,99.80%,6,8,4,2,2
+6834 Reading Rd Express,Convenience South,SOUTH EAST,"£3,261",112,£25.99,£2.43,10.7,72,1.6,27.1,100.00%,100.00%,7,15,3,1,2
+6835 Canterbury Rd Express,Convenience South,SOUTH EAST,"£4,113",121,£30.93,£2.45,12.6,90,1.3,32.5,92.60%,99.30%,6,18,3,2,4
+6837 North Kensington Express,Convenience London,GREATER LONDON,"£3,388",112,£27.24,£2.60,10.5,80,1.4,30.7,93.80%,100.00%,7,17,3,2,1
+6840 Southampton Thorn Express,Convenience South,SOUTH CENTRAL,"£5,601",182,£27.73,£2.44,11.4,131,1.4,25,97.30%,99.30%,6,10,3,2,4
+6841 Southsea Express,Convenience South,SOUTH CENTRAL,"£2,828",88,£29.04,£2.38,12.2,65,1.4,22.9,100.00%,98.80%,4,8,5,3,3
+6843 Sydenham Rd Express,Convenience London,GREATER LONDON,"£5,529",174,£28.71,£2.71,10.6,123,1.4,23.6,98.30%,99.10%,5,12,4,1,2
+6845 Tottenham W Green Express,Convenience London,GREATER LONDON,"£3,324",116,£25.57,£2.29,11.1,90,1.3,33.4,92.00%,99.00%,7,18,4,1,3
+6848 Congleton W Rd Express,Convenience Central,MIDLANDS,"£9,611",294,£29.50,£3.05,9.7,197,1.5,27.1,96.00%,99.20%,6,12,3,2,4
+6850 Stenhouse Place Express,Convenience North,EAST SCOTLAND,"£13,653",391,£31.79,£2.90,11,276,1.4,33.8,92.60%,99.00%,7,19,4,2,2
+6851 Herne Hill Express,Convenience London,GREATER LONDON,"£2,234",70,£28.79,£2.48,11.6,56,1.3,30.3,97.10%,97.20%,6,15,4,1,3
+6852 Hurst Rd Express,Convenience Central,MIDLANDS,"£6,540",218,£26.86,£2.72,9.9,147,1.5,23.7,98.20%,98.30%,6,11,3,1,2
+6853 Chesterfield Whittington Express,Convenience North,MIDLANDS,"£4,834",140,£31.44,£2.52,12.5,98,1.4,40.2,87.10%,98.30%,7,23,4,2,4
+6854 Dominion Express,Convenience Central,MIDLANDS,"£3,182",86,£34.01,£2.77,12.3,59,1.5,29.5,98.80%,98.90%,7,15,3,2,2
+6856 Marsh Bellows Rd Express,Convenience North,NORTH EAST,"£4,348",127,£31.19,£2.41,12.9,104,1.2,22.6,99.20%,98.80%,6,9,3,2,3
+6858 Cannock Stafford Express,Convenience Central,MIDLANDS,"£7,693",230,£30.38,£2.47,12.3,174,1.3,26.5,98.20%,98.00%,8,11,4,1,2
+6864 Stoddard St Express,Convenience North,NORTH EAST,"£2,152",68,£28.84,£2.52,11.5,56,1.2,45.3,74.60%,99.30%,7,30,3,1,3
+6871 Edinburgh Dundas Express,Convenience North,EAST SCOTLAND,"£5,162",133,£35.74,£2.91,12.3,104,1.3,40.5,84.80%,99.30%,8,24,4,3,2
+6872 Rockbank Place Express,Convenience North,WEST SCOTLAND,"£11,267",310,£33.28,£2.77,12,213,1.5,35.1,93.20%,99.00%,8,15,6,3,4
+6876 Willenhall High Rd Express,Convenience Central,MIDLANDS,"£8,752",275,£28.77,£2.55,11.3,171,1.6,25.6,99.30%,98.20%,9,8,4,1,3
+6880 Oxford London Rd Express,Convenience Central,SOUTH CENTRAL,"£7,722",249,£27.89,£2.54,11,181,1.4,30,94.80%,100.00%,9,13,3,1,3
+6893 Rosewell Rd Express,Convenience North,EAST SCOTLAND,"£13,401",379,£32.31,£2.66,12.1,264,1.4,35.2,91.80%,98.70%,8,19,4,2,2
+6896 Golf Links Rd Express,Convenience South,SOUTH WEST,"£2,006",69,£26.18,£2.54,10.3,58,1.2,46.4,80.60%,98.30%,6,31,4,2,3
+6897 Furze Platt Rd Express,Convenience South,SOUTH EAST,"£2,326",77,£27.05,£2.68,10.1,59,1.3,26.9,100.00%,97.00%,5,12,3,2,5
+6898 Isle Of Dogs Manchester Rd Express,Convenience London,GREATER LONDON,"£1,184",42,£25.04,£2.49,10.1,38,1.1,28.6,95.20%,97.20%,8,12,5,3,2
+6981 Bromley High St Express,Convenience London,SOUTH EAST,"£5,362",167,£29.03,£2.62,11.1,125,1.3,26.4,97.60%,97.00%,7,12,4,1,2
+6999 Dorking Reigate Rd Express,Convenience South,SOUTH EAST,"£3,891",113,£31.43,£2.74,11.5,82,1.4,40.2,85.50%,99.00%,7,24,4,2,3
