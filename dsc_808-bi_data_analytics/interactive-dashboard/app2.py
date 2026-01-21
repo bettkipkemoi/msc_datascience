@@ -3,6 +3,8 @@ import pandas as pd
 import janitor
 import plotly as plt
 import plotly.express as px
+import requests
+import csv
 
 st.set_page_config(
     page_title="Convenience Sales Dashboard",
@@ -13,7 +15,7 @@ st.title("Convenience Sales Dashboard")
 
 # load data
 #@st.cache_data
-df = pd.read_csv("/Users/bett/downloads/202445.csv", engine='python', encoding='unicode-escape')
+df = pd.read_csv("202445.csv", engine='python', encoding='unicode-escape')
 df = df.clean_names()
 print(df.columns)
 #remove pounds sign from total sales, avg_basket_size_prod_sales_, and aip columns and convert to numeric
